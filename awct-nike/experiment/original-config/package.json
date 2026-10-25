@@ -1,0 +1,19 @@
+{
+  "name": "nike-local-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack -p 3001",
+    "build": "next build --webpack",
+    "lint": "eslint src",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run lint && npm run typecheck && npm run build",
+    "start": "next start -p 3001"
+  },
+  "dependencies": {
+    "next": "16.3.5",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "lucide-react": "^1.6.0"
+  }
+}

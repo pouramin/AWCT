@@ -1,0 +1,426 @@
+{
+  "site": "pouramin",
+  "routes": [
+    "/"
+  ],
+  "port": 3000,
+  "assetFiles": 1,
+  "researchFiles": 14,
+  "checkedLiteralAssetReferences": 1,
+  "missingLocalAssets": [],
+  "missingImportsOrDependencies": [],
+  "implementationByteMismatches": [],
+  "credentialOrMachinePathFindings": [],
+  "dependencyLockStrategy": "Original full base lock graph, updated root metadata; Apple adds original dependency-free hls.js 1.7.3 entry.",
+  "npmInstallOrBuildPerformed": false,
+  "limitations": "Only the homepage is cloned. Other portfolio pages link to the original website. Activity/video cards use captured snapshots.",
+  "originalToExportFiles": [
+    {
+      "original": "src/app/favicon.ico",
+      "exported": "awct-pouramin/src/app/favicon.ico",
+      "sha256": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932",
+      "originalSha256": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/app/globals.css",
+      "exported": "awct-pouramin/src/app/globals.css",
+      "sha256": "892e89dc10652d77a3340ba1d66301225482e82bf7d1ada3a1aed3c7d98fc1e4",
+      "originalSha256": "892e89dc10652d77a3340ba1d66301225482e82bf7d1ada3a1aed3c7d98fc1e4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/app/layout.tsx",
+      "exported": "awct-pouramin/src/app/layout.tsx",
+      "sha256": "2c9163c90d040211fa3b35d3453402222ba0cf8e8e1089a2df735cf245b1b413",
+      "originalSha256": "2c9163c90d040211fa3b35d3453402222ba0cf8e8e1089a2df735cf245b1b413",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/app/page.tsx",
+      "exported": "awct-pouramin/src/app/page.tsx",
+      "sha256": "e3ff1bb1a22f224b2c6b4a9cce8d639c14a3f91513344ab07f3c019be02d4d19",
+      "originalSha256": "e3ff1bb1a22f224b2c6b4a9cce8d639c14a3f91513344ab07f3c019be02d4d19",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/FeaturedProjects.tsx",
+      "exported": "awct-pouramin/src/components/sites/pouramin/FeaturedProjects.tsx",
+      "sha256": "c3256efeffcc98d28be8edfaeff7685ed8eabaf11907be5daaa744b983de2f62",
+      "originalSha256": "c3256efeffcc98d28be8edfaeff7685ed8eabaf11907be5daaa744b983de2f62",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/Footer.tsx",
+      "exported": "awct-pouramin/src/components/sites/pouramin/Footer.tsx",
+      "sha256": "d7c696d964ac99abb6b6fb6985765178c00cc1c94a56ad345ed0ad0599019c03",
+      "originalSha256": "d7c696d964ac99abb6b6fb6985765178c00cc1c94a56ad345ed0ad0599019c03",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/Header.tsx",
+      "exported": "awct-pouramin/src/components/sites/pouramin/Header.tsx",
+      "sha256": "531f018149923c72b873ac3ac4ece3d22b562345a14c06bae2d87d2ece61d866",
+      "originalSha256": "531f018149923c72b873ac3ac4ece3d22b562345a14c06bae2d87d2ece61d866",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/Hero.tsx",
+      "exported": "awct-pouramin/src/components/sites/pouramin/Hero.tsx",
+      "sha256": "9ae297d7984abd551da4299e25c893129b549e1f59763e0c59d5b9de65ebd1ac",
+      "originalSha256": "9ae297d7984abd551da4299e25c893129b549e1f59763e0c59d5b9de65ebd1ac",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/Portfolio.tsx",
+      "exported": "awct-pouramin/src/components/sites/pouramin/Portfolio.tsx",
+      "sha256": "c7962d26237ea7ae999e34baeb40405a280277ad06b9c474bb0ddfdec2d997da",
+      "originalSha256": "c7962d26237ea7ae999e34baeb40405a280277ad06b9c474bb0ddfdec2d997da",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/pouramin.css",
+      "exported": "awct-pouramin/src/components/sites/pouramin/pouramin.css",
+      "sha256": "0662b7a5c72676809ac3da26d8bc20742a5a83a2c62ebfb75591ca7858ae6bf1",
+      "originalSha256": "0662b7a5c72676809ac3da26d8bc20742a5a83a2c62ebfb75591ca7858ae6bf1",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/Principles.tsx",
+      "exported": "awct-pouramin/src/components/sites/pouramin/Principles.tsx",
+      "sha256": "717169018578d72be9fd02a2d5e93df2eaaa697d0bce2092e6ef25ed5888a55d",
+      "originalSha256": "717169018578d72be9fd02a2d5e93df2eaaa697d0bce2092e6ef25ed5888a55d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/Support.tsx",
+      "exported": "awct-pouramin/src/components/sites/pouramin/Support.tsx",
+      "sha256": "f77ee45b9c58ffe4f1876acd42589dbf2c9598edd4685d404793054df88d1dc4",
+      "originalSha256": "f77ee45b9c58ffe4f1876acd42589dbf2c9598edd4685d404793054df88d1dc4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/sites/pouramin/Workspace.tsx",
+      "exported": "awct-pouramin/src/components/sites/pouramin/Workspace.tsx",
+      "sha256": "5ef0bae3e2b50b557565fc9f6fda20fb9626d79d8f29951bb048fce8efee3552",
+      "originalSha256": "5ef0bae3e2b50b557565fc9f6fda20fb9626d79d8f29951bb048fce8efee3552",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/components/ui/button.tsx",
+      "exported": "awct-pouramin/src/components/ui/button.tsx",
+      "sha256": "d8af2a7cdec17d67f740d367af0804d54802de5cea6471f1ab11259a1442c7fa",
+      "originalSha256": "d8af2a7cdec17d67f740d367af0804d54802de5cea6471f1ab11259a1442c7fa",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/hooks/.gitkeep",
+      "exported": "awct-pouramin/src/hooks/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/lib/utils.ts",
+      "exported": "awct-pouramin/src/lib/utils.ts",
+      "sha256": "74a147991a119f1c4cdc25a4d9b22713632fa32eb136e55ab6939b006d71b9d6",
+      "originalSha256": "74a147991a119f1c4cdc25a4d9b22713632fa32eb136e55ab6939b006d71b9d6",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "src/types/.gitkeep",
+      "exported": "awct-pouramin/src/types/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "originalSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "public/sites/pouramin/favicon.svg",
+      "exported": "awct-pouramin/public/sites/pouramin/favicon.svg",
+      "sha256": "00598fb8428e1091e029a1950e6389b46952039769f5e81d16eedae828ac432f",
+      "originalSha256": "00598fb8428e1091e029a1950e6389b46952039769f5e81d16eedae828ac432f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/clone-desktop-1440x900.png",
+      "exported": "awct-pouramin/docs/research/pouramin/clone-desktop-1440x900.png",
+      "sha256": "f268f2502b70e038249eb8f4ebcd02f6a5b4946528f44b2771c5828d9136ee06",
+      "originalSha256": "f268f2502b70e038249eb8f4ebcd02f6a5b4946528f44b2771c5828d9136ee06",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/clone-desktop-full.png",
+      "exported": "awct-pouramin/docs/research/pouramin/clone-desktop-full.png",
+      "sha256": "2189168537daf7909af9641d70a1e063e085e8bd887091cec4b3353c9e638ea8",
+      "originalSha256": "2189168537daf7909af9641d70a1e063e085e8bd887091cec4b3353c9e638ea8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/clone-mobile-390x844.png",
+      "exported": "awct-pouramin/docs/research/pouramin/clone-mobile-390x844.png",
+      "sha256": "398b9de523c5aee55a91a7b38660098051f2794adbcb9fe8cc37590800d001c6",
+      "originalSha256": "398b9de523c5aee55a91a7b38660098051f2794adbcb9fe8cc37590800d001c6",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/clone-mobile-full.png",
+      "exported": "awct-pouramin/docs/research/pouramin/clone-mobile-full.png",
+      "sha256": "972bf5f55029431f2fb38ef43534881fc13d72ac4c5da267ddcf88ad86cacacb",
+      "originalSha256": "972bf5f55029431f2fb38ef43534881fc13d72ac4c5da267ddcf88ad86cacacb",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/comparison-desktop.png",
+      "exported": "awct-pouramin/docs/research/pouramin/comparison-desktop.png",
+      "sha256": "960c2695d2f788df0bae7593521c218bee7d5c84b2c4d1fff42fd3c180228e11",
+      "originalSha256": "960c2695d2f788df0bae7593521c218bee7d5c84b2c4d1fff42fd3c180228e11",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/comparison-mobile.png",
+      "exported": "awct-pouramin/docs/research/pouramin/comparison-mobile.png",
+      "sha256": "4c3565919b03e772b6a9aad78dc6072c43f7cdc2039f8c089a9222a79c03321d",
+      "originalSha256": "4c3565919b03e772b6a9aad78dc6072c43f7cdc2039f8c089a9222a79c03321d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/README.md",
+      "exported": "awct-pouramin/docs/research/pouramin/README.md",
+      "sha256": "33b14a957d81f3d0a6fcaf1a1a48676abeb2192248e3e0f1bb727e0f1f644521",
+      "originalSha256": "33b14a957d81f3d0a6fcaf1a1a48676abeb2192248e3e0f1bb727e0f1f644521",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/source-app.js.txt",
+      "exported": "awct-pouramin/docs/research/pouramin/source-app.js.txt",
+      "sha256": "0d9e0124a6099557eedbbf2ae20d37f9461dcc71e1f5955ad5a39cfe459f0672",
+      "originalSha256": "0d9e0124a6099557eedbbf2ae20d37f9461dcc71e1f5955ad5a39cfe459f0672",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/source-desktop-1440x900.png",
+      "exported": "awct-pouramin/docs/research/pouramin/source-desktop-1440x900.png",
+      "sha256": "9760a7db3b35679c420032b4abb136a426f43319515564ff2fc3e636430d61ca",
+      "originalSha256": "9760a7db3b35679c420032b4abb136a426f43319515564ff2fc3e636430d61ca",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/source-desktop-full.png",
+      "exported": "awct-pouramin/docs/research/pouramin/source-desktop-full.png",
+      "sha256": "23a337ad4a30195988ccef26df06d1a2ad7d2eeaced7bb661232c9856e123df5",
+      "originalSha256": "23a337ad4a30195988ccef26df06d1a2ad7d2eeaced7bb661232c9856e123df5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/source-mobile-390x844.png",
+      "exported": "awct-pouramin/docs/research/pouramin/source-mobile-390x844.png",
+      "sha256": "37bdcc1705c4a8098349c08d27d6e0d031e6fb98d8b5e49c14cc741c9e730a19",
+      "originalSha256": "37bdcc1705c4a8098349c08d27d6e0d031e6fb98d8b5e49c14cc741c9e730a19",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/source-mobile-full.png",
+      "exported": "awct-pouramin/docs/research/pouramin/source-mobile-full.png",
+      "sha256": "a3aa5a99c899f08d7ddd38cef277efda4d7a73bf4dfb694894ff2eb8be3d0af3",
+      "originalSha256": "a3aa5a99c899f08d7ddd38cef277efda4d7a73bf4dfb694894ff2eb8be3d0af3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/source.css",
+      "exported": "awct-pouramin/docs/research/pouramin/source.css",
+      "sha256": "c4aa58c4e3a385b262e9455385bcb8a2dc02ece9ed35d7b7b87eec9a97d55edc",
+      "originalSha256": "c4aa58c4e3a385b262e9455385bcb8a2dc02ece9ed35d7b7b87eec9a97d55edc",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/pouramin/source.html",
+      "exported": "awct-pouramin/docs/research/pouramin/source.html",
+      "sha256": "995c706867e179e89e7dc083b77d5f981c2d2d5bdf5f0f283c5f8241fbf8e5a0",
+      "originalSha256": "995c706867e179e89e7dc083b77d5f981c2d2d5bdf5f0f283c5f8241fbf8e5a0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "tsconfig.json",
+      "exported": "awct-pouramin/tsconfig.json",
+      "sha256": "fb3df2b867c46f75c1f179caeee8424196eb08696ef0f77f2c5fc8e09799106e",
+      "originalSha256": "880d88e2967c325101725aac91fb31e76bf3be24d611159242dc7cb823baa837",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": true
+    },
+    {
+      "original": "eslint.config.mjs",
+      "exported": "awct-pouramin/eslint.config.mjs",
+      "sha256": "fc97107cbe292f03a8f35661321d0e29cac46280314b8f84e166bbbd52c85680",
+      "originalSha256": "fc97107cbe292f03a8f35661321d0e29cac46280314b8f84e166bbbd52c85680",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "postcss.config.mjs",
+      "exported": "awct-pouramin/postcss.config.mjs",
+      "sha256": "7b299d3d3b16699ddda397c0b2373b3af4f25f8fc9ccc9b3d9e64ef083bc1c21",
+      "originalSha256": "7b299d3d3b16699ddda397c0b2373b3af4f25f8fc9ccc9b3d9e64ef083bc1c21",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "components.json",
+      "exported": "awct-pouramin/components.json",
+      "sha256": "55f98c0800df5dbb7a1215f94711437651394ccacdd809dc4f71c3efe926dfc9",
+      "originalSha256": "55f98c0800df5dbb7a1215f94711437651394ccacdd809dc4f71c3efe926dfc9",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "LICENSE",
+      "exported": "awct-pouramin/LICENSE",
+      "sha256": "0f10e1da67c105e6f02e831688607f0b7a276b965d3a6397217bdbdef0527e9d",
+      "originalSha256": "0f10e1da67c105e6f02e831688607f0b7a276b965d3a6397217bdbdef0527e9d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "package.json",
+      "exported": "awct-pouramin/experiment/original-config/package.json",
+      "sha256": "f646b35e93c24d2e4a59e5123f69573cdc6332b230ca86f6df48e282fdfeb240",
+      "originalSha256": "f646b35e93c24d2e4a59e5123f69573cdc6332b230ca86f6df48e282fdfeb240",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "next.config.ts",
+      "exported": "awct-pouramin/experiment/original-config/next.config.ts",
+      "sha256": "85131d67820cd831c065729a497eac79c0049aa39ff04c64473fb2bff1e3ae2a",
+      "originalSha256": "85131d67820cd831c065729a497eac79c0049aa39ff04c64473fb2bff1e3ae2a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "tsconfig.json",
+      "exported": "awct-pouramin/experiment/original-config/tsconfig.json",
+      "sha256": "880d88e2967c325101725aac91fb31e76bf3be24d611159242dc7cb823baa837",
+      "originalSha256": "880d88e2967c325101725aac91fb31e76bf3be24d611159242dc7cb823baa837",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "eslint.config.mjs",
+      "exported": "awct-pouramin/experiment/original-config/eslint.config.mjs",
+      "sha256": "fc97107cbe292f03a8f35661321d0e29cac46280314b8f84e166bbbd52c85680",
+      "originalSha256": "fc97107cbe292f03a8f35661321d0e29cac46280314b8f84e166bbbd52c85680",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "package-lock.json",
+      "exported": "awct-pouramin/experiment/original-config/package-lock.json",
+      "sha256": "e59823bf528d91dbd981e218480552f4b950de7e314da118104b4d610cf22919",
+      "originalSha256": "e59823bf528d91dbd981e218480552f4b950de7e314da118104b4d610cf22919",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "AGENTS.md",
+      "exported": "awct-pouramin/experiment/original-config/AGENTS.md",
+      "sha256": "f985a10140a1c013fa53d546fbeb9d09447f567229b94e56426ae737113563d0",
+      "originalSha256": "f985a10140a1c013fa53d546fbeb9d09447f567229b94e56426ae737113563d0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "CLAUDE.md",
+      "exported": "awct-pouramin/experiment/original-config/CLAUDE.md",
+      "sha256": "d631d88045f74623d568adfb4783b72e3d1b732330d749bc6c72e6648d4581d3",
+      "originalSha256": "d631d88045f74623d568adfb4783b72e3d1b732330d749bc6c72e6648d4581d3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "README.md",
+      "exported": "awct-pouramin/experiment/original-config/README.md",
+      "sha256": "42dc58d6d4354aad68f07248849412169ddc1745698b61d55c637c44ff25aa49",
+      "originalSha256": "42dc58d6d4354aad68f07248849412169ddc1745698b61d55c637c44ff25aa49",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": ".agents/skills/clone-website/references/framer-and-motion.md",
+      "exported": "awct-pouramin/experiment/cloning-workflow/references/framer-and-motion.md",
+      "sha256": "8bd6db68d678fb116b184a014b91aafefe45920ad441f21b3bb0b3444564e00c",
+      "originalSha256": "8bd6db68d678fb116b184a014b91aafefe45920ad441f21b3bb0b3444564e00c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": ".agents/skills/clone-website/references/inspection-guide.md",
+      "exported": "awct-pouramin/experiment/cloning-workflow/references/inspection-guide.md",
+      "sha256": "43a46d952cf4f31405474d0d2416f8766d3e2f4bc5587b98504113bf4615c3b0",
+      "originalSha256": "43a46d952cf4f31405474d0d2416f8766d3e2f4bc5587b98504113bf4615c3b0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": ".agents/skills/clone-website/SKILL.md",
+      "exported": "awct-pouramin/experiment/cloning-workflow/SKILL.md",
+      "sha256": "d2227c70d1c00e9023c41c2ba97e4afdc166d8587869165e0baa6c196e3b8d1b",
+      "originalSha256": "d2227c70d1c00e9023c41c2ba97e4afdc166d8587869165e0baa6c196e3b8d1b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    }
+  ],
+  "npmCiDryRun": {
+    "exitCode": 0,
+    "flags": [
+      "--dry-run",
+      "--ignore-scripts",
+      "--offline",
+      "--no-audit",
+      "--no-fund"
+    ],
+    "note": "Lockfile consistency verified. Dependencies were not extracted; no fresh production build or browser launch was run."
+  },
+  "typeScriptVerification": {
+    "errors": 0,
+    "mode": "No-emit semantic TypeScript check of exported source, using original locked dependency installations through an in-memory module resolver. No original files or compiler outputs were written."
+  },
+  "privacyScan": {
+    "result": "No detected credentials or machine user paths in included text. Environment/private settings excluded by allowlist. Public website content retained. Apple --sk-* CSS custom properties were reviewed as false positives, not secrets."
+  },
+  "verificationLimits": [
+    "No fresh dependency extraction or production build performed.",
+    "Static literal asset/import checks plus TypeScript do not exercise every interactive or dynamically assembled URL.",
+    "Historical research scripts are archived evidence with original folder assumptions; they are not launch requirements."
+  ]
+}

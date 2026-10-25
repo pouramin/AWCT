@@ -1,0 +1,2210 @@
+<p>
+  Lease a new iPhone with low monthly payments for 12 or 24 months and upgrade at the end of your term with Apple Upgrade.
+  <a href=#footnote-3 aria-label=Footnote ◊ symbol>
+    ◊
+  <a.icon-wrapper ribbon-link href=/us/shop/goto/apple_upgrade aria-label=Learn more, Apple Upgrade>
+    Learn more
+
+=== SECTION class="section section-media-hero section-media-hero no-pad media-layout-background ribbon-full-width" id=
+  <h1.marquee-eyebrow typography-eyebrow-super>
+    iPhone 18 Pro
+  <p.marquee-headline typography-media-hero-headline-elevated>
+    Pro further.
+  <li.typography-media-hero-body-reduced pricing-item-1>
+    <a href=#footnote-1 aria-label=Footnote * symbol>
+      *
+    <a href=#footnote-3 aria-label=Footnote ◊ symbol>
+      ◊
+  <a.action-handler button marquee-button href=/us/shop/goto/buy_iphone/iphone_18_pro aria-label=Buy, iPhone 18 Pro>
+    Buy
+  <video.pin-offset id=media-hero-video>
+  <picture .overview-media-hero-hero-startframe pin-offset start-frame ~/media-hero/hero_startframe__ck15fj8f67hy_large.jpg>
+  <picture .overview-media-hero-hero-endframe pin-offset end-frame ~/media-hero/hero_endframe__fbxsnz8txcia_large.jpg>
+  <picture .overview-media-hero-hero-endframe pin-offset fallback-frame ~/media-hero/hero_endframe__fbxsnz8txcia_large.jpg>
+
+=== SECTION class="section section-highlights theme-dark background-alt" id=highlights
+  <h2.section-header-headline typography-section-header-headline>
+    Get the highlights.
+  <li.section-header-cta-item section-header-cta-item-link1>
+    <a.action-handler icon-wrapper section-header-cta-link href=/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/films/product/iphone-18-pro-pr id=film-iphone-18-pro aria-label=Watch the film, iPhone 18 Pro>
+      Watch the film
+  <button.play-pause-button all-access-pass__play-pause-button aap-med aria-label=Play Highlights Gallery>
+  <li.dotnav-item current aap-media-card-gallery__dotnav-item>
+    <a.dotnav-link current href=#highlights gallery-item-1 id=highlights gallery-item-1-trigger>
+      Camera
+  <li.dotnav-item aap-media-card-gallery__dotnav-item>
+    <a.dotnav-link href=#highlights gallery-item-2 id=highlights gallery-item-2-trigger>
+      Battery
+  <li.dotnav-item aap-media-card-gallery__dotnav-item>
+    <a.dotnav-link href=#highlights gallery-item-3 id=highlights gallery-item-3-trigger>
+      Colors
+  <li.dotnav-item aap-media-card-gallery__dotnav-item>
+    <a.dotnav-link href=#highlights gallery-item-4 id=highlights gallery-item-4-trigger>
+      A20 Pro chip
+  <li.dotnav-item aap-media-card-gallery__dotnav-item>
+    <a.dotnav-link href=#highlights gallery-item-5 id=highlights gallery-item-5-trigger>
+      Siri AI
+  <li.card-container gallery-item media-gallery-item-1 media-galle id=highlights gallery-item-1>
+    <p.caption typography-media-card-gallery-headline>
+      48MP Fusion Main camera with
+      variable aperture. Improved low-light photos
+      and video. Impressive depth of field.
+    <video.pin-offset positioned-media-element media id=media-block-gallery-item-1>
+    <picture .overview-highlights-main-camera-startframe pin-offset start- ~/highlights/main_camera_startframe__dbtqkrydkxua_large.jpg>
+    <picture .overview-highlights-main-camera-endframe pin-offset end-fram ~/highlights/main_camera_endframe__fcjfhs06rdme_large.jpg>
+    <picture .overview-highlights-main-camera-endframe pin-offset fallback ~/highlights/main_camera_endframe__fcjfhs06rdme_large.jpg>
+  <li.card-container gallery-item media-gallery-item-2 media-galle id=highlights gallery-item-2>
+    <p.caption typography-media-card-gallery-headline>
+      The longest battery life
+      in an iPhone.
+      <a href=#footnote-4 aria-label=Footnote 1>
+        1
+      Up to 45 hours video playback on iPhone 18 Pro Max.
+      <a href=#footnote-5 aria-label=Footnote 2>
+        2
+    <video.pin-offset positioned-media-element media id=media-block-gallery-item-2>
+    <picture .overview-highlights-battery-startframe pin-offset start-fram ~/highlights/battery_startframe__dc61ck806uy6_large.jpg>
+    <picture .overview-highlights-battery-endframe pin-offset end-frame po ~/highlights/battery_endframe__ds9p2a09r9aq_large.jpg>
+    <picture .overview-highlights-battery-endframe pin-offset fallback-fra ~/highlights/battery_endframe__ds9p2a09r9aq_large.jpg>
+  <li.card-container gallery-item media-gallery-item-3 media-galle id=highlights gallery-item-3>
+    <p.caption typography-media-card-gallery-headline>
+      Four gorgeous colors. Two great sizes.
+      One durable aluminum design.
+    <video.pin-offset positioned-media-element media id=media-block-gallery-item-3>
+    <picture .overview-highlights-colors-startframe pin-offset start-frame ~/highlights/colors_startframe__dswlwmy4piuu_large.jpg>
+    <picture .overview-highlights-colors-endframe pin-offset end-frame pos ~/highlights/colors_endframe__czfie0zmty4i_large.jpg>
+    <picture .overview-highlights-colors-endframe pin-offset fallback-fram ~/highlights/colors_endframe__czfie0zmty4i_large.jpg>
+  <li.card-container gallery-item media-gallery-item-4 media-galle id=highlights gallery-item-4>
+    <p.caption typography-media-card-gallery-headline>
+      A20 Pro chip. Next-generation vapor
+      chamber. Dual 16-core Neural Engine.
+      Total AI powerhouse.
+    <video.pin-offset positioned-media-element media id=media-block-gallery-item-4>
+    <picture .overview-highlights-chip-startframe pin-offset start-frame p ~/highlights/chip_startframe__cbo2noldjewi_large.jpg>
+    <picture .overview-highlights-chip-endframe pin-offset end-frame posit ~/highlights/chip_endframe__lhkymtfv1uie_large.jpg>
+    <picture .overview-highlights-chip-endframe pin-offset fallback-frame  ~/highlights/chip_endframe__lhkymtfv1uie_large.jpg>
+  <li.card-container gallery-item media-gallery-item-5 media-galle id=highlights gallery-item-5>
+    <p.caption typography-media-card-gallery-headline>
+      Meet Siri AI. Your AI assistant.
+      More personal. More powerful.
+    <p.caption caption-sosumi typography-media-card-gallery-caption>
+      Siri AI is rolling out in English.
+      <a href=#footnote-6 aria-label=Footnote 3>
+        3
+    <picture .overview-highlights-siri positioned-media-element pin-offset ~/highlights/siri__eprmtp3edh8i_large.jpg>
+
+=== SECTION class="section section-aio no-pad-bottom theme-dark" id=
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    The ultimate upgrade
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Most wanted.
+  <p>
+    iPhone 18 Pro is
+    purpose-built for unprecedented performance
+    . Get up to 6 more hours of video playback on iPhone 18 Pro Max compared with iPhone 17 Pro Max.
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+    Faster wired charging.
+    <a href=#footnote-8 aria-label=Footnote 5>
+      5
+    Vapor-cooled A20 Pro chip to
+    handle even the most intensive AI workloads
+    . New 48MP Fusion Main camera with variable aperture for better-quality low-light photos and video and greater depth of field. All in a durable unibody with Ceramic Shield front and back — everything a pro wants.
+  <label.inline-compare-navigation-label typography-dropdown-label>
+    Compare with
+  <select.form-dropdown-select typography-dropdown-select id=aio-inline-compare-gallery-select>
+    <option id=iphone-14 value=iphone-14>
+      iPhone 14
+    <option id=iphone-14-pro value=iphone-14-pro>
+      iPhone 14 Pro
+    <option id=iphone-14-pro-max value=iphone-14-pro-max>
+      iPhone 14 Pro Max
+    <option id=iphone-15 value=iphone-15>
+      iPhone 15
+    <option id=iphone-15-pro value=iphone-15-pro>
+      iPhone 15 Pro
+    <option id=iphone-15-pro-max value=iphone-15-pro-max>
+      iPhone 15 Pro Max
+    <option id=iphone-16 value=iphone-16>
+      iPhone 16
+    <option id=iphone-16-pro value=iphone-16-pro>
+      iPhone 16 Pro
+    <option id=iphone-16-pro-max value=iphone-16-pro-max>
+      iPhone 16 Pro Max
+    <option id=iphone-17 value=iphone-17>
+      iPhone 17
+    <option id=iphone-17-pro value=iphone-17-pro>
+      iPhone 17 Pro
+    <option id=iphone-17-pro-max value=iphone-17-pro-max>
+      iPhone 17 Pro Max
+  <figure.stat>
+    Up to
+    25 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    80% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    4x faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    22 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    60% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    2.8x faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    16 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    60% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    2.8x faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    25 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    60% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    2.8x faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    22 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    50% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    2.1x faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    16 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    50% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    2.1x faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    23 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    30% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    2x faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    18 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    30% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    80% faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    12 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    30% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    80% faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    15 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    20% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    60% faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    12 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    20% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    40% faster
+    7-core GPU
+  <figure.stat>
+    Up to
+    6 more hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    Up to
+    20% faster
+    6-core CPU
+  <figure.stat>
+    Up to
+    40% faster
+    7-core GPU
+  <picture .overview-aio-hero fallback-frame large-centered ~/aio/hero__elo7tt0mnqy6_large.jpg>
+    alt=iPhone 18 Pro, burgundy finish, partial back exterior angled to show pro camera system in top left c
+
+=== SECTION class="section section-aio-alt no-pad-bottom theme-dark" id=
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    Switch from Android to iPhone 18 Pro
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Most wanted.
+  <p>
+    iPhone 18 Pro is
+    purpose-built for unprecedented performance
+    . The best iPhone battery life.
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+    Faster wired charging. Vapor-cooled A20 Pro chip to
+    handle even the most intensive AI workloads
+    . New 48MP Fusion Main camera with variable aperture for better-quality low-light photos and video and greater depth of field. All in a durable unibody that’s built to last with Ceramic Shield front and back — everything a pro wants. Because it’s an iPhone, it holds its value longer than other smartphones. And switching from Android is easy.
+  <label.inline-compare-navigation-label typography-dropdown-label>
+    Compare with
+  <select.form-dropdown-select typography-dropdown-select id=aio-inline-compare-gallery-alt-select>
+    <option id=android value=android>
+      Android
+  <figure.stat>
+    Up to
+    45 hours
+    video playback
+    on iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat>
+    All-new
+    variable
+    aperture
+    for better low-light photos and video
+  <figure.stat>
+    All-new
+    vapor-cooled A20 Pro chip
+    for extreme performance
+  <picture .overview-aio-hero fallback-frame large-centered ~/aio/hero__elo7tt0mnqy6_large.jpg>
+    alt=iPhone 18 Pro, burgundy finish, partial back exterior angled to show pro camera system in top left c
+
+=== SECTION class="section section-product-viewer theme-dark background-alt" id=design
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    Design
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Our finest
+    unibody of work.
+  <a.icon icon-arkit icon-after href=/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/ar/iphone-18-pro-e-sim.usdz aria-label=View in your space, iPhone 18 Pro in Burgundy>
+    <img  alt="">
+  <picture .overview-product-viewer-3d-viewer ~/product-viewer/3d_viewer__hgotqf9hvvee_large.jpg>
+  <picture .overview-product-viewer-loader preview-image ~/product-viewer/loader__bjo96i52l46a_large.jpg>
+  <picture .overview-product-viewer-color-burgundy gallery-image gallery ~/product-viewer/color_burgundy__f95it7a6dnyq_large.jpg>
+  <picture .overview-product-viewer-color-glacier gallery-image gallery- ~/product-viewer/color_glacier__fkxlpbz0ruy6_large.jpg>
+  <picture .overview-product-viewer-color-silver gallery-image gallery-i ~/product-viewer/color_silver__c0oudn0fzw4m_large.jpg>
+  <picture .overview-product-viewer-color-black gallery-image gallery-im ~/product-viewer/color_black__dseo2tvypuc2_large.jpg>
+  <picture .overview-product-viewer-size ~/product-viewer/size__ufk3tqa1f5e2_large.jpg>
+  <video.pin-offset id=product-viewer-item3>
+  <picture .overview-product-viewer-viewer-aperture-startframe pin-offse ~/product-viewer/viewer_aperture_startframe__fd2z3na1d066_large.jpg>
+  <picture .overview-product-viewer-viewer-aperture-endframe pin-offset  ~/product-viewer/viewer_aperture_endframe__2jpki8xah2au_large.jpg>
+  <picture .overview-product-viewer-viewer-aperture-startframe pin-offse ~/product-viewer/viewer_aperture_startframe__fd2z3na1d066_large.jpg>
+  <video.pin-offset id=product-viewer-item4>
+  <picture .overview-product-viewer-dynamic-island-startframe pin-offset ~/product-viewer/dynamic_island_startframe__e29ujwo7xcwi_large.jpg>
+  <picture .overview-product-viewer-dynamic-island-endframe pin-offset e ~/product-viewer/dynamic_island_endframe__edszr68pgo66_large.jpg>
+  <picture .overview-product-viewer-dynamic-island-endframe pin-offset f ~/product-viewer/dynamic_island_endframe__edszr68pgo66_large.jpg>
+  <picture .overview-product-viewer-durability ~/product-viewer/durability__gluy1en01nqm_large.jpg>
+  <picture .overview-product-viewer-camera-control ~/product-viewer/camera_control__f4t7iottmvyy_large.jpg>
+  <picture .overview-product-viewer-action-button ~/product-viewer/action_button__f9p8n5h9xk66_large.jpg>
+  <li.control-item control-color control-item1>
+    <button.control-item-open id=product-viewer-item-1--button>
+      Burgundy
+      Colors
+    <p.typography-all-access-pass-pv-item-body>
+      Colors.
+      Choose from four gorgeous finishes with color-matched back glass. iPhone 18 Pro shown in
+      Burgundy
+      .
+    Product Colors.
+    <li.colornav-item>
+      <input.colornav-value id=colornav-value-Plum value=Plum>
+      <label.colornav-link>
+        Burgundy
+    <li.colornav-item>
+      <input.colornav-value id=colornav-value-Sky_Blue value=Sky_Blue>
+      <label.colornav-link>
+        Glacier
+    <li.colornav-item>
+      <input.colornav-value id=colornav-value-Silver value=Silver>
+      <label.colornav-link>
+        Silver
+    <li.colornav-item>
+      <input.colornav-value id=colornav-value-Black value=Black>
+      <label.colornav-link>
+        Black
+    <button.paddlenav-button paddlenav-prev aria-label=Previous item, Take a closer look gallery>
+    <button.paddlenav-button paddlenav-next aria-label=Next item, Take a closer look gallery>
+  <li.control-item control-item2>
+    <button.control-item-open id=product-viewer-item-2--button>
+      Two sizes
+    <p.typography-all-access-pass-pv-item-body>
+      Two sizes.
+      6.9-inch iPhone 18 Pro Max and 6.3-inch iPhone 18 Pro.
+      <a href=#footnote-9 aria-label=Footnote 6>
+        6
+      Featuring brilliant Super Retina XDR displays with ProMotion up to 120Hz.
+    <button.paddlenav-button paddlenav-prev aria-label=Previous item, Take a closer look gallery>
+    <button.paddlenav-button paddlenav-next aria-label=Next item, Take a closer look gallery>
+  <li.control-item control-item3>
+    <button.control-item-open id=product-viewer-item-3--button>
+      New Main camera
+    <p.typography-all-access-pass-pv-item-body>
+      New Main camera.
+      A variable aperture on the 48MP Fusion Main camera adjusts for lighting and depth of field automatically. So you can take your best shot seamlessly, even in low light.
+    <button.paddlenav-button paddlenav-prev aria-label=Previous item, Take a closer look gallery>
+    <button.paddlenav-button paddlenav-next aria-label=Next item, Take a closer look gallery>
+  <li.control-item control-item4>
+    <button.control-item-open id=product-viewer-item-4--button>
+      Redesigned Dynamic Island
+    <p.typography-all-access-pass-pv-item-body>
+      Redesigned Dynamic Island.
+      See up to three Live Activities at once and more information at a glance — like live sports scores, navigation, and music.
+    <button.paddlenav-button paddlenav-prev aria-label=Previous item, Take a closer look gallery>
+    <button.paddlenav-button paddlenav-next aria-label=Next item, Take a closer look gallery>
+  <li.control-item control-item5>
+    <button.control-item-open id=product-viewer-item-5--button>
+      Durability
+    <p.typography-all-access-pass-pv-item-body>
+      Durability.
+      Built to last with a strong aluminum unibody, Ceramic Shield back, and Ceramic Shield 2 front with 3x better scratch resistance than iPhone 16 Pro.
+      <a href=#footnote-8 aria-label=Footnote 5>
+        5
+    <button.paddlenav-button paddlenav-prev aria-label=Previous item, Take a closer look gallery>
+    <button.paddlenav-button paddlenav-next aria-label=Next item, Take a closer look gallery>
+  <li.control-item control-item6>
+    <button.control-item-open id=product-viewer-item-6--button>
+      Camera Control
+    <p.typography-all-access-pass-pv-item-body>
+      Camera Control.
+      Instantly take a photo, record video, adjust settings, and more. So you never miss a moment.
+    <button.paddlenav-button paddlenav-prev aria-label=Previous item, Take a closer look gallery>
+    <button.paddlenav-button paddlenav-next aria-label=Next item, Take a closer look gallery>
+  <li.control-item control-item7>
+    <button.control-item-open id=product-viewer-item-7--button>
+      Action button
+    <p.typography-all-access-pass-pv-item-body>
+      Action button.
+      A customizable fast track to your favorite feature. Press and hold to launch the action you want — Silent mode, Translate, Shortcut, and more.
+    <button.paddlenav-button paddlenav-prev aria-label=Previous item, Take a closer look gallery>
+    <button.paddlenav-button paddlenav-next aria-label=Next item, Take a closer look gallery>
+  <button.paddlenav-button paddlenav-prev aria-label=Previous item, Take a closer look gallery>
+  <button.paddlenav-button paddlenav-next aria-label=Next item, Take a closer look gallery>
+  <button.close-button aria-label=Close>
+
+=== SECTION class="section section-pro-camera section-product-story theme-dark no-pad-bottom" id=cameras
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    Pro camera system
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Eye-opening control.
+  <picture .overview-pro-camera-system-hero ~/pro-camera/system/hero__elo7tt0mnqy6_large.jpg>
+    alt=iPhone 18 Pro in Black, angled, partial rear exterior, focus on the Pro Fusion camera system
+  <picture .overview-pro-camera-system-camera-system-startframe ~/pro-camera/system/camera_system_startframe__e0gisudnvv2a_large.jpg>
+  <video id=pro-camera-video-scrub>
+  <p.text-large-center text-small-start typography-ps-intro>
+    Meet our
+    best-ever camera system for pros and creators
+    . iPhone 18 Pro breaks new ground with a variable aperture on the 48MP Fusion Main camera, delivering better low-light photos and video and sharper detail throughout the scene. And with new Pro controls and Photographic Styles 3 to adjust texture and grain, you’ll have even more creative range.
+  <p.keyline ps-stat typography-ps-stat-caption-elevated large-sp>
+    All
+    48MP
+    rear cameras
+  <p.keyline ps-stat typography-ps-stat-caption-elevated large-sp>
+    Up to
+    8x
+    optical-quality zoom
+  <p.subhead>
+    48MP Fusion Main camera with variable aperture
+  <p>
+    24/48 mm focal length (1x/2x)
+    ƒ/1.48, ƒ/1.8, ƒ/2.8, and ƒ/4.0 aperture
+    F 1.48, F 1.8, F 2.8, and F 4.0 aperture
+    2.44 µm quad-pixel (1.22 µm individual)
+  <p.subhead>
+    48MP Fusion Ultra Wide camera
+  <p>
+    13 mm focal length (.5x/macro)
+    ƒ/2.2 aperture
+    F 2.2 aperture
+    1.4 µm quad-pixel (0.7 µm individual)
+  <p.subhead>
+    48MP Fusion Telephoto camera
+  <p>
+    100/200 mm focal length (4x/8x)
+    ƒ/2.8 aperture
+    F 2.8 aperture
+    1.4 µm quad-pixel (0.7 µm individual)
+  <h2.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Variable aperture.
+    If you know, you pro.
+  <p>
+    The new variable aperture on the Main camera
+    adjusts for better lighting and depth of field automatically
+    — so everything from candid portraits to cinematic videos looks its best. For more versatility, use it with custom Pro controls in the Camera app — like shutter speed to capture fast action in incredible detail.
+  <li.tabnav-item>
+    <button.tabnav-link id=pro-camera-aperture-tab-0 aria-label=F 1.48>
+      ƒ/1.48
+  <li.tabnav-item>
+    <button.tabnav-link id=pro-camera-aperture-tab-1 aria-label=F 1.8>
+      ƒ/1.8
+  <li.tabnav-item>
+    <button.tabnav-link id=pro-camera-aperture-tab-2 aria-label=F 2.8>
+      ƒ/2.8
+  <li.tabnav-item>
+    <button.tabnav-link id=pro-camera-aperture-tab-3 aria-label=F 4.0>
+      ƒ/4.0
+  <button.tabnav-paddle tabnav-paddle-left aria-label=Previous item>
+  <button.tabnav-paddle tabnav-paddle-right aria-label=Next item>
+  <picture .overview-pro-camera-aperture-max-light positioned-media-elem ~/pro-camera/aperture/max_light__dlmrw5m29ssy_large.jpg>
+  <p.tabnav-label-no-js typography-label>
+    ƒ/1.48
+  <h3.caption-heading>
+    ƒ/1.48
+    Maximum light.
+    F 1.48 Maximum light
+  <p>
+    Around 50 percent better low-light performance — great for indoor scenes.
+    <a href=#footnote-8 aria-label=Footnote 5>
+      5
+    Take better-quality Night mode photos faster.
+  <picture .overview-pro-camera-aperture-balance positioned-media-elemen ~/pro-camera/aperture/balance__dtrq8w3uj9iu_large.jpg>
+  <p.tabnav-label-no-js typography-label>
+    ƒ/1.8
+  <h3.caption-heading>
+    ƒ/1.8
+    Default.
+    F 1.8 Default
+  <p>
+    A versatile balance between low light and depth.
+  <picture .overview-pro-camera-aperture-depth positioned-media-element  ~/pro-camera/aperture/depth__eqlqllrh0v8m_large.jpg>
+  <p.tabnav-label-no-js typography-label>
+    ƒ/2.8
+  <h3.caption-heading>
+    ƒ/2.8
+    More depth.
+    F 2.8 More depth
+  <p>
+    A narrow aperture lets you capture detail farther back in the scene.
+  <picture .overview-pro-camera-aperture-max-depth positioned-media-elem ~/pro-camera/aperture/max_depth__chz65982bi4i_large.jpg>
+  <p.tabnav-label-no-js typography-label>
+    ƒ/4.0
+  <h3.caption-heading>
+    ƒ/4.0
+    Maximum depth.
+    F 4.0 Maximum depth
+  <p>
+    Use Pro controls to create artful effects manually, like a luminous starburst from bright light.
+  <h2.section-header-headline typography-section-header-headline id=control-gallery-headline>
+    Such a control freak.
+  <li.card-container caption-tile gallery-item wide id=pro-camera-control-item-1>
+    <h3.caption-heading>
+      Pro controls.
+    <p>
+      In the Camera app, you can bring your most-used settings to the top for quicker access. Add new settings like aperture, shutter speed, white balance, and histogram.
+    <picture .overview-pro-camera-control-pro-controls positioned-media-el ~/pro-camera/control/pro_controls__esrtcpjxy3qu_large.jpg>
+  <li.card-container caption-tile gallery-item wide id=pro-camera-control-item-2>
+    <h3.caption-heading>
+      Photographic Styles 3.
+    <p>
+      In addition to tone and color, you can now customize texture and grain to soften skin details or achieve an artful film look, and easily adjust or reverse effects anytime.
+    <picture .overview-pro-camera-control-photographic-styles positioned-m ~/pro-camera/control/photographic_styles__ef8cg39z0q2q_large.jpg>
+  <li.card-container caption-tile gallery-item wide id=pro-camera-control-item-3>
+    <h3.caption-heading>
+      Intelligent photo editing.
+    <p>
+      Reframe a photo after it’s been taken with Spatial Reframing. Expand your shots with the Extend tool. And remove even larger objects with the enhanced Clean Up tool. All possible with Apple Intelligence.
+    <picture .overview-pro-camera-control-intelligent positioned-media-ele ~/pro-camera/control/intelligent__fud8ul5o3emy_large.jpg>
+    <p>
+      Usage limits may apply.
+  <li.card-container caption-tile gallery-item id=pro-camera-control-item-4>
+    <h3.caption-heading>
+      Smart focus tracking.
+    <p>
+      Whether you’re shooting photos or video, on-device intelligence lets you lock onto a subject and maintain focus as they move through the scene — even if they leave and then reenter the frame.
+    <picture .overview-pro-camera-control-smart-focus positioned-media-ele ~/pro-camera/control/smart_focus__yrqfyzob1eqi_large.jpg>
+  <li.card-container caption-tile gallery-item wide id=pro-camera-control-item-5>
+    <h3.caption-heading>
+      8x optical-quality zoom.
+    <p>
+      Add extraordinary reach to your compositions with 8x optical-quality zoom — delivering 16x total optical zoom range.
+    <video.pin-offset positioned-media-element media id=overview_pro-camera_control_opticalzoom>
+    <picture .overview-pro-camera-control-8x-zoom-startframe pin-offset st ~/pro-camera/control/8x-zoom_startframe__wp22u2y5ir6q_large.jpg>
+    <picture .overview-pro-camera-control-8x-zoom-endframe pin-offset end- ~/pro-camera/control/8x-zoom_endframe__ed8psayfjwqe_large.jpg>
+    <picture .overview-pro-camera-control-8x-zoom-endframe pin-offset fall ~/pro-camera/control/8x-zoom_endframe__ed8psayfjwqe_large.jpg>
+    <button.play-pause-button aria-label=Play 8x optical-quality zoom video>
+  <li.card-container caption-tile gallery-item id=pro-camera-control-item-6>
+    <h3.caption-heading>
+      48MP Fusion Ultra Wide camera.
+    <p>
+      Capture sweeping landscapes and stunning macro photos in super-high-resolution detail.
+    <picture .overview-pro-camera-control-ultra-wide positioned-media-elem ~/pro-camera/control/ultra_wide__fuin4rf0dnyq_large.jpg>
+  <li.card-container caption-tile gallery-item has-border id=pro-camera-control-item-7>
+    <h3.caption-heading>
+      Center Stage front camera.
+    <p>
+      Frame your shot in more flexible ways. Go from portrait to landscape without moving your iPhone. And fit more people in the frame automatically.
+    <picture .overview-pro-camera-control-center-stage positioned-media-el ~/pro-camera/control/center_stage__ecf4wpldlkcy_large.jpg>
+  <li.card-container caption-tile gallery-item has-border id=pro-camera-control-item-8>
+    <h3.caption-heading>
+      Apple Reference Image.
+    <p>
+      Now you can prove the authenticity of an image taken on iPhone. Secure, pixel-level signing of photo data happens at the time of capture, making it easy to verify exactly what the camera sensor saw.
+    <picture .overview-pro-camera-control-reference positioned-media-eleme ~/pro-camera/control/reference__dpo1xa7gsdea_large.jpg>
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, Camera System gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, Camera System gallery>
+
+=== SECTION class="section section-pro-video section-product-story theme-dark no-pad-bottom" id=pro-video
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    Pro video
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Make it cinematic.
+    After the fact.
+  <video.pin-offset id=pro-video-hw>
+  <picture .overview-pro-video-pro-video-startframe pin-offset start-fra ~/pro-video/pro_video_startframe__ggkgg862ssq6_large.jpg>
+  <picture .overview-pro-video-pro-video-endframe pin-offset end-frame ~/pro-video/pro_video_endframe__jo1bq7ocrka6_large.jpg>
+  <picture .overview-pro-video-hero pin-offset fallback-frame ~/pro-video/hero__elo7tt0mnqy6_large.jpg>
+  <p>
+    iPhone 18 Pro lets you
+    add Cinematic mode effects to regular video
+    — even after you shoot — so any moment can feel like a movie. Support for 60 fps makes slo-mo smooth. And with Audio Mix, you can isolate a musical performance from its surroundings, so every note comes through clearly.
+  <h2.section-header-headline typography-section-header-headline id=scene-gallery-headline>
+    Fully scene. Fully heard.
+  <li.card-container caption-tile gallery-item wide has-border id=pro-video-item-1>
+    <h3.caption-heading>
+      Better low-light video.
+    <p>
+      The iPhone 18 Pro camera system improves low-light video at night or indoors by intelligently adjusting aperture and frame rate for brighter, clearer footage.
+    <picture .overview-pro-video-low-light positioned-media-element pin-of ~/pro-video/low_light__b51d1dpc3xde_large.jpg>
+  <li.card-container caption-tile gallery-item wide id=pro-video-item-2>
+    <h3.caption-heading>
+      4K time-lapse.
+    <p>
+      Record in more detail with support for 4K resolution with Dolby Vision HDR.
+    <video.pin-offset positioned-media-element media id=overview_pro-video_timelapse>
+    <picture .overview-pro-video-4k-timelapse-startframe pin-offset start- ~/pro-video/4k_timelapse_startframe__bwemjwb0098i_large.jpg>
+    <picture .overview-pro-video-4k-timelapse-endframe pin-offset end-fram ~/pro-video/4k_timelapse_endframe__fpokzlb44wa6_large.jpg>
+    <picture .overview-pro-video-4k-timelapse-endframe pin-offset fallback ~/pro-video/4k_timelapse_endframe__fpokzlb44wa6_large.jpg>
+    <button.play-pause-button aria-label=Play 4k time-lapse video>
+  <li.card-container caption-tile gallery-item id=pro-video-item-3>
+    <h3.caption-heading>
+      Audio Mix for music.
+    <p>
+      Audio Mix now lets you separate music and voices from unwanted background noise in your videos.
+    <picture .overview-pro-video-audio-mix positioned-media-element pin-of ~/pro-video/audio_mix__cv5tvd3y13ee_large.jpg>
+  <li.card-container caption-tile gallery-item wide has-border id=pro-video-item-4>
+    <h3.caption-heading>
+      Pro video features.
+    <p>
+      Built for filmmakers and content creators, with pro tools like ProRes RAW and Apple Log 2 for color grading, genlock for multicamera sync, and 4K 120 fps Dolby Vision for cinema-quality HDR footage.
+    <picture .overview-pro-video-features positioned-media-element pin-off ~/pro-video/features__16r2b47nrpe2_large.jpg>
+  <li.card-container caption-tile gallery-item has-border id=pro-video-item-5>
+    <h3.caption-heading>
+      Dual Capture video.
+    <p>
+      Record yourself and the world around you with simultaneous front and rear video capture.
+    <picture .overview-pro-video-dual-capture positioned-media-element pin ~/pro-video/dual_capture__cwiaeus8h002_large.jpg>
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, Pro Video gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, Pro Video gallery>
+
+=== SECTION class="section section-battery section-product-story preserve-pad-bottom theme-dark" id=battery
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    Battery life
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Best iPhone battery life.
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+    Greatest of hour time.
+  <picture .overview-battery-hero fallback-frame ~/battery/hero__elo7tt0mnqy6_large.jpg>
+    alt=iPhone 18 Pro in burgundy showcases Apple TV content in horizontal mode, Apple TV logo, series title
+  <picture .overview-battery-battery-startframe ~/battery/battery_startframe__dc61ck806uy6_large.jpg>
+  <video id=battery-life>
+  <p.ps-stat typography-ps-stat-caption ric-large-2 ric-medium-3 >
+    Up to
+    30 hours of use
+    per charge on iPhone 18 Pro Max
+    <a href=#footnote-10 aria-label=Footnote 7>
+      7
+  <p.typography-ps-intro ric-large-5 ric-large-offset-1 ric-mediu>
+    iPhone 18 Pro Max delivers a massive leap in battery life with up to 45 hours of video playback —
+    6 more hours than iPhone 17 Pro Max
+    . And with more battery capacity and greater efficiency, you’ll have up to 30 hours of use per charge for more streaming, gaming, and browsing, day or night.
+    <a href=#footnote-10 aria-label=Footnote 7>
+      7
+  <picture .overview-battery-charge icon ~/battery/charge__eiv9d90t9zue_large.png>
+  <h2.typography-ps-headline>
+    There’s a new
+    Pro in charge.
+  <p.typography-ps-intro ric-large-4 ric-medium-5 ric-small-10>
+    Thanks to faster wired charging, iPhone 18 Pro reaches up to 50 percent battery life in around 15 minutes.
+    <a href=#footnote-11 aria-label=Footnote 8>
+      8
+    And now you can get
+    up to 7 hours of video playback in 5 minutes on iPhone 18 Pro Max
+    <a href=#footnote-11 aria-label=Footnote 8>
+      8
+    — great for a quick top-off before a long flight.
+  <p.ps-stat typography-ps-stat-caption ric-large-3 ric-large-off>
+    Up to
+    50% charge in around 15 minutes
+    with compatible power adapter
+    <a href=#footnote-11 aria-label=Footnote 8>
+      8
+
+=== SECTION class="section section-performance no-pad-top preserve-pad-bottom theme-dark" id=performance
+  <video.pin-offset id=performance>
+  <picture .overview-performance-chip-startframe pin-offset start-frame ~/performance/chip_startframe__cbo2noldjewi_large.jpg>
+  <picture .overview-performance-chip-endframe pin-offset end-frame ~/performance/chip_endframe__lhkymtfv1uie_large.jpg>
+  <picture .overview-performance-chip-endframe pin-offset fallback-frame ~/performance/chip_endframe__lhkymtfv1uie_large.jpg>
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    Performance
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Welcome to the mother chip.
+  <p>
+    A20 Pro is our most powerful and efficient iPhone chip design ever, with packaging inspired by our M-series chips. Working with the next‑generation vapor chamber, it gives you the best possible graphics performance — up to 40 percent faster than iPhone 17 Pro. And introduces a new Dual 16‑core Neural Engine with two times the compute for on‑device intelligence.
+    <a href=#footnote-8 aria-label=Footnote 5>
+      5
+  <picture .overview-performance-icon-ai callout-icon ~/performance/icon_ai__cdtqv8s8tm82_large.png>
+  <h3.typography-callout-elevated>
+    Exceptional
+    AI capabilities
+  <p>
+    More power for all your AI tasks. And faster Apple Intelligence thanks to new Neural Accelerators, a Dual 16‑core Neural Engine, and 50 percent higher memory bandwidth.
+  <picture .overview-performance-icon-a20 callout-icon ~/performance/icon_a20__dhsqkelmytg2_large.png>
+  <h3.typography-callout-elevated>
+    M‑class-inspired
+    packaging design
+  <p>
+    By placing the silicon die side by side with memory, the A20 Pro chip packaging drastically improves heat flow for significantly better thermal performance.
+  <h2.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Bigger vapor chamber.
+    Let the heat drop.
+  <picture .overview-performance-vapor-chamber hero-media-image ~/performance/vapor_chamber__dyn98zs14ryq_large.jpg>
+    alt=iPhone 18 Pro in glacier showcases the user interface of the Logic Pro music production app
+  <p>
+    The next-generation vapor chamber has three times the surface area to dissipate even more heat. Combined with more thermally conductive materials, it works with the A20 Pro chip design to deliver up to
+    40 percent better sustained performance
+    than iPhone 17 Pro. So you can push high-intensity gaming and run larger, more complex AI models on your device for longer.
+
+=== SECTION class="section section-upgrader preserve-pad-bottom theme-dark" id=upgrader
+  <h2.headline typography-upgrader-header-headline ric-large-6 ric>
+    Worth the upgrade?
+    You bet.
+  <label.label typography-upgrader-shared-dropdown-label form-label>
+    Select an iPhone to
+    compare with iPhone 18 Pro:
+  <select.form-dropdown-select typography-dropdown-select id=upgrader-demo-select>
+    <option id=iphone-14 value=iphone-14>
+      iPhone 14
+    <option id=iphone-14-pro value=iphone-14-pro>
+      iPhone 14 Pro
+    <option id=iphone-14-pro-max value=iphone-14-pro-max>
+      iPhone 14 Pro Max
+    <option id=iphone-15 value=iphone-15>
+      iPhone 15
+    <option id=iphone-15-pro value=iphone-15-pro>
+      iPhone 15 Pro
+    <option id=iphone-15-pro-max value=iphone-15-pro-max>
+      iPhone 15 Pro Max
+    <option id=iphone-16 value=iphone-16>
+      iPhone 16
+    <option id=iphone-16-pro value=iphone-16-pro>
+      iPhone 16 Pro
+    <option id=iphone-16-pro-max value=iphone-16-pro-max>
+      iPhone 16 Pro Max
+    <option id=iphone-17 value=iphone-17>
+      iPhone 17
+    <option id=iphone-17-pro value=iphone-17-pro>
+      iPhone 17 Pro
+    <option id=iphone-17-pro-max value=iphone-17-pro-max>
+      iPhone 17 Pro Max
+  <p.subheadline typography-upgrader-header-subheadline ric-large>
+    Here’s what you get with
+    iPhone 18 Pro
+    .
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    80% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    25 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    60% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    22 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    60% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    16 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    60% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    25 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    50% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    22 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    50% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    16 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    30% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    23 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    30% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    18 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    30% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    12 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    20% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    15 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    20% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    12 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Up to
+    20% faster
+    6-core CPU
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    6 more
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+  <picture .overview-upgrader-trade-in image-logo-footer ~/upgrader/trade_in__gkkv4yplrqi6_large.png>
+    alt=Apple Trade In
+  <p.footer-body>
+    Get credit toward a new iPhone when you trade in an eligible device.
+  <a.action-handler icon-wrapper href=/us/shop/goto/trade_in>
+    Find your trade‑in value
+
+=== SECTION class="section section-switch preserve-pad-bottom theme-dark" id=
+  <h2.headline typography-upgrader-header-headline ric-large-10 ri>
+    Worth switching from Android to iPhone? You bet.
+  <p.subheadline typography-upgrader-header-subheadline ric-large>
+    Here’s what you get with
+    iPhone 18 Pro
+    .
+  <p.caption typography-upgrader-item-caption-reduced>
+    48MP Fusion Main camera with variable aperture and Pro controls
+  <picture .overview-upgrader-main-camera pin-offset ~/upgrader/main_camera__dcm72wfqflm6_large.jpg>
+    alt=Rear exterior iPhone 18 Pro in Burgundy, featuring 48 MP Main camera with variable aperture
+  <p.caption typography-upgrader-item-caption-reduced>
+    Vapor-cooled A20 Pro chip for extreme performance
+  <picture .overview-upgrader-a20-pro-chip pin-offset ~/upgrader/a20_pro_chip__c6rba3bxjuc2_large.jpg>
+    alt=A20 Pro Chip from iPhone 18 Pro
+  <figure.stat stat-reduced value-centered>
+    Up to
+    45
+    hours
+    video playback on
+    iPhone 18 Pro Max
+    <a href=#footnote-7 aria-label=Footnote 4>
+      4
+  <figure.stat stat-reduced value-centered>
+    Up to
+    50% charge
+    in around 15 minutes with compatible adapter
+  <p.caption typography-upgrader-item-caption-reduced>
+    18MP Center Stage
+    front camera
+  <picture .overview-upgrader-front-camera pin-offset ~/upgrader/front_camera__c533i0c3mh4y_large.jpg>
+    alt=iPhone 18 Pro in Black, front-facing, showcasing two people with face tracking feature, demonstrates
+  <p.caption typography-upgrader-item-caption-reduced>
+    Siri AI with more expressive voices and systemwide dictation
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+  <picture .overview-upgrader-siri-ai pin-offset ~/upgrader/siri_ai__ftge31f617iq_large.png>
+
+=== SECTION class="section section-android-values theme-dark" id=
+  <picture .overview-android-values-iphone callout-icon ~/android-values/iphone__cm8c5664gln6_large.png>
+  <h3.callout-subhead typography-callout-base>
+    Trade in your Android phone for credit.
+  <p>
+    With Apple Trade In, you can get credit toward a new iPhone when you trade in your Android phone.
+    <a href=#footnote-12 aria-label=Footnote 9>
+      9
+  <a.action-handler icon-wrapper callout-cta typography-callout-c href=/us/shop/goto/trade_in>
+    See what your device is worth
+    , Apple Trade In
+  <picture .overview-android-values-creditcard callout-icon ~/android-values/creditcard__9lzp09qkxv6u_large.png>
+  <h3.callout-subhead typography-callout-base>
+    Lease with Apple Upgrade.
+  <p>
+    Lease a new iPhone with low monthly payments for 12 or 24 months and upgrade at the end of your term.
+    <a href=#footnote-3 aria-label=Footnote ◊ symbol>
+      ◊
+  <a.action-handler icon-wrapper callout-cta typography-callout-c href=/us/shop/goto/apple_upgrade>
+    Learn more
+    , Apple Upgrade
+  <picture .overview-android-values-person callout-icon ~/android-values/person__cf417z3i1pg2_large.png>
+  <h3.callout-subhead typography-callout-base>
+    Guided Shopping.
+  <p>
+    Let us help you find what you need and answer all of your questions, one on one, at an Apple Store or online.
+  <a.action-handler icon-wrapper callout-cta typography-callout-c href=https://contactretail.apple.com/?pg=iphone&ap=COM&c=us&l=en&ag=SWSOV>
+    Shop with a Specialist online
+    , Guided Shopping
+
+=== SECTION class="section section-ios theme-dark" id=
+  <a.banner-card-active-area href=https://support.apple.com/118670?cid=general-iphone-marcom-08062025>
+  <h2.banner-card-headline typography-banner-card-headline>
+    Move to iOS app
+  <p>
+    Transfer your contacts, WhatsApp content, photos, videos, and more — from your Android phone to your iPhone with the Move to iOS app.
+  <a.action-handler icon-wrapper banner-card-cta href=https://support.apple.com/118670?cid=general-iphone-marcom-08062025 aria-label=Learn more, move to iOS app>
+    Learn more
+  <picture .overview-ios-move-to-ios banner-card-image ~/ios/move_to_ios__czimkpt2niy6_large.jpg>
+    alt=iPhone screen showing Move to iOS App with transfer complete
+
+=== SECTION class="section section-intro section-family theme-dark background-alt" id=shared-features
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    All in the family
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    All the must‑haves.
+    All on iPhone.
+  <picture .overview-family-siri-ai-hero hero-media-image ~/family/siri_ai_hero__b93zn5f7x4aa_large.jpg>
+    alt=Siri AI - iPhone 18 Pro on the left, angled, Glacier color showing Siri image generation; iPhone 18 
+  <p>
+    The latest iPhone models come packed with advanced capabilities.
+    Siri AI
+    , your new, more powerful AI assistant.
+    Apple Intelligence
+    for next-level photo editing, Writing Tools, Visual Intelligence,
+    <a href=#footnote-13 aria-label=Footnote 10>
+      10
+    and child safety features to make your everyday effortless.
+    <a href=#footnote-6 aria-label=Footnote 3>
+      3
+    Fast, secure connections
+    with
+    Wi‑Fi 7,
+    <a href=#footnote-14 aria-label=Footnote 11>
+      11
+    Bluetooth 6, 5G,
+    <a href=#footnote-15 aria-label=Footnote 12>
+      12
+    and eSIM.
+    <a href=#footnote-16 aria-label=Footnote 13>
+      13
+    And safety features like Messages via satellite designed to give you peace of mind.
+    <a href=#footnote-17 aria-label=Footnote 14>
+      14
+
+=== SECTION class="section section-siri-ai section-family theme-dark background-alt" id=
+  <h2.section-header-headline typography-section-header-headline>
+    Meet Siri AI. Your AI assistant.
+    More personal. More powerful.
+  <p>
+    Siri AI is rolling out in English.
+  <p>
+    Usage limits may apply.
+  <li.paragraph-lockup-cta-item paragraph-lockup-cta-item-link1>
+    <a.action-handler icon-wrapper paragraph-lockup-cta-link href=/apple-intelligence/>
+      Learn more about Siri AI
+  <li.card-container caption-tile gallery-item wide id=family-siri-ai-item-1>
+    <h3.caption-heading>
+      Just ask Siri AI.
+    <p>
+      Powered by Apple Intelligence, Siri AI is your conversational AI assistant with entirely new capabilities on iPhone.
+      <a href=#footnote-6 aria-label=Footnote 3>
+        3
+      Ask open-ended questions, brainstorm ideas for work or creative projects on the go, and engage in natural, back-and-forth conversations.
+    <picture .overview-family-siri-ai-siri-ai-assistant positioned-media-e ~/family/siri-ai/siri_ai_assistant__el1seyzgpv0i_large.jpg>
+  <li.card-container caption-tile gallery-item id=family-siri-ai-item-2>
+    <h3.caption-heading>
+      Personal context.
+    <p>
+      Siri AI can find relevant answers to what you’re looking for just by asking. Search for a photo from years ago, easily locate an email buried in your inbox, or pull up a note you saved on your iPhone.
+    <picture .overview-family-siri-ai-personal-context positioned-media-el ~/family/siri-ai/personal_context__fu25x2c16ymy_large.jpg>
+  <li.card-container caption-tile gallery-item id=family-siri-ai-item-3>
+    <h3.caption-heading>
+      App actions.
+    <p>
+      Siri AI can take actions in apps like Messages, Music, Reminders, and more based on what you’re doing in the moment. Quickly edit a message you just sent or add a song you hear in the car to your workout playlist.
+    <picture .overview-family-siri-ai-app-actions positioned-media-element ~/family/siri-ai/app_actions__budci8e25k76_large.jpg>
+  <li.card-container caption-tile gallery-item id=family-siri-ai-item-4>
+    <h3.caption-heading>
+      World knowledge.
+    <p>
+      Ask about virtually any topic that’s on your mind, from important facts to recipes and travel recommendations. Siri AI can reference information online to give you detailed, up-to-date insights.
+    <picture .overview-family-siri-ai-world-knowledge positioned-media-ele ~/family/siri-ai/world_knowledge__gfbdm64gdrue_large.jpg>
+  <li.card-container caption-tile gallery-item wide id=family-siri-ai-item-5>
+    <h3.caption-heading>
+      Siri app.
+    <p>
+      A dedicated app brings together all your conversations in one place, so you can ask a question on your iPhone and pick up where you left off on your iPad. You can also pin conversations for easy access or start a new one.
+    <picture .overview-family-siri-ai-siri-app positioned-media-element pi ~/family/siri-ai/siri_app__cv4mp1a9nxiu_large.jpg>
+  <li.card-container caption-tile gallery-item id=family-siri-ai-item-6>
+    <h3.caption-heading>
+      Siri mode in Camera.
+    <p>
+      Siri mode and Visual Intelligence let you search, ask questions, and take action based on what’s around you with just a tap.
+      <a href=#footnote-18 aria-label=Footnote 15>
+        15
+    <picture .overview-family-siri-ai-siri-mode positioned-media-element p ~/family/siri-ai/siri_mode__fi0ng1mrbvu6_large.jpg>
+  <li.card-container caption-tile gallery-item id=family-siri-ai-item-7>
+    <h3.caption-heading>
+      Customize Siri.
+    <p>
+      Pick a voice, then customize expressivity and pace until it clicks for you.
+      <a href=#footnote-19 aria-label=Footnote 16>
+        16
+    <picture .overview-family-siri-ai-customize positioned-media-element p ~/family/siri-ai/customize__flxdw7wl0byq_large.jpg>
+  <li.card-container caption-tile gallery-item wide id=family-siri-ai-item-8>
+    <h3.caption-heading>
+      Write with Siri.
+    <p>
+      Siri AI can now generate a draft from scratch or provide feedback on what you’ve written. Just describe what you need in your own words. And in Messages and Mail, Siri AI can match your writing style, punctuation, and tone.
+    <picture .overview-family-siri-ai-write positioned-media-element pin-o ~/family/siri-ai/write__cskm66rylaky_large.jpg>
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, Siri AI gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, Siri AI gallery>
+
+=== SECTION class="section section-ios-apple-intelligence section-family theme-dark background-alt" id=
+  <h2.section-header-headline typography-section-header-headline>
+    iOS and Apple Intelligence.
+    Helpful in all the right places.
+  <li.section-header-cta-item section-header-cta-item-link1>
+    <a.action-handler icon-wrapper section-header-cta-link href=/os/ios/>
+      Learn more about iOS 27 and Apple Intelligence
+  <li.card-container caption-tile gallery-item wide id=family-ios-apple-intelligence-item-1>
+    <h3.caption-heading>
+      Call Context.
+    <p>
+      Call Context can proactively surface relevant information from across your apps when you’re calling a business — like a confirmation code from Mail when you call an airline.
+    <picture .overview-family-ios-apple-intelligence-call-context position ~/family/ios-apple-intelligence/call_context__bwokedkz7swi_large.jpg>
+  <li.card-container caption-tile gallery-item id=family-ios-apple-intelligence-item-2>
+    <h3.caption-heading>
+      Child safety features.
+    <p>
+      New and expanded child safety features help make it easier for parents and guardians to keep kids safe online.
+    <picture .overview-family-ios-apple-intelligence-child-safety position ~/family/ios-apple-intelligence/child_safety__ep2w0kpc93ee_large.jpg>
+  <li.card-container caption-tile gallery-item wide id=family-ios-apple-intelligence-item-3>
+    <h3.caption-heading>
+      Clean Up.
+    <p>
+      Remove even larger objects with higher-quality infill, and blend your background seamlessly so your photos look their best.
+      <a href=#footnote-20 aria-label=Footnote 17>
+        17
+    <picture .overview-family-ios-apple-intelligence-clean-up positioned-m ~/family/ios-apple-intelligence/clean_up__c4nkcvxq91me_large.jpg>
+    <p>
+      Usage limits may apply.
+  <li.card-container caption-tile gallery-item wide id=family-ios-apple-intelligence-item-4>
+    <h3.caption-heading>
+      Image Playground.
+    <p>
+      Create unique, high-quality images in just about any style, including photorealistic. Modify and transform your images with just a description or using touch for endless possibilities.
+    <picture .overview-family-ios-apple-intelligence-image-playground posi ~/family/ios-apple-intelligence/image_playground__do3eby1zbe82_large.jpg>
+    <p>
+      Usage limits may apply.
+  <li.card-container caption-tile gallery-item id=family-ios-apple-intelligence-item-5>
+    <h3.caption-heading>
+      Suggestions.
+    <p>
+      Messages
+      <a href=#footnote-21 aria-label=Footnote 18>
+        18
+      and Mail offer suggestions to help you take quick actions based on context from your conversation — add a calendar event or search for a photo with just a tap.
+    <picture .overview-family-ios-apple-intelligence-suggestions positione ~/family/ios-apple-intelligence/suggestions__c87yzqqh490m_large.jpg>
+    <p>
+      Available in English.
+  <li.card-container caption-tile gallery-item id=family-ios-apple-intelligence-item-6>
+    <h3.caption-heading>
+      Safari tabs.
+    <p>
+      Now your tabs can be automatically grouped into topics, so related pages are easier to find. Safari Notify Me monitors pages for changes — for example, a price change or restock — and alerts you when it’s time to act. And you can create an extension that personalizes website content and formatting or automates common Safari actions.
+    <picture .overview-family-ios-apple-intelligence-safari-tabs positione ~/family/ios-apple-intelligence/safari_tabs__d3zxf5gah3ue_large.jpg>
+  <li.card-container caption-tile gallery-item id=family-ios-apple-intelligence-item-7>
+    <h3.caption-heading>
+      Shortcuts.
+    <p>
+      Automate daily tasks with a simple description. Just describe what you need, and Shortcuts creates an automation that connects actions across apps.
+    <picture .overview-family-ios-apple-intelligence-shortcuts positioned- ~/family/ios-apple-intelligence/shortcuts__fh00yn8sevqu_large.jpg>
+    <p>
+      Usage limits may apply.
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, iOS and Apple Intelligence gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, iOS and Apple Intelligence gallery>
+
+=== SECTION class="section section-connectivity section-family theme-dark background-alt" id=
+  <h2.section-header-headline typography-section-header-headline>
+    Connectivity.
+    Peace of mind in your pocket.
+  <li.card-container caption-tile gallery-item wide id=family-connectivity-item-1>
+    <h3.caption-heading>
+      eSIM.
+    <p>
+      A built-in eSIM provides seamless connectivity, flexibility, convenience, and better security without the need for a physical SIM card — perfect for traveling.
+      <a href=#footnote-16 aria-label=Footnote 13>
+        13
+    <picture .overview-family-connectivity-esim positioned-media-element p ~/family/connectivity/esim__dybvr8oo5ro2_large.jpg>
+    <a.action-handler icon-wrapper caption-cta href=/esim/>
+      Learn more about eSIM
+  <li.card-container caption-tile gallery-item wide id=family-connectivity-item-2>
+    <h3.caption-heading>
+      Messages via satellite.
+    <p>
+      Send and receive messages when you’re off the grid, right from the Messages app.
+      <a href=#footnote-17 aria-label=Footnote 14>
+        14
+    <picture .overview-family-connectivity-messages positioned-media-eleme ~/family/connectivity/messages__e05v4dplbdea_large.jpg>
+  <li.card-container caption-tile gallery-item wide id=family-connectivity-item-3>
+    <h3.caption-heading>
+      Roadside Assistance via satellite.
+    <p>
+      Get help for things like a flat tire or dead car battery. iPhone will connect you with a roadside assistance provider, who can send help to your exact location.
+      <a href=#footnote-22 aria-label=Footnote 19>
+        19
+    <picture .overview-family-connectivity-roadside positioned-media-eleme ~/family/connectivity/roadside__bqugdgosuzci_large.jpg>
+    <a.action-handler icon-wrapper caption-cta href=https://support.apple.com/guide/iphone/request-roadside-assistance-via-satellite-iph29bea54b5/ios>
+      See how Roadside Assistance works
+  <li.card-container caption-tile gallery-item id=family-connectivity-item-4>
+    <h3.caption-heading>
+      Emergency SOS via satellite.
+    <p>
+      If you try calling 911 but don’t have cell service or Wi‑Fi, you can use iPhone to text emergency services over satellite.
+      <a href=#footnote-17 aria-label=Footnote 14>
+        14
+    <picture .overview-family-connectivity-esos positioned-media-element p ~/family/connectivity/esos__8m299y5obzmq_large.jpg>
+    <a.action-handler icon-wrapper caption-cta href=https://support.apple.com/guide/iphone/use-emergency-sos-via-satellite-iph2968440de/ios>
+      See how Emergency SOS via satellite works
+  <li.card-container caption-tile gallery-item id=family-connectivity-item-5>
+    <h3.caption-heading>
+      Crash Detection.
+    <p>
+      Hardware sensors and advanced motion algorithms can detect a severe car crash and call for help if you can’t.
+      <a href=#footnote-23 aria-label=Footnote 20>
+        20
+    <picture .overview-family-connectivity-crash-detection positioned-medi ~/family/connectivity/crash_detection__c458d3ugtcom_large.jpg>
+  <li.card-container caption-tile gallery-item id=family-connectivity-item-6>
+    <h3.caption-heading>
+      Find My.
+    <p>
+      Securely share your location with friends and family.
+    <picture .overview-family-connectivity-find-my positioned-media-elemen ~/family/connectivity/find_my__epk4pm9szhci_large.jpg>
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, Connectivity gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, Connectivity gallery>
+
+=== SECTION class="section section-accessories theme-dark no-pad-bottom" id=accessories
+  <h2.ric-type-lockup-element ric-type-lockup-eyebrow-container ri>
+    Accessories
+  <p.ric-type-lockup-element ric-type-lockup-headline-container r>
+    Addition by attraction.
+  <p>
+    Accessorize in a snap with a selection of MagSafe cases and wallets. And go hands-free with the new Wrist Strap or the Crossbody Strap in new colors.
+  <a.action-handler icon-wrapper href=/us/shop/goto/iphone/accessories>
+    Shop all iPhone accessories
+  <picture .overview-accessories-accessories hero ~/accessories/accessories__eq6jc5t9202u_large.jpg>
+    alt=From left to right, iPhone 18 Pro in Burgundy leather case with Burgundy Crossbody strap, middle iPh
+
+=== SECTION class="section section-incentive background-alt" id=
+  <h2.section-header-headline typography-section-header-headline id=incentive-card-gallery>
+    Why Apple is the best
+    place to shop iPhone.
+  <li.section-header-cta-item section-header-cta-item-shop>
+    <a.action-handler icon-wrapper section-header-cta-link href=/us/shop/goto/buy_iphone>
+      Shop iPhone
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-apple-upgrade>
+    <h3.typography-feature-card-label feature-card-label>
+      Apple Upgrade
+    <p.typography-feature-card-headline feature-card-headline>
+      Love it. Lease it. Upgrade it.
+    <p.typography-feature-card-body feature-card-body>
+      Lease a new iPhone with low monthly payments for 12 or 24 months and upgrade at the end of your term.
+      <a href=#footnote-3 aria-label=Footnote ◊ symbol>
+        ◊
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-apple-upgrade feature-card-image ~/incentive/apple_upgrade__dc9j71c0kuye_large.jpg>
+        alt=iPhone 18 Pro, back view, silver color, featuring a camera system in the top left corner, colorful g
+    <a.card-control href=/us/shop/goto/apple_upgrade aria-label=Read more about Apple Upgrade>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-carrier-deals>
+    <h3.typography-feature-card-label feature-card-label>
+      Carrier Deals at Apple
+    <p.typography-feature-card-headline feature-card-headline>
+      Get up to $1200 in credit on a new iPhone after trade‑in.
+    <p.typography-feature-card-body feature-card-body>
+      Includes carrier credits. AT&T: up to $1200. T‑Mobile: up to $1000. Verizon: up to $840.
+      <a href=#footnote-24 aria-label=Footnote 21>
+        21
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-carrier feature-card-image ~/incentive/carrier__esb83lh15tsi_large.jpg>
+        alt=Verizon, AT&T, T-mobile
+    <a.card-control href=/us/shop/goto/buy_iphone/carrier_offers aria-label=Learn more about carrier deals>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-apple-trade-in>
+    <h3.typography-feature-card-label feature-card-label>
+      Apple Trade In
+    <p.typography-feature-card-headline feature-card-headline>
+      Save on a new iPhone with a trade‑in.
+    <p.typography-feature-card-body feature-card-body>
+      Get credit toward your next iPhone when you trade in an eligible device.
+      <a href=#footnote-12 aria-label=Footnote 9>
+        9
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-apple-trade-in feature-card-image ~/incentive/apple_trade_in__bxvpyn2q8tg2_large.jpg>
+        alt=Hands exchanging trade-in. Older iPhone in a case with stickers for a new Burgundy iPhone 18 Pro in 
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Apple Trade In
+    <h3.typography-modal-header-headline modal-header-headline>
+      Trade in your eligible device for credit.
+    <p>
+      Just add a trade‑in when you choose a new product. Once your eligible device has been received and verified, we’ll credit the value to your payment method. Or choose to check out with Apple Card Monthly Installments and we’ll apply the credit instantly. Terms apply.
+    <a.action-handler icon-wrapper href=/us/shop/goto/trade_in>
+      Learn more
+      , Apple Trade In
+    <button.ric-modal-close-button iconcontrol aria-label=Close Apple Trade In modal>
+    <button.card-control aria-label=Read more about Apple Trade in>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-ways-to-buy>
+    <h3.typography-feature-card-label feature-card-label>
+      Ways to Buy
+    <p.typography-feature-card-headline feature-card-headline>
+      Pay over time, interest‑free.
+    <p.typography-feature-card-body feature-card-body>
+      When you choose to check out at Apple with Apple Card Monthly Installments.
+      <a href=#footnote-2 aria-label=Footnote ** symbol>
+        **
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-ways-to-buy feature-card-image ~/incentive/ways_to_buy__cuh31j07k0eq_large.jpg>
+        alt=Front of Apple Card, titanium finish
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Ways to Buy
+    <h3.typography-modal-header-headline modal-header-headline>
+      Apple Card Monthly Installments.
+    <p>
+      Pay for your new iPhone over time, interest‑free with Apple Card.
+      <a href=#footnote-2 aria-label=Footnote ** symbol>
+        **
+      Simply choose to check out at Apple with Apple Card Monthly Installments as your payment option when you make your purchase. And enjoy 3% Daily Cash back, all up front. Terms apply.
+    <a.action-handler icon-wrapper href=/apple-card/monthly-installments/>
+      Learn more
+      , Apple Card Monthly Installments
+    <button.ric-modal-close-button iconcontrol aria-label=Close Ways to Buy modal>
+    <button.card-control aria-label=Read more about Apple Card>
+  <li.card-container feature-card gallery-item id=icon-card-get-to-know>
+    <h3.typography-feature-card-label feature-card-label>
+      Personal Setup
+    <p.typography-feature-card-headline feature-card-headline>
+      Meet your new iPhone with Personal Setup.
+    <p.typography-feature-card-body feature-card-body>
+      Jump into online sessions with a Specialist to set up your iPhone and discover new features.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-personal-setup feature-card-image ~/incentive/personal_setup__dq9kk8pi0ga6_large.jpg>
+        alt=Apple devices and features, iCloud, iPhone with Face ID and charging cable, Camera, messaging, Messa
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Personal Setup
+    <h3.typography-modal-header-headline modal-header-headline>
+      Jump into online, one‑on‑one sessions.
+    <p>
+      When you buy your new iPhone directly from Apple, you’ll get access to Personal Setup. In these guided online sessions, a Specialist can walk you through setup and data transfer or focus on features that help you make the most of your iPhone. Best of all, you can join whenever works for you, from wherever you are.
+    <a.action-handler icon-wrapper href=/us/shop/goto/personal_session>
+      Learn more
+      , Personal Setup
+    <button.ric-modal-close-button iconcontrol aria-label=Close Personal Setup modal>
+    <button.card-control aria-label=Learn more about Personal Setup>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-delivery>
+    <h3.typography-feature-card-label feature-card-label>
+      Delivery and Pickup
+    <p.typography-feature-card-headline feature-card-headline>
+      Get flexible delivery and easy pickup.
+    <p.typography-feature-card-body feature-card-body>
+      Choose two‑hour delivery from an Apple Store, free delivery, or easy pickup options.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-deliver feature-card-image ~/incentive/deliver__dppu74mrffo2_large.jpg>
+        alt=Apple shopping bag in white color with Apple Logo near top
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Delivery and Pickup
+    <h3.typography-modal-header-headline modal-header-headline>
+      Flexible delivery and pickup options.
+    <p>
+      Get your new Apple products quickly and easily with two‑hour delivery from an Apple Store, free next‑day delivery, or convenient Apple pickup options.
+    <a.action-handler icon-wrapper href=/us/shop/goto/shipping_pickup>
+      Learn more
+      , delivery and pickup options
+    <button.ric-modal-close-button iconcontrol aria-label=Close Delivery and Pickup modal>
+    <button.card-control aria-label=Read more about delivery and pickup>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-guided-video-shopping>
+    <h3.typography-feature-card-label feature-card-label>
+      Guided Shopping
+    <p.typography-feature-card-headline feature-card-headline>
+      Shop live with a Specialist.
+    <p.typography-feature-card-body feature-card-body>
+      Let us help you find what you need and answer all of your questions, one on one, at an Apple Store or online.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-guided-video-shopping feature-card-image ~/incentive/guided_video_shopping__fpotxkh25ymq_large.jpg>
+        alt=Smiling Apple Specialist with an approachable demeanor
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Guided Shopping
+    <h3.typography-modal-header-headline modal-header-headline>
+      Get help finding what’s right for you.
+    <p>
+      Specialists are here to answer your questions about all things Apple. Shop one on one with an Apple Specialist live, at an Apple Store or online.
+    <a.action-handler icon-wrapper href=https://contactretail.apple.com/?pg=iphone&ap=COM&c=us&l=en&ag=SWSOV>
+      Shop with a Specialist online
+      about guided video shopping
+    <button.ric-modal-close-button iconcontrol aria-label=Close Guided Video Shopping modal>
+    <button.card-control aria-label=Read more about shop with a specialist>
+  <li.card-container feature-card gallery-item id=icon-card-apple-store-app>
+    <h3.typography-feature-card-label feature-card-label>
+      Apple Store App
+    <p.typography-feature-card-headline feature-card-headline>
+      Explore a shopping experience designed around you.
+    <p.typography-feature-card-body feature-card-body>
+      Use the Apple Store app to get a more personal way to shop.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-apple-store-app feature-card-image ~/incentive/apple_store_app__b1iul1goe0mq_large.jpg>
+        alt=Apple Store App, shopping bag icon, blue
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Apple Store App
+    <h3.typography-modal-header-headline modal-header-headline>
+      Shop in the Apple Store app, tailored specifically for you.
+    <p>
+      Get personalized product recommendations, compare models, access Your Saves, and track your orders. And opt in today to get updates on new products, promotions, flexible payment options, and store events.
+    <a.action-handler icon-wrapper href=https://apps.apple.com/us/app/apple-store/id375380948/>
+      Download the Apple Store app
+    <p>
+      Get personalized product recommendations, compare models, access Your Saves, and track your orders. And opt in today to get updates on new products, promotions, flexible payment options, and store events.
+    <p>
+      Scan the QR code to get started.
+    <picture .overview-incentive-boc-qr-code ~/incentive/boc_qr_code__dl7xwwg834gi_large.png>
+      alt=Scan the QR code to shop in the Apple Store app.
+    <button.ric-modal-close-button iconcontrol aria-label=Close Apple Store App modal>
+    <button.card-control aria-label=Read more about Apple Store App>
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, Why Apple gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, Why Apple gallery>
+
+=== SECTION class="section section-incentive-alt background-alt" id=
+  <h2.section-header-headline typography-section-header-headline id=incentive-card-gallery>
+    Why Apple is the best
+    place to shop iPhone.
+  <li.section-header-cta-item section-header-cta-item-shop>
+    <a.action-handler icon-wrapper section-header-cta-link href=/us/shop/goto/buy_iphone>
+      Shop iPhone
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-apple-upgrade>
+    <h3.typography-feature-card-label feature-card-label>
+      Apple Upgrade
+    <p.typography-feature-card-headline feature-card-headline>
+      Love it. Lease it. Upgrade it.
+    <p.typography-feature-card-body feature-card-body>
+      Lease a new iPhone with low monthly payments for 12 or 24 months and upgrade at the end of your term.
+      <a href=#footnote-3 aria-label=Footnote ◊ symbol>
+        ◊
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-apple-upgrade feature-card-image ~/incentive/apple_upgrade__dc9j71c0kuye_large.jpg>
+        alt=iPhone 18 Pro, back view, silver color, featuring a camera system in the top left corner, colorful g
+    <a.card-control href=/us/shop/goto/apple_upgrade aria-label=Read more about Apple Upgrade>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-carrier-deals>
+    <h3.typography-feature-card-label feature-card-label>
+      Carrier Deals at Apple
+    <p.typography-feature-card-headline feature-card-headline>
+      Apple. Your one‑stop shop for incredible carrier deals.
+      <a href=#footnote-24 aria-label=Footnote 21>
+        21
+    <p.typography-feature-card-body feature-card-body>
+      Get an unbelievable deal on a new iPhone with AT&T, T‑Mobile, or Verizon.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-carrier feature-card-image ~/incentive/carrier__esb83lh15tsi_large.jpg>
+        alt=Verizon, AT&T, T-mobile
+    <a.card-control href=/us/shop/goto/buy_iphone/carrier_offers aria-label=Learn more about carrier deals>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-apple-trade-in>
+    <h3.typography-feature-card-label feature-card-label>
+      Apple Trade In
+    <p.typography-feature-card-headline feature-card-headline>
+      Get credit toward your next iPhone when you trade in an eligible device.
+    <p.typography-feature-card-body feature-card-body>
+      With Apple Trade In, you can get credit toward a new iPhone when you trade in your Android phone.
+      <a href=#footnote-12 aria-label=Footnote 9>
+        9
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-trade-in-android feature-card-image ~/incentive/trade_in_android__cz42ggstsd4y_large.jpg>
+        alt=Two hands side-by-side, hand holding Android without box, trade-in, with hand holding new iPhone 18 
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Apple Trade In
+    <h3.typography-modal-header-headline modal-header-headline>
+      Get credit toward your next iPhone when you trade in an eligible device.
+      <a href=#footnote-12 aria-label=Footnote 9>
+        9
+    <p>
+      Just add a trade‑in when you choose a new product. Once your Android phone or eligible device has been received and verified, we’ll credit the value to your payment method. Or choose to check out with Apple Card Monthly Installments and we’ll apply the credit instantly. Terms apply.
+    <a.action-handler icon-wrapper href=/us/shop/goto/trade_in>
+      Learn more
+      , Apple Trade In
+    <button.ric-modal-close-button iconcontrol aria-label=Close Apple Trade In modal>
+    <button.card-control aria-label=Read more about Apple Trade in>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-ways-to-buy>
+    <h3.typography-feature-card-label feature-card-label>
+      Ways to Buy
+    <p.typography-feature-card-headline feature-card-headline>
+      Pay over time, interest‑free.
+    <p.typography-feature-card-body feature-card-body>
+      When you choose to check out at Apple with Apple Card Monthly Installments.
+      <a href=#footnote-2 aria-label=Footnote ** symbol>
+        **
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-ways-to-buy feature-card-image ~/incentive/ways_to_buy__cuh31j07k0eq_large.jpg>
+        alt=Front of Apple Card, titanium finish
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Ways to Buy
+    <h3.typography-modal-header-headline modal-header-headline>
+      Apple Card Monthly Installments.
+    <p>
+      Pay for your new iPhone over time, interest‑free with Apple Card.
+      <a href=#footnote-2 aria-label=Footnote ** symbol>
+        **
+      Simply choose to check out at Apple with Apple Card Monthly Installments as your payment option when you make your purchase. And enjoy 3% Daily Cash back, all up front. Terms apply.
+    <a.action-handler icon-wrapper href=/apple-card/monthly-installments/>
+      Learn more
+      , Apple Card Monthly Installments
+    <button.ric-modal-close-button iconcontrol aria-label=Close Ways to Buy modal>
+    <button.card-control aria-label=Read more about Apple Card>
+  <li.card-container feature-card gallery-item id=icon-card-get-to-know>
+    <h3.typography-feature-card-label feature-card-label>
+      Personal Setup
+    <p.typography-feature-card-headline feature-card-headline>
+      Meet your new iPhone with Personal Setup.
+    <p.typography-feature-card-body feature-card-body>
+      Jump into online sessions with a Specialist to set up your iPhone and discover new features.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-personal-setup feature-card-image ~/incentive/personal_setup__dq9kk8pi0ga6_large.jpg>
+        alt=Apple devices and features, iCloud, iPhone with Face ID and charging cable, Camera, messaging, Messa
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Personal Setup
+    <h3.typography-modal-header-headline modal-header-headline>
+      Jump into online, one‑on‑one sessions.
+    <p>
+      When you buy your new iPhone directly from Apple, you’ll get access to Personal Setup. In these guided online sessions, a Specialist can walk you through setup and data transfer or focus on features that help you make the most of your iPhone. Best of all, you can join whenever works for you, from wherever you are.
+    <a.action-handler icon-wrapper href=/us/shop/goto/personal_session>
+      Learn more
+      , Personal Setup
+    <button.ric-modal-close-button iconcontrol aria-label=Close Personal Setup modal>
+    <button.card-control aria-label=Learn more about Personal Setup>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-delivery>
+    <h3.typography-feature-card-label feature-card-label>
+      Delivery and Pickup
+    <p.typography-feature-card-headline feature-card-headline>
+      Get flexible delivery and easy pickup.
+    <p.typography-feature-card-body feature-card-body>
+      Choose two‑hour delivery from an Apple Store, free delivery, or easy pickup options.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-deliver feature-card-image ~/incentive/deliver__dppu74mrffo2_large.jpg>
+        alt=Apple shopping bag in white color with Apple Logo near top
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Delivery and Pickup
+    <h3.typography-modal-header-headline modal-header-headline>
+      Flexible delivery and pickup options.
+    <p>
+      Get your new Apple products quickly and easily with two‑hour delivery from an Apple Store, free next‑day delivery, or convenient Apple pickup options.
+    <a.action-handler icon-wrapper href=/us/shop/goto/shipping_pickup>
+      Learn more
+      , delivery and pickup options
+    <button.ric-modal-close-button iconcontrol aria-label=Close Delivery and Pickup modal>
+    <button.card-control aria-label=Read more about delivery and pickup>
+  <li.card-container feature-card theme-light background-alt galle id=icon-card-guided-video-shopping>
+    <h3.typography-feature-card-label feature-card-label>
+      Guided Shopping
+    <p.typography-feature-card-headline feature-card-headline>
+      Shop live with a Specialist.
+    <p.typography-feature-card-body feature-card-body>
+      Let us help you find what you need and answer all of your questions, one on one, at an Apple Store or online.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-guided-video-shopping feature-card-image ~/incentive/guided_video_shopping__fpotxkh25ymq_large.jpg>
+        alt=Smiling Apple Specialist with an approachable demeanor
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Guided Shopping
+    <h3.typography-modal-header-headline modal-header-headline>
+      Get help finding what’s right for you.
+    <p>
+      Specialists are here to answer your questions about all things Apple. Shop one on one with an Apple Specialist live, at an Apple Store or online.
+    <a.action-handler icon-wrapper href=https://contactretail.apple.com/?pg=iphone&ap=COM&c=us&l=en&ag=SWSOV>
+      Shop with a Specialist online
+      about guided video shopping
+    <button.ric-modal-close-button iconcontrol aria-label=Close Guided Video Shopping modal>
+    <button.card-control aria-label=Read more about shop with a specialist>
+  <li.card-container feature-card gallery-item id=icon-card-apple-store-app>
+    <h3.typography-feature-card-label feature-card-label>
+      Apple Store App
+    <p.typography-feature-card-headline feature-card-headline>
+      Explore a shopping experience designed around you.
+    <p.typography-feature-card-body feature-card-body>
+      Use the Apple Store app to get a more personal way to shop.
+    <figure.feature-card-image-container pin-self-bottom-center>
+      <picture .overview-incentive-apple-store-app feature-card-image ~/incentive/apple_store_app__b1iul1goe0mq_large.jpg>
+        alt=Apple Store App, shopping bag icon, blue
+    <h2.typography-modal-header-topic-label modal-header-topic-label>
+      Apple Store App
+    <h3.typography-modal-header-headline modal-header-headline>
+      Shop in the Apple Store app, tailored specifically for you.
+    <p>
+      Get personalized product recommendations, compare models, access Your Saves, and track your orders. And opt in today to get updates on new products, promotions, flexible payment options, and store events.
+    <a.action-handler icon-wrapper href=https://apps.apple.com/us/app/apple-store/id375380948/>
+      Download the Apple Store app
+    <p>
+      Get personalized product recommendations, compare models, access Your Saves, and track your orders. And opt in today to get updates on new products, promotions, flexible payment options, and store events.
+    <p>
+      Scan the QR code to get started.
+    <picture .overview-incentive-boc-qr-code ~/incentive/boc_qr_code__dl7xwwg834gi_large.png>
+      alt=Scan the QR code to shop in the Apple Store app.
+    <button.ric-modal-close-button iconcontrol aria-label=Close Apple Store App modal>
+    <button.card-control aria-label=Read more about Apple Store App>
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, Why Apple gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, Why Apple gallery>
+
+=== SECTION class="section section-contrast background-alt no-pad-top" id=
+  <h2.section-header-headline typography-section-header-headline id=contrast-section-header>
+    Keep exploring iPhone.
+  <li.section-header-cta-item section-header-cta-item-explore>
+    <a.action-handler icon-wrapper section-header-cta-link href=/iphone/>
+      Explore all iPhone
+  <li.product-tile product-tile-iphone-18-pro>
+    <h3.product-tile-product-id product-tile-padding>
+      New
+      iPhone 18 Pro
+      iPhone 18 Pro
+    <picture .overview-contrast-iphone-18-pro-alt product-tile-image ~/contrast/iphone_18_pro_alt__gcw09g1aoqie_large.jpg>
+      alt=iPhone 18 Pro
+    <li.colorindicator-item colorindicator-swatch finish-iphone18pro>
+      Burgundy
+    <li.colorindicator-item colorindicator-swatch finish-iphone18pro>
+      Glacier
+    <li.colorindicator-item colorindicator-swatch finish-iphone18pro>
+      Silver
+    <li.colorindicator-item colorindicator-swatch finish-iphone18pro>
+      Black
+    <li.colorindicator-item colorindicator-label>
+      +
+      more
+    <p.product-tile-positioning typography-product-tile-positioning>
+      The ultimate performance and camera of any iPhone, with exceptional battery life.
+    <p.ric-dynamic-pricing ric-dynamic-pricing-from-monthly-leasing>
+      <a href=#footnote-1 aria-label=Footnote * symbol>
+        *
+      <a href=#footnote-3 aria-label=Footnote ◊ symbol>
+        ◊
+    Currently viewing
+    , iPhone 18 Pro
+    <a.action-handler icon-wrapper product-tile-link href=/us/shop/goto/buy_iphone/iphone_18_pro aria-label=Buy, iPhone 18 Pro>
+      Buy
+    <p.tout-subheading typography-tout-subheading>
+      6.9” or 6.3”
+      6.9 inches or 6.3 inches
+    <li>
+      <p>
+        Super Retina XDR display
+        <a href=#footnote-9 aria-label=Footnote 6>
+          6
+    <li>
+      <p.tout-copy>
+        —
+        not applicable
+    <picture .overview-contrast-battery tout-icon ~/contrast/battery__btf608ldbd0i_large.png>
+    <li>
+      <p>
+        Up to 45 hours video playback
+        <a href=#footnote-5 aria-label=Footnote 2>
+          2
+    <li>
+      <p.tout-copy>
+        —
+        not applicable
+    <picture .overview-contrast-chip-a20pro tout-icon ~/contrast/chip_a20pro__eio38rrjn50m_large.png>
+    <li>
+      <p>
+        A20 Pro chip
+    <li>
+      <p>
+        7-core GPU with Neural Accelerators
+    <picture .overview-contrast-iphone-18-pro-camera tout-icon ~/contrast/iphone_18_pro_camera__cr03lr3qm8cy_large.png>
+    <li>
+      <p>
+        48MP Pro Fusion camera system
+    <li>
+      <p>
+        48MP Fusion Main with variable aperture
+    <li>
+      <p>
+        48MP Fusion Ultra Wide
+    <li>
+      <p>
+        48MP Fusion Telephoto
+    <li>
+      <p>
+        ƒ/1.48, ƒ/1.8, ƒ/2.8, ƒ/4.0 variable aperture options (Fusion Main)
+        F 1.48, F 1.8, F 2.8, F 4.0 variable aperture options (Fusion Main)
+    <picture .overview-contrast-center-stage tout-icon ~/contrast/center_stage__ecf4wpldlkcy_large.png>
+    <li>
+      <p>
+        18MP Center Stage front camera
+    <li>
+      <p>
+        Ultra-stabilized video
+    <li>
+      <p>
+        Dual Capture
+    <li>
+      <p>
+        Center Stage for photos and video calls
+    <li>
+      <p.tout-copy>
+        —
+        Under-display FaceTime camera, not applicable
+    <picture .overview-contrast-apple-intelligence tout-icon ~/contrast/apple_intelligence__bj6vdt2qskmu_large.png>
+    <li>
+      <p>
+        Apple Intelligence
+        <a href=#footnote-6 aria-label=Footnote 3>
+          3
+    <li>
+      <p>
+        Siri AI
+        <a href=#footnote-6 aria-label=Footnote 3>
+          3
+  <li.product-tile product-tile-iphone-duo>
+    <h3.product-tile-product-id product-tile-padding>
+      New
+      iPhone Duo
+      iPhone Duo
+    <a.product-tile-image-link href=/iphone-duo/>
+      <picture .overview-contrast-iphone-duo product-tile-image ~/contrast/iphone_duo__es1je56gg18i_large.jpg>
+        alt=iPhone Duo
+    <li.colorindicator-item colorindicator-swatch finish-iphoneduo-s>
+      Star White
+    <li.colorindicator-item colorindicator-swatch finish-iphoneduo-n>
+      Night Sky
+    <li.colorindicator-item colorindicator-label>
+      +
+      more
+    <p.product-tile-positioning typography-product-tile-positioning>
+      The largest display of any iPhone. Foldable. Posable. And durable.
+    <p.ric-dynamic-pricing ric-dynamic-pricing-from-monthly-leasing>
+      <a href=#footnote-1 aria-label=Footnote * symbol>
+        *
+      <a href=#footnote-3 aria-label=Footnote ◊ symbol>
+        ◊
+    <a.action-handler button product-tile-button href=/iphone-duo/ aria-label=Learn more, iPhone Duo>
+      Learn more
+    <a.action-handler icon-wrapper product-tile-link href=/us/shop/goto/buy_iphone/iphone_duo aria-label=Buy, iPhone Duo>
+      Buy
+    <p.tout-subheading typography-tout-subheading>
+      7.6”
+      7.6 inches
+    <li>
+      <p>
+        7.6-inch Super Retina XDR folding display with nano‑texture
+        <a href=#footnote-9 aria-label=Footnote 6>
+          6
+    <li>
+      <p>
+        5.4-inch Super Retina XDR outer display
+        <a href=#footnote-9 aria-label=Footnote 6>
+          6
+    <picture .overview-contrast-battery tout-icon ~/contrast/battery__btf608ldbd0i_large.png>
+    <li>
+      <p>
+        Up to 31 hours video playback when using inner display
+        <a href=#footnote-25 aria-label=Footnote 22>
+          22
+    <li>
+      <p>
+        Up to 44 hours video playback when using outer display
+        <a href=#footnote-25 aria-label=Footnote 22>
+          22
+    <picture .overview-contrast-chip-a20pro tout-icon ~/contrast/chip_a20pro__eio38rrjn50m_large.png>
+    <li>
+      <p>
+        A20 Pro chip
+    <li>
+      <p>
+        7-core GPU with Neural Accelerators
+    <picture .overview-contrast-iphone-duo-camera tout-icon ~/contrast/iphone_duo_camera__e3kr0qjnx3o2_large.png>
+    <li>
+      <p>
+        48MP Dual Fusion camera system
+    <li>
+      <p>
+        48MP Fusion Main
+    <li>
+      <p>
+        48MP Fusion Ultra Wide
+    <li>
+      <p.tout-copy>
+        —
+        Fusion telephoto, not applicable
+    <li>
+      <p.tout-copy>
+        —
+        Aperture options, not applicable
+    <picture .overview-contrast-center-stage tout-icon ~/contrast/center_stage__ecf4wpldlkcy_large.png>
+    <li>
+      <p>
+        12MP Center Stage front camera
+    <li>
+      <p>
+        Ultra-stabilized video
+    <li>
+      <p>
+        Dual Capture
+    <li>
+      <p>
+        Center Stage for photos and video calls
+    <li>
+      <p>
+        Under-display FaceTime camera
+    <picture .overview-contrast-apple-intelligence tout-icon ~/contrast/apple_intelligence__bj6vdt2qskmu_large.png>
+    <li>
+      <p>
+        Apple Intelligence
+        <a href=#footnote-6 aria-label=Footnote 3>
+          3
+    <li>
+      <p>
+        Siri AI
+        <a href=#footnote-6 aria-label=Footnote 3>
+          3
+  <a.action-handler icon-wrapper aap-text-icon-control href=/iphone/compare/>
+    Compare all iPhone models
+
+=== SECTION class="section section-environment background-alt no-pad-top" id=
+  <h2.section-header-headline typography-section-header-headline id=environment-section-header>
+    iPhone 18 Pro and the environment.
+  <li.section-header-cta-item section-header-cta-item-cta1>
+    <a.action-handler icon-wrapper link-standalone section-header-c href=/environment/pdf/products/iphone/iPhone_18_Pro_and_iPhone_18_Pro_Max_PER_Sept2026.pdf>
+      Learn more in our Product Environmental Report (PDF)
+      , opens in new tab
+  <li.card-container gallery-item icon-card icon-card-icon-control id=gallery-item-material-1>
+    <picture .overview-environment-icon-recycling icon-card-icon ~/environment/icon_recycling__cbg6enserceu_large.png>
+    <h3.icon-card-headline typography-icon-card-headline>
+      Made with
+      40% recycled material
+      by weight.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+    <h2.typography-modal-header-headline modal-header-headline>
+      Recycled Material
+    <p.utility-modal-block-inline-headline typography-utility-modal>
+      Our approach.
+    <p>
+      Using recycled materials, like 85% recycled aluminum in the enclosure, reduces the need to mine new material, which avoids the carbon emissions and environmental impacts of mining.
+    <a.action-handler icon-wrapper link-standalone href=/environment/pdf/products/iphone/iPhone_18_Pro_and_iPhone_18_Pro_Max_PER_Sept2026.pdf>
+      Learn more in our Product Environmental Report (PDF)
+      , opens in new tab
+    <p.utility-modal-block-inline-headline typography-utility-modal>
+      How you can help.
+    <p>
+      You can protect the earth’s precious resources by trading in, passing down, or recycling devices and accessories you no longer use. You can bring them into any Apple Store for free, secure recycling. We also offer other ways to recycle, including mail-in options.
+    <a.action-handler icon-wrapper href=/us/shop/goto/trade_in/#recycle>
+      Learn how to trade in or recycle devices
+    <button.ric-modal-close-button iconcontrol aria-label=Close Recycled Material modal>
+    <button.card-control aria-label=Learn more about Apple’s approach to recycled material>
+  <li.card-container gallery-item icon-card icon-card-icon-control id=gallery-item-electricity-2>
+    <picture .overview-environment-icon-electricity icon-card-icon ~/environment/icon_electricity__fmrz4117o7ee_large.png>
+    <h3.icon-card-headline typography-icon-card-headline>
+      Manufactured with
+      50% renewable electricity.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+    <h2.typography-modal-header-headline modal-header-headline>
+      Renewable Electricity
+    <p.utility-modal-block-inline-headline typography-utility-modal>
+      Our approach.
+    <p>
+      Using electricity from renewable sources like wind and solar — instead of fossil fuels — across our global supply chain significantly reduces carbon emissions from manufacturing Apple products.
+    <a.action-handler icon-wrapper link-standalone href=/environment/pdf/products/iphone/iPhone_18_Pro_and_iPhone_18_Pro_Max_PER_Sept2026.pdf>
+      Learn more in our Product Environmental Report (PDF)
+      , opens in new tab
+    <p.utility-modal-block-inline-headline typography-utility-modal>
+      How you can help.
+    <p>
+      You can extend the lifespan of your batteries and Apple products by using Optimized Battery Charging. It works by learning your charging habits and delaying the final charge — from 80% to 100% — until you are likely to need it.
+    <a.action-handler icon-wrapper href=https://support.apple.com/en-us/108055?cid=general-iphone-b3d8fc66-62029290>
+      Learn more about Optimized Battery Charging
+    <button.ric-modal-close-button iconcontrol aria-label=Close Renewable Electricity modal>
+    <button.card-control aria-label=Learn more about Apple’s approach to renewable electricity>
+  <li.card-container gallery-item icon-card icon-card-icon-control id=gallery-item-packaging-3>
+    <picture .overview-environment-icon-package icon-card-icon ~/environment/icon_package__btqe87dkmr5y_large.png>
+    <h3.icon-card-headline typography-icon-card-headline>
+      Ships in
+      100% fiber-based packaging.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+    <h2.typography-modal-header-headline modal-header-headline>
+      Package and Ship
+    <p.utility-modal-block-inline-headline typography-utility-modal>
+      Our approach.
+    <p>
+      iPhone 18 Pro comes in a 100% fiber-based box as part of our commitment to remove plastic from the packaging of all Apple products.
+    <a.action-handler icon-wrapper link-standalone href=/environment/pdf/products/iphone/iPhone_18_Pro_and_iPhone_18_Pro_Max_PER_Sept2026.pdf>
+      Learn more in our Product Environmental Report (PDF)
+      , opens in new tab
+    <p.utility-modal-block-inline-headline typography-utility-modal>
+      How you can help.
+    <p>
+      New Apple products come in paper packaging that’s 100% fiber-based, so for many customers, the entire box can go straight into your household recycling bin. You can also bring Apple packaging to any Apple Store, and we’ll recycle it for free.
+    <a.action-handler icon-wrapper href=/us/shop/goto/trade_in/#recycle>
+      Learn more about recycling
+    <button.ric-modal-close-button iconcontrol aria-label=Close Packaging modal>
+    <button.card-control aria-label=Learn more about Apple’s approach to packaging>
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, Environment gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, Environment gallery>
+
+=== SECTION class="section section-values background-alt no-pad-top" id=
+  <h2.section-header-headline typography-section-header-headline id=values-section-header>
+    Our values lead the way.
+  <li.card-container gallery-item icon-card icon-card-link id=gallery-item-environment-1>
+    <picture .overview-values-icon-environment icon-card-icon ~/values/icon_environment__bweedxdciqpe_large.png>
+    <h3.icon-card-headline typography-icon-card-headline>
+      A plan as innovative as our products.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+      We’re committed to bringing net emissions to zero across our entire carbon footprint by 2030.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+      <a.action-handler icon-wrapper href=/environment/>
+        Learn more about environment
+    <a.card-control href=/environment/>
+  <li.card-container gallery-item icon-card icon-card-link id=gallery-item-privacy-2>
+    <picture .overview-values-icon-privacy icon-card-icon ~/values/icon_privacy__eej8prd13126_large.png>
+    <h3.icon-card-headline typography-icon-card-headline>
+      Privacy. That’s Apple.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+      Privacy is a fundamental human right. Every product and service is designed to help keep your data safe and secure.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+      <a.action-handler icon-wrapper href=/privacy/>
+        Learn more about privacy
+    <a.card-control href=/privacy/>
+  <li.card-container gallery-item icon-card icon-card-link id=gallery-item-accessibility-3>
+    <picture .overview-values-icon-accessibility icon-card-icon ~/values/icon_accessibility__ciyyk203pxsi_large.png>
+    <h3.icon-card-headline typography-icon-card-headline>
+      Innovation that’s accessible by design.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+      Our products and services are designed for everyone, with built-in features to help you do what you love, your way.
+    <p.icon-card-body-copy typography-icon-card-body-copy>
+      <a.action-handler icon-wrapper href=/accessibility/>
+        Learn more about accessibility
+    <a.card-control href=/accessibility/>
+  <li.left-item>
+    <button.paddlenav-arrow paddlenav-arrow-previous aria-label=Previous item, Values gallery>
+  <li.right-item>
+    <button.paddlenav-arrow paddlenav-arrow-next aria-label=Next item, Values gallery>
+
+=== SECTION class="section section-index" id=
+  <h2.typography-index-headline index-title id=iphone-index-title>
+    iPhone

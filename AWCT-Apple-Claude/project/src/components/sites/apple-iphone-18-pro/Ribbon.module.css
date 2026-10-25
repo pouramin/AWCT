@@ -1,0 +1,18 @@
+.ribbon { background: #1d1d1f; overflow: hidden; }
+
+.content {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 16px 16px;
+  color: #f5f5f7;
+  font: 400 14px/1.42859 var(--a-font-text);
+  letter-spacing: -0.016em;
+  text-align: center;
+}
+
+.link { color: #2997ff; text-decoration: none; }
+.link:hover { text-decoration: underline; }
+
+@media (max-width: 734px) {
+  .content { padding: 16px; }
+}

@@ -1,0 +1,200 @@
+{
+  "source": [
+    {
+      "height": 804,
+      "id": "",
+      "key": "section-media-hero",
+      "top": 96
+    },
+    {
+      "height": 1080,
+      "id": "highlights",
+      "key": "section-highlights",
+      "top": 900
+    },
+    {
+      "height": 1407,
+      "id": "",
+      "key": "section-aio",
+      "top": 1980
+    },
+    {
+      "height": 1361,
+      "id": "design",
+      "key": "section-product-viewer",
+      "top": 3387
+    },
+    {
+      "height": 3926,
+      "id": "cameras",
+      "key": "section-pro-camera",
+      "top": 4748
+    },
+    {
+      "height": 2101,
+      "id": "pro-video",
+      "key": "section-pro-video",
+      "top": 8674
+    },
+    {
+      "height": 2128,
+      "id": "battery",
+      "key": "section-battery",
+      "top": 10775
+    },
+    {
+      "height": 2680,
+      "id": "performance",
+      "key": "section-performance",
+      "top": 12904
+    },
+    {
+      "height": 1536,
+      "id": "upgrader",
+      "key": "section-upgrader",
+      "top": 15584
+    },
+    {
+      "height": 1314,
+      "id": "shared-features",
+      "key": "section-intro",
+      "top": 17120
+    },
+    {
+      "height": 1166,
+      "id": "",
+      "key": "section-siri-ai",
+      "top": 18434
+    },
+    {
+      "height": 1171,
+      "id": "",
+      "key": "section-ios-apple-intelligence",
+      "top": 19599
+    },
+    {
+      "height": 1060,
+      "id": "",
+      "key": "section-connectivity",
+      "top": 20770
+    },
+    {
+      "height": 1051,
+      "id": "accessories",
+      "key": "section-accessories",
+      "top": 21830
+    },
+    {
+      "height": 956,
+      "id": "",
+      "key": "section-incentive",
+      "top": 22881
+    },
+    {
+      "height": 2447,
+      "id": "",
+      "key": "section-contrast",
+      "top": 23837
+    },
+    {
+      "height": 547,
+      "id": "",
+      "key": "section-environment",
+      "top": 26285
+    },
+    {
+      "height": 588,
+      "id": "",
+      "key": "section-values",
+      "top": 26831
+    },
+    {
+      "height": 813,
+      "id": "",
+      "key": "section-index",
+      "top": 27420
+    }
+  ],
+  "local": [
+    {
+      "height": 804,
+      "id": "",
+      "top": 96
+    },
+    {
+      "height": 1038,
+      "id": "highlights",
+      "top": 900
+    },
+    {
+      "height": 1589,
+      "id": "",
+      "top": 1938
+    },
+    {
+      "height": 1240,
+      "id": "design",
+      "top": 3527
+    },
+    {
+      "height": 4505,
+      "id": "cameras",
+      "top": 4767
+    },
+    {
+      "height": 2341,
+      "id": "pro-video",
+      "top": 9272
+    },
+    {
+      "height": 3029,
+      "id": "battery",
+      "top": 11613
+    },
+    {
+      "height": 2964,
+      "id": "performance",
+      "top": 14642
+    },
+    {
+      "height": 1515,
+      "id": "upgrader",
+      "top": 17756
+    },
+    {
+      "height": 4486,
+      "id": "shared-features",
+      "top": 19420
+    },
+    {
+      "height": 1409,
+      "id": "accessories",
+      "top": 23906
+    },
+    {
+      "height": 770,
+      "id": "",
+      "top": 25316
+    },
+    {
+      "height": 1231,
+      "id": "",
+      "top": 26086
+    },
+    {
+      "height": 828,
+      "id": "",
+      "top": 27317
+    },
+    {
+      "height": 853,
+      "id": "",
+      "top": 28145
+    },
+    {
+      "height": 789,
+      "id": "",
+      "top": 28998
+    }
+  ]
+}

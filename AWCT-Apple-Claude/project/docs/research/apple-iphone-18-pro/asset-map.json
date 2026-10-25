@@ -1,0 +1,2505 @@
+[
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/accessories/accessories__eq6jc5t9202u_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/accessories/accessories__eq6jc5t9202u_large_2x.jpg",
+  "bytes": 424928,
+  "type": "image/jpeg",
+  "size": [
+   1680,
+   1082
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/accessories/accessories__eq6jc5t9202u_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/accessories/accessories__eq6jc5t9202u_small_2x.jpg",
+  "bytes": 140891,
+  "type": "image/jpeg",
+  "size": [
+   980,
+   636
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/aio/hero__elo7tt0mnqy6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/aio/hero__elo7tt0mnqy6_large_2x.jpg",
+  "bytes": 225624,
+  "type": "image/jpeg",
+  "size": [
+   1496,
+   988
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/aio/hero__elo7tt0mnqy6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/aio/hero__elo7tt0mnqy6_small_2x.jpg",
+  "bytes": 72970,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   648
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/android-values/creditcard__9lzp09qkxv6u_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/android-values/creditcard__9lzp09qkxv6u_large_2x.png",
+  "bytes": 304,
+  "type": "image/png",
+  "size": [
+   92,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/android-values/iphone__cm8c5664gln6_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/android-values/iphone__cm8c5664gln6_large_2x.png",
+  "bytes": 540,
+  "type": "image/png",
+  "size": [
+   80,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/android-values/person__cf417z3i1pg2_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/android-values/person__cf417z3i1pg2_large_2x.png",
+  "bytes": 865,
+  "type": "image/png",
+  "size": [
+   102,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/battery/battery_startframe__dc61ck806uy6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/battery/battery_startframe__dc61ck806uy6_large_2x.jpg",
+  "bytes": 171872,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/battery/battery_startframe__dc61ck806uy6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/battery/battery_startframe__dc61ck806uy6_small_2x.jpg",
+  "bytes": 29348,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   408
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/battery/charge__eiv9d90t9zue_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/battery/charge__eiv9d90t9zue_large_2x.png",
+  "bytes": 2750,
+  "type": "image/png",
+  "size": [
+   104,
+   162
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/battery/charge__eiv9d90t9zue_small_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/battery/charge__eiv9d90t9zue_small_2x.png",
+  "bytes": 1616,
+  "type": "image/png",
+  "size": [
+   62,
+   94
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/battery/hero__elo7tt0mnqy6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/battery/hero__elo7tt0mnqy6_large_2x.jpg",
+  "bytes": 938369,
+  "type": "image/jpeg",
+  "size": [
+   2528,
+   1228
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/battery/hero__elo7tt0mnqy6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/battery/hero__elo7tt0mnqy6_small_2x.jpg",
+  "bytes": 79470,
+  "type": "image/jpeg",
+  "size": [
+   844,
+   412
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/apple_intelligence__bj6vdt2qskmu_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/apple_intelligence__bj6vdt2qskmu_large_2x.png",
+  "bytes": 9121,
+  "type": "image/png",
+  "size": [
+   84,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/battery__btf608ldbd0i_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/battery__btf608ldbd0i_large_2x.png",
+  "bytes": 1271,
+  "type": "image/png",
+  "size": [
+   92,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/center_stage__ecf4wpldlkcy_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/center_stage__ecf4wpldlkcy_large_2x.png",
+  "bytes": 2300,
+  "type": "image/png",
+  "size": [
+   92,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/chip_a20pro__eio38rrjn50m_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/chip_a20pro__eio38rrjn50m_large_2x.png",
+  "bytes": 2308,
+  "type": "image/png",
+  "size": [
+   72,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/iphone_18_pro_alt__gcw09g1aoqie_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/iphone_18_pro_alt__gcw09g1aoqie_large_2x.jpg",
+  "bytes": 51077,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   668
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/iphone_18_pro_alt__gcw09g1aoqie_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/iphone_18_pro_alt__gcw09g1aoqie_small_2x.jpg",
+  "bytes": 39785,
+  "type": "image/jpeg",
+  "size": [
+   462,
+   616
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/iphone_18_pro_camera__cr03lr3qm8cy_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/iphone_18_pro_camera__cr03lr3qm8cy_large_2x.png",
+  "bytes": 1903,
+  "type": "image/png",
+  "size": [
+   80,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/iphone_duo__es1je56gg18i_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/iphone_duo__es1je56gg18i_large_2x.jpg",
+  "bytes": 38642,
+  "type": "image/jpeg",
+  "size": [
+   522,
+   668
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/iphone_duo__es1je56gg18i_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/iphone_duo__es1je56gg18i_small_2x.jpg",
+  "bytes": 30924,
+  "type": "image/jpeg",
+  "size": [
+   462,
+   616
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/contrast/iphone_duo_camera__e3kr0qjnx3o2_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/contrast/iphone_duo_camera__e3kr0qjnx3o2_large_2x.png",
+  "bytes": 606,
+  "type": "image/png",
+  "size": [
+   86,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/environment/icon_electricity__fmrz4117o7ee_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/environment/icon_electricity__fmrz4117o7ee_large_2x.png",
+  "bytes": 1775,
+  "type": "image/png",
+  "size": [
+   112,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/environment/icon_package__btqe87dkmr5y_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/environment/icon_package__btqe87dkmr5y_large_2x.png",
+  "bytes": 1824,
+  "type": "image/png",
+  "size": [
+   112,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/environment/icon_recycling__cbg6enserceu_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/environment/icon_recycling__cbg6enserceu_large_2x.png",
+  "bytes": 2083,
+  "type": "image/png",
+  "size": [
+   112,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/crash_detection__c458d3ugtcom_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/crash_detection__c458d3ugtcom_large_2x.jpg",
+  "bytes": 42839,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/crash_detection__c458d3ugtcom_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/crash_detection__c458d3ugtcom_small_2x.jpg",
+  "bytes": 24497,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/esim__dybvr8oo5ro2_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/esim__dybvr8oo5ro2_large_2x.jpg",
+  "bytes": 60498,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/esim__dybvr8oo5ro2_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/esim__dybvr8oo5ro2_small_2x.jpg",
+  "bytes": 35792,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/esos__8m299y5obzmq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/esos__8m299y5obzmq_large_2x.jpg",
+  "bytes": 35303,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/esos__8m299y5obzmq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/esos__8m299y5obzmq_small_2x.jpg",
+  "bytes": 20416,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/find_my__epk4pm9szhci_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/find_my__epk4pm9szhci_large_2x.jpg",
+  "bytes": 162972,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/find_my__epk4pm9szhci_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/find_my__epk4pm9szhci_small_2x.jpg",
+  "bytes": 97296,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/messages__e05v4dplbdea_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/messages__e05v4dplbdea_large_2x.jpg",
+  "bytes": 180567,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/messages__e05v4dplbdea_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/messages__e05v4dplbdea_small_2x.jpg",
+  "bytes": 59863,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/roadside__bqugdgosuzci_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/roadside__bqugdgosuzci_large_2x.jpg",
+  "bytes": 243296,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/connectivity/roadside__bqugdgosuzci_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/connectivity/roadside__bqugdgosuzci_small_2x.jpg",
+  "bytes": 73432,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/call_context__bwokedkz7swi_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/call_context__bwokedkz7swi_large_2x.jpg",
+  "bytes": 55348,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/call_context__bwokedkz7swi_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/call_context__bwokedkz7swi_small_2x.jpg",
+  "bytes": 31765,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/child_safety__ep2w0kpc93ee_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/child_safety__ep2w0kpc93ee_large_2x.jpg",
+  "bytes": 99157,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/child_safety__ep2w0kpc93ee_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/child_safety__ep2w0kpc93ee_small_2x.jpg",
+  "bytes": 61483,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/clean_up__c4nkcvxq91me_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/clean_up__c4nkcvxq91me_large_2x.jpg",
+  "bytes": 305361,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/clean_up__c4nkcvxq91me_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/clean_up__c4nkcvxq91me_small_2x.jpg",
+  "bytes": 113352,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/image_playground__do3eby1zbe82_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/image_playground__do3eby1zbe82_large_2x.jpg",
+  "bytes": 394970,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/image_playground__do3eby1zbe82_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/image_playground__do3eby1zbe82_small_2x.jpg",
+  "bytes": 136286,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/safari_tabs__d3zxf5gah3ue_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/safari_tabs__d3zxf5gah3ue_large_2x.jpg",
+  "bytes": 132830,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/safari_tabs__d3zxf5gah3ue_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/safari_tabs__d3zxf5gah3ue_small_2x.jpg",
+  "bytes": 78772,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/shortcuts__fh00yn8sevqu_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/shortcuts__fh00yn8sevqu_large_2x.jpg",
+  "bytes": 47077,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/shortcuts__fh00yn8sevqu_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/shortcuts__fh00yn8sevqu_small_2x.jpg",
+  "bytes": 29809,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/suggestions__c87yzqqh490m_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/suggestions__c87yzqqh490m_large_2x.jpg",
+  "bytes": 37605,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/ios-apple-intelligence/suggestions__c87yzqqh490m_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/ios-apple-intelligence/suggestions__c87yzqqh490m_small_2x.jpg",
+  "bytes": 23234,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/app_actions__budci8e25k76_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/app_actions__budci8e25k76_large_2x.jpg",
+  "bytes": 61760,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/app_actions__budci8e25k76_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/app_actions__budci8e25k76_small_2x.jpg",
+  "bytes": 38847,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/customize__flxdw7wl0byq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/customize__flxdw7wl0byq_large_2x.jpg",
+  "bytes": 34888,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/customize__flxdw7wl0byq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/customize__flxdw7wl0byq_small_2x.jpg",
+  "bytes": 21002,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/personal_context__fu25x2c16ymy_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/personal_context__fu25x2c16ymy_large_2x.jpg",
+  "bytes": 276160,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/personal_context__fu25x2c16ymy_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/personal_context__fu25x2c16ymy_small_2x.jpg",
+  "bytes": 145262,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/siri_ai_assistant__el1seyzgpv0i_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/siri_ai_assistant__el1seyzgpv0i_large_2x.jpg",
+  "bytes": 139286,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/siri_ai_assistant__el1seyzgpv0i_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/siri_ai_assistant__el1seyzgpv0i_small_2x.jpg",
+  "bytes": 50838,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/siri_app__cv4mp1a9nxiu_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/siri_app__cv4mp1a9nxiu_large_2x.jpg",
+  "bytes": 111816,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/siri_app__cv4mp1a9nxiu_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/siri_app__cv4mp1a9nxiu_small_2x.jpg",
+  "bytes": 61060,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/siri_mode__fi0ng1mrbvu6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/siri_mode__fi0ng1mrbvu6_large_2x.jpg",
+  "bytes": 116883,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/siri_mode__fi0ng1mrbvu6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/siri_mode__fi0ng1mrbvu6_small_2x.jpg",
+  "bytes": 71304,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/world_knowledge__gfbdm64gdrue_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/world_knowledge__gfbdm64gdrue_large_2x.jpg",
+  "bytes": 54331,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/world_knowledge__gfbdm64gdrue_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/world_knowledge__gfbdm64gdrue_small_2x.jpg",
+  "bytes": 33123,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/write__cskm66rylaky_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/write__cskm66rylaky_large_2x.jpg",
+  "bytes": 103311,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri-ai/write__cskm66rylaky_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri-ai/write__cskm66rylaky_small_2x.jpg",
+  "bytes": 55899,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri_ai_hero__b93zn5f7x4aa_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri_ai_hero__b93zn5f7x4aa_large_2x.jpg",
+  "bytes": 322002,
+  "type": "image/jpeg",
+  "size": [
+   1410,
+   1312
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/family/siri_ai_hero__b93zn5f7x4aa_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/family/siri_ai_hero__b93zn5f7x4aa_small_2x.jpg",
+  "bytes": 109953,
+  "type": "image/jpeg",
+  "size": [
+   698,
+   654
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/battery_endframe__ds9p2a09r9aq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/battery_endframe__ds9p2a09r9aq_large_2x.jpg",
+  "bytes": 192789,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/battery_endframe__ds9p2a09r9aq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/battery_endframe__ds9p2a09r9aq_small_2x.jpg",
+  "bytes": 83896,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/battery_startframe__dc61ck806uy6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/battery_startframe__dc61ck806uy6_large_2x.jpg",
+  "bytes": 148991,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/battery_startframe__dc61ck806uy6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/battery_startframe__dc61ck806uy6_small_2x.jpg",
+  "bytes": 57243,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/chip_endframe__lhkymtfv1uie_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/chip_endframe__lhkymtfv1uie_large_2x.jpg",
+  "bytes": 255586,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/chip_endframe__lhkymtfv1uie_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/chip_endframe__lhkymtfv1uie_small_2x.jpg",
+  "bytes": 103394,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/chip_startframe__cbo2noldjewi_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/chip_startframe__cbo2noldjewi_large_2x.jpg",
+  "bytes": 338452,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/chip_startframe__cbo2noldjewi_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/chip_startframe__cbo2noldjewi_small_2x.jpg",
+  "bytes": 55820,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/colors_endframe__czfie0zmty4i_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/colors_endframe__czfie0zmty4i_large_2x.jpg",
+  "bytes": 224871,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/colors_endframe__czfie0zmty4i_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/colors_endframe__czfie0zmty4i_small_2x.jpg",
+  "bytes": 39097,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/colors_startframe__dswlwmy4piuu_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/colors_startframe__dswlwmy4piuu_large_2x.jpg",
+  "bytes": 101100,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/colors_startframe__dswlwmy4piuu_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/colors_startframe__dswlwmy4piuu_small_2x.jpg",
+  "bytes": 24884,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/main_camera_endframe__fcjfhs06rdme_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/main_camera_endframe__fcjfhs06rdme_large_2x.jpg",
+  "bytes": 217444,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/main_camera_endframe__fcjfhs06rdme_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/main_camera_endframe__fcjfhs06rdme_small_2x.jpg",
+  "bytes": 56530,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/main_camera_startframe__dbtqkrydkxua_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/main_camera_startframe__dbtqkrydkxua_large_2x.jpg",
+  "bytes": 279029,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/main_camera_startframe__dbtqkrydkxua_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/main_camera_startframe__dbtqkrydkxua_small_2x.jpg",
+  "bytes": 82226,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/siri__eprmtp3edh8i_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/siri__eprmtp3edh8i_large_2x.jpg",
+  "bytes": 271644,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/highlights/siri__eprmtp3edh8i_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/highlights/siri__eprmtp3edh8i_small_2x.jpg",
+  "bytes": 84016,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   960
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/apple_store_app__b1iul1goe0mq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/apple_store_app__b1iul1goe0mq_large_2x.jpg",
+  "bytes": 19454,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/apple_store_app__b1iul1goe0mq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/apple_store_app__b1iul1goe0mq_small_2x.jpg",
+  "bytes": 10931,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/apple_trade_in__bxvpyn2q8tg2_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/apple_trade_in__bxvpyn2q8tg2_large_2x.jpg",
+  "bytes": 40834,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/apple_trade_in__bxvpyn2q8tg2_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/apple_trade_in__bxvpyn2q8tg2_small_2x.jpg",
+  "bytes": 22443,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/apple_upgrade__dc9j71c0kuye_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/apple_upgrade__dc9j71c0kuye_large_2x.jpg",
+  "bytes": 24773,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/apple_upgrade__dc9j71c0kuye_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/apple_upgrade__dc9j71c0kuye_small_2x.jpg",
+  "bytes": 14718,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/boc_qr_code__dl7xwwg834gi_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/boc_qr_code__dl7xwwg834gi_large_2x.png",
+  "bytes": 79565,
+  "type": "image/png",
+  "size": [
+   1632,
+   968
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/carrier__esb83lh15tsi_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/carrier__esb83lh15tsi_large_2x.jpg",
+  "bytes": 25860,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/carrier__esb83lh15tsi_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/carrier__esb83lh15tsi_small_2x.jpg",
+  "bytes": 16069,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/deliver__dppu74mrffo2_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/deliver__dppu74mrffo2_large_2x.jpg",
+  "bytes": 21594,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/deliver__dppu74mrffo2_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/deliver__dppu74mrffo2_small_2x.jpg",
+  "bytes": 10528,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/guided_video_shopping__fpotxkh25ymq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/guided_video_shopping__fpotxkh25ymq_large_2x.jpg",
+  "bytes": 36916,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/guided_video_shopping__fpotxkh25ymq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/guided_video_shopping__fpotxkh25ymq_small_2x.jpg",
+  "bytes": 17104,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/personal_setup__dq9kk8pi0ga6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/personal_setup__dq9kk8pi0ga6_large_2x.jpg",
+  "bytes": 52244,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/personal_setup__dq9kk8pi0ga6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/personal_setup__dq9kk8pi0ga6_small_2x.jpg",
+  "bytes": 33883,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/trade_in_android__cz42ggstsd4y_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/trade_in_android__cz42ggstsd4y_large_2x.jpg",
+  "bytes": 31003,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/trade_in_android__cz42ggstsd4y_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/trade_in_android__cz42ggstsd4y_small_2x.jpg",
+  "bytes": 16612,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/ways_to_buy__cuh31j07k0eq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/ways_to_buy__cuh31j07k0eq_large_2x.jpg",
+  "bytes": 16666,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   568
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/incentive/ways_to_buy__cuh31j07k0eq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/incentive/ways_to_buy__cuh31j07k0eq_small_2x.jpg",
+  "bytes": 8501,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   352
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/ios/move_to_ios__czimkpt2niy6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/ios/move_to_ios__czimkpt2niy6_large_2x.jpg",
+  "bytes": 62845,
+  "type": "image/jpeg",
+  "size": [
+   602,
+   860
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/ios/move_to_ios__czimkpt2niy6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/ios/move_to_ios__czimkpt2niy6_small_2x.jpg",
+  "bytes": 39595,
+  "type": "image/jpeg",
+  "size": [
+   426,
+   616
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/media-hero/hero_endframe__fbxsnz8txcia_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/media-hero/hero_endframe__fbxsnz8txcia_large_2x.jpg",
+  "bytes": 105372,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   2160
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/media-hero/hero_endframe__fbxsnz8txcia_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/media-hero/hero_endframe__fbxsnz8txcia_small_2x.jpg",
+  "bytes": 39165,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1408
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/media-hero/hero_startframe__ck15fj8f67hy_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/media-hero/hero_startframe__ck15fj8f67hy_large_2x.jpg",
+  "bytes": 43728,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   2160
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/media-hero/hero_startframe__ck15fj8f67hy_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/media-hero/hero_startframe__ck15fj8f67hy_small_2x.jpg",
+  "bytes": 15382,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1408
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/performance/chip_endframe__lhkymtfv1uie_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/performance/chip_endframe__lhkymtfv1uie_large_2x.jpg",
+  "bytes": 363847,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1416
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/performance/chip_endframe__lhkymtfv1uie_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/performance/chip_endframe__lhkymtfv1uie_small_2x.jpg",
+  "bytes": 117455,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   688
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/performance/chip_startframe__cbo2noldjewi_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/performance/chip_startframe__cbo2noldjewi_large_2x.jpg",
+  "bytes": 67707,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1416
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/performance/chip_startframe__cbo2noldjewi_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/performance/chip_startframe__cbo2noldjewi_small_2x.jpg",
+  "bytes": 19325,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   688
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/performance/icon_a20__dhsqkelmytg2_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/performance/icon_a20__dhsqkelmytg2_large_2x.png",
+  "bytes": 970,
+  "type": "image/png",
+  "size": [
+   108,
+   150
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/performance/icon_ai__cdtqv8s8tm82_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/performance/icon_ai__cdtqv8s8tm82_large_2x.png",
+  "bytes": 895,
+  "type": "image/png",
+  "size": [
+   102,
+   150
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/performance/vapor_chamber__dyn98zs14ryq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/performance/vapor_chamber__dyn98zs14ryq_large_2x.jpg",
+  "bytes": 278758,
+  "type": "image/jpeg",
+  "size": [
+   2520,
+   886
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/performance/vapor_chamber__dyn98zs14ryq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/performance/vapor_chamber__dyn98zs14ryq_small_2x.jpg",
+  "bytes": 77682,
+  "type": "image/jpeg",
+  "size": [
+   1044,
+   368
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/aperture/balance__dtrq8w3uj9iu_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/aperture/balance__dtrq8w3uj9iu_large_2x.jpg",
+  "bytes": 514716,
+  "type": "image/jpeg",
+  "size": [
+   2100,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/aperture/balance__dtrq8w3uj9iu_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/aperture/balance__dtrq8w3uj9iu_small_2x.jpg",
+  "bytes": 211432,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   1120
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/aperture/depth__eqlqllrh0v8m_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/aperture/depth__eqlqllrh0v8m_large_2x.jpg",
+  "bytes": 602692,
+  "type": "image/jpeg",
+  "size": [
+   2100,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/aperture/depth__eqlqllrh0v8m_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/aperture/depth__eqlqllrh0v8m_small_2x.jpg",
+  "bytes": 266532,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   1120
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/aperture/max_depth__chz65982bi4i_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/aperture/max_depth__chz65982bi4i_large_2x.jpg",
+  "bytes": 531396,
+  "type": "image/jpeg",
+  "size": [
+   2100,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/aperture/max_depth__chz65982bi4i_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/aperture/max_depth__chz65982bi4i_small_2x.jpg",
+  "bytes": 149483,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   1120
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/aperture/max_light__dlmrw5m29ssy_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/aperture/max_light__dlmrw5m29ssy_large_2x.jpg",
+  "bytes": 242178,
+  "type": "image/jpeg",
+  "size": [
+   2100,
+   1224
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/aperture/max_light__dlmrw5m29ssy_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/aperture/max_light__dlmrw5m29ssy_small_2x.jpg",
+  "bytes": 122739,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   1120
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/8x-zoom_endframe__ed8psayfjwqe_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/8x-zoom_endframe__ed8psayfjwqe_large_2x.jpg",
+  "bytes": 351347,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/8x-zoom_endframe__ed8psayfjwqe_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/8x-zoom_endframe__ed8psayfjwqe_small_2x.jpg",
+  "bytes": 93780,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/8x-zoom_startframe__wp22u2y5ir6q_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/8x-zoom_startframe__wp22u2y5ir6q_large_2x.jpg",
+  "bytes": 527677,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/8x-zoom_startframe__wp22u2y5ir6q_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/8x-zoom_startframe__wp22u2y5ir6q_small_2x.jpg",
+  "bytes": 153208,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/center_stage__ecf4wpldlkcy_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/center_stage__ecf4wpldlkcy_large_2x.jpg",
+  "bytes": 80887,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/center_stage__ecf4wpldlkcy_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/center_stage__ecf4wpldlkcy_small_2x.jpg",
+  "bytes": 48363,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/intelligent__fud8ul5o3emy_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/intelligent__fud8ul5o3emy_large_2x.jpg",
+  "bytes": 125598,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/intelligent__fud8ul5o3emy_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/intelligent__fud8ul5o3emy_small_2x.jpg",
+  "bytes": 46519,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/photographic_styles__ef8cg39z0q2q_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/photographic_styles__ef8cg39z0q2q_large_2x.jpg",
+  "bytes": 168339,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/photographic_styles__ef8cg39z0q2q_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/photographic_styles__ef8cg39z0q2q_small_2x.jpg",
+  "bytes": 59961,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/pro_controls__esrtcpjxy3qu_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/pro_controls__esrtcpjxy3qu_large_2x.jpg",
+  "bytes": 138170,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/pro_controls__esrtcpjxy3qu_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/pro_controls__esrtcpjxy3qu_small_2x.jpg",
+  "bytes": 45950,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/reference__dpo1xa7gsdea_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/reference__dpo1xa7gsdea_large_2x.jpg",
+  "bytes": 139454,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/reference__dpo1xa7gsdea_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/reference__dpo1xa7gsdea_small_2x.jpg",
+  "bytes": 73221,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/smart_focus__yrqfyzob1eqi_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/smart_focus__yrqfyzob1eqi_large_2x.jpg",
+  "bytes": 130186,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/smart_focus__yrqfyzob1eqi_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/smart_focus__yrqfyzob1eqi_small_2x.jpg",
+  "bytes": 68146,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/ultra_wide__fuin4rf0dnyq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/ultra_wide__fuin4rf0dnyq_large_2x.jpg",
+  "bytes": 114141,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/control/ultra_wide__fuin4rf0dnyq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/control/ultra_wide__fuin4rf0dnyq_small_2x.jpg",
+  "bytes": 57893,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/system/camera_system_startframe__e0gisudnvv2a_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/system/camera_system_startframe__e0gisudnvv2a_large_2x.jpg",
+  "bytes": 707793,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   2160
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/system/camera_system_startframe__e0gisudnvv2a_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/system/camera_system_startframe__e0gisudnvv2a_small_2x.jpg",
+  "bytes": 313452,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1608
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/system/hero__elo7tt0mnqy6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/system/hero__elo7tt0mnqy6_large_2x.jpg",
+  "bytes": 131195,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1376
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-camera/system/hero__elo7tt0mnqy6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-camera/system/hero__elo7tt0mnqy6_small_2x.jpg",
+  "bytes": 41999,
+  "type": "image/jpeg",
+  "size": [
+   840,
+   802
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/4k_timelapse_endframe__fpokzlb44wa6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/4k_timelapse_endframe__fpokzlb44wa6_large_2x.jpg",
+  "bytes": 250242,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/4k_timelapse_endframe__fpokzlb44wa6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/4k_timelapse_endframe__fpokzlb44wa6_small_2x.jpg",
+  "bytes": 91002,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/4k_timelapse_startframe__bwemjwb0098i_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/4k_timelapse_startframe__bwemjwb0098i_large_2x.jpg",
+  "bytes": 252103,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/4k_timelapse_startframe__bwemjwb0098i_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/4k_timelapse_startframe__bwemjwb0098i_small_2x.jpg",
+  "bytes": 93650,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/audio_mix__cv5tvd3y13ee_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/audio_mix__cv5tvd3y13ee_large_2x.jpg",
+  "bytes": 114032,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/audio_mix__cv5tvd3y13ee_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/audio_mix__cv5tvd3y13ee_small_2x.jpg",
+  "bytes": 68293,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/dual_capture__cwiaeus8h002_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/dual_capture__cwiaeus8h002_large_2x.jpg",
+  "bytes": 137022,
+  "type": "image/jpeg",
+  "size": [
+   744,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/dual_capture__cwiaeus8h002_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/dual_capture__cwiaeus8h002_small_2x.jpg",
+  "bytes": 73132,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/features__16r2b47nrpe2_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/features__16r2b47nrpe2_large_2x.jpg",
+  "bytes": 203698,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/features__16r2b47nrpe2_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/features__16r2b47nrpe2_small_2x.jpg",
+  "bytes": 56760,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/hero__elo7tt0mnqy6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/hero__elo7tt0mnqy6_large_2x.jpg",
+  "bytes": 266765,
+  "type": "image/jpeg",
+  "size": [
+   2100,
+   1040
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/hero__elo7tt0mnqy6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/hero__elo7tt0mnqy6_small_2x.jpg",
+  "bytes": 106682,
+  "type": "image/jpeg",
+  "size": [
+   1128,
+   560
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/low_light__b51d1dpc3xde_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/low_light__b51d1dpc3xde_large_2x.jpg",
+  "bytes": 76838,
+  "type": "image/jpeg",
+  "size": [
+   1392,
+   904
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/low_light__b51d1dpc3xde_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/low_light__b51d1dpc3xde_small_2x.jpg",
+  "bytes": 35376,
+  "type": "image/jpeg",
+  "size": [
+   520,
+   632
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/pro_video_endframe__jo1bq7ocrka6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/pro_video_endframe__jo1bq7ocrka6_large_2x.jpg",
+  "bytes": 289109,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1940
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/pro_video_endframe__jo1bq7ocrka6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/pro_video_endframe__jo1bq7ocrka6_small_2x.jpg",
+  "bytes": 114858,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1028
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/pro_video_startframe__ggkgg862ssq6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/pro_video_startframe__ggkgg862ssq6_large_2x.jpg",
+  "bytes": 105092,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1940
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/pro-video/pro_video_startframe__ggkgg862ssq6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/pro-video/pro_video_startframe__ggkgg862ssq6_small_2x.jpg",
+  "bytes": 31058,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1028
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/3d_viewer__hgotqf9hvvee_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/3d_viewer__hgotqf9hvvee_large_2x.jpg",
+  "bytes": 208666,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/3d_viewer__hgotqf9hvvee_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/3d_viewer__hgotqf9hvvee_small_2x.jpg",
+  "bytes": 64843,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/action_button__f9p8n5h9xk66_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/action_button__f9p8n5h9xk66_large_2x.jpg",
+  "bytes": 268548,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/action_button__f9p8n5h9xk66_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/action_button__f9p8n5h9xk66_small_2x.jpg",
+  "bytes": 132032,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/camera_control__f4t7iottmvyy_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/camera_control__f4t7iottmvyy_large_2x.jpg",
+  "bytes": 354491,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/camera_control__f4t7iottmvyy_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/camera_control__f4t7iottmvyy_small_2x.jpg",
+  "bytes": 185150,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/color_black__dseo2tvypuc2_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/color_black__dseo2tvypuc2_large_2x.jpg",
+  "bytes": 213558,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/color_black__dseo2tvypuc2_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/color_black__dseo2tvypuc2_small_2x.jpg",
+  "bytes": 88180,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/color_burgundy__f95it7a6dnyq_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/color_burgundy__f95it7a6dnyq_large_2x.jpg",
+  "bytes": 268556,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/color_burgundy__f95it7a6dnyq_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/color_burgundy__f95it7a6dnyq_small_2x.jpg",
+  "bytes": 107041,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/color_glacier__fkxlpbz0ruy6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/color_glacier__fkxlpbz0ruy6_large_2x.jpg",
+  "bytes": 322531,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/color_glacier__fkxlpbz0ruy6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/color_glacier__fkxlpbz0ruy6_small_2x.jpg",
+  "bytes": 149939,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/color_silver__c0oudn0fzw4m_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/color_silver__c0oudn0fzw4m_large_2x.jpg",
+  "bytes": 308910,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/color_silver__c0oudn0fzw4m_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/color_silver__c0oudn0fzw4m_small_2x.jpg",
+  "bytes": 136809,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/durability__gluy1en01nqm_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/durability__gluy1en01nqm_large_2x.jpg",
+  "bytes": 303511,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/durability__gluy1en01nqm_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/durability__gluy1en01nqm_small_2x.jpg",
+  "bytes": 141404,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/dynamic_island_endframe__edszr68pgo66_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/dynamic_island_endframe__edszr68pgo66_large_2x.jpg",
+  "bytes": 228153,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/dynamic_island_endframe__edszr68pgo66_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/dynamic_island_endframe__edszr68pgo66_small_2x.jpg",
+  "bytes": 125059,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/dynamic_island_startframe__e29ujwo7xcwi_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/dynamic_island_startframe__e29ujwo7xcwi_large_2x.jpg",
+  "bytes": 457057,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/dynamic_island_startframe__e29ujwo7xcwi_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/dynamic_island_startframe__e29ujwo7xcwi_small_2x.jpg",
+  "bytes": 221860,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/loader__bjo96i52l46a_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/loader__bjo96i52l46a_large_2x.jpg",
+  "bytes": 42431,
+  "type": "image/jpeg",
+  "size": [
+   464,
+   954
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/loader__bjo96i52l46a_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/loader__bjo96i52l46a_small_2x.jpg",
+  "bytes": 30083,
+  "type": "image/jpeg",
+  "size": [
+   392,
+   804
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/size__ufk3tqa1f5e2_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/size__ufk3tqa1f5e2_large_2x.jpg",
+  "bytes": 327084,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/size__ufk3tqa1f5e2_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/size__ufk3tqa1f5e2_small_2x.jpg",
+  "bytes": 148559,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/viewer_aperture_endframe__2jpki8xah2au_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/viewer_aperture_endframe__2jpki8xah2au_large_2x.jpg",
+  "bytes": 184099,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/viewer_aperture_endframe__2jpki8xah2au_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/viewer_aperture_endframe__2jpki8xah2au_small_2x.jpg",
+  "bytes": 80059,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/viewer_aperture_startframe__fd2z3na1d066_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/viewer_aperture_startframe__fd2z3na1d066_large_2x.jpg",
+  "bytes": 497377,
+  "type": "image/jpeg",
+  "size": [
+   2880,
+   1520
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/product-viewer/viewer_aperture_startframe__fd2z3na1d066_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/product-viewer/viewer_aperture_startframe__fd2z3na1d066_small_2x.jpg",
+  "bytes": 257939,
+  "type": "image/jpeg",
+  "size": [
+   1468,
+   1280
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/a20_pro_chip__c6rba3bxjuc2_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/a20_pro_chip__c6rba3bxjuc2_large_2x.jpg",
+  "bytes": 12012,
+  "type": "image/jpeg",
+  "size": [
+   296,
+   296
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/a20_pro_chip__c6rba3bxjuc2_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/a20_pro_chip__c6rba3bxjuc2_small_2x.jpg",
+  "bytes": 6112,
+  "type": "image/jpeg",
+  "size": [
+   192,
+   192
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/front_camera__c533i0c3mh4y_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/front_camera__c533i0c3mh4y_large_2x.jpg",
+  "bytes": 28724,
+  "type": "image/jpeg",
+  "size": [
+   674,
+   390
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/front_camera__c533i0c3mh4y_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/front_camera__c533i0c3mh4y_small_2x.jpg",
+  "bytes": 13431,
+  "type": "image/jpeg",
+  "size": [
+   412,
+   240
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/main_camera__dcm72wfqflm6_large_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/main_camera__dcm72wfqflm6_large_2x.jpg",
+  "bytes": 18138,
+  "type": "image/jpeg",
+  "size": [
+   674,
+   390
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/main_camera__dcm72wfqflm6_small_2x.jpg",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/main_camera__dcm72wfqflm6_small_2x.jpg",
+  "bytes": 6786,
+  "type": "image/jpeg",
+  "size": [
+   412,
+   240
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/siri_ai__ftge31f617iq_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/siri_ai__ftge31f617iq_large_2x.png",
+  "bytes": 5088,
+  "type": "image/png",
+  "size": [
+   124,
+   150
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/siri_ai__ftge31f617iq_small_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/siri_ai__ftge31f617iq_small_2x.png",
+  "bytes": 3486,
+  "type": "image/png",
+  "size": [
+   92,
+   112
+  ],
+  "removed": "same crop as large_2x"
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/upgrader/trade_in__gkkv4yplrqi6_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/upgrader/trade_in__gkkv4yplrqi6_large_2x.png",
+  "bytes": 7350,
+  "type": "image/png",
+  "size": [
+   296,
+   60
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/values/icon_accessibility__ciyyk203pxsi_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/values/icon_accessibility__ciyyk203pxsi_large_2x.png",
+  "bytes": 1886,
+  "type": "image/png",
+  "size": [
+   112,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/values/icon_environment__bweedxdciqpe_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/values/icon_environment__bweedxdciqpe_large_2x.png",
+  "bytes": 1053,
+  "type": "image/png",
+  "size": [
+   84,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/overview/values/icon_privacy__eej8prd13126_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/overview/values/icon_privacy__eej8prd13126_large_2x.png",
+  "bytes": 1516,
+  "type": "image/png",
+  "size": [
+   112,
+   112
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/accessories__eq6jc5t9202u_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/accessories__eq6jc5t9202u_large_2x.png",
+  "bytes": 22112,
+  "type": "image/png",
+  "size": [
+   154,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/compare__clhjrq5m2ymq_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/compare__clhjrq5m2ymq_large_2x.png",
+  "bytes": 15359,
+  "type": "image/png",
+  "size": [
+   128,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/ios__drrubh21s9yu_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/ios__drrubh21s9yu_large_2x.png",
+  "bytes": 16806,
+  "type": "image/png",
+  "size": [
+   106,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_16__dwi4y3l3amgm_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_16__dwi4y3l3amgm_large_2x.png",
+  "bytes": 13463,
+  "type": "image/png",
+  "size": [
+   72,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_17__d1k2ss9gvkya_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_17__d1k2ss9gvkya_large_2x.png",
+  "bytes": 12418,
+  "type": "image/png",
+  "size": [
+   72,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_17e__gd8egsmdhgey_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_17e__gd8egsmdhgey_large_2x.png",
+  "bytes": 10316,
+  "type": "image/png",
+  "size": [
+   74,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_18_pro__ezuydx8yjcia_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_18_pro__ezuydx8yjcia_large_2x.png",
+  "bytes": 12882,
+  "type": "image/png",
+  "size": [
+   74,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_air__c7j8qnq4ftci_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_air__c7j8qnq4ftci_large_2x.png",
+  "bytes": 10540,
+  "type": "image/png",
+  "size": [
+   74,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_duo__es1je56gg18i_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_duo__es1je56gg18i_large_2x.png",
+  "bytes": 19474,
+  "type": "image/png",
+  "size": [
+   152,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/shop__fc6e3idzwtqq_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/shop__fc6e3idzwtqq_large_2x.png",
+  "bytes": 18268,
+  "type": "image/png",
+  "size": [
+   144,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_duo__es1je56gg18i_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_duo__es1je56gg18i_large_2x.png",
+  "bytes": 19474,
+  "type": "image/png",
+  "size": [
+   152,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_18_pro__ezuydx8yjcia_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_18_pro__ezuydx8yjcia_large_2x.png",
+  "bytes": 12882,
+  "type": "cached",
+  "size": [
+   74,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_air__c7j8qnq4ftci_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_air__c7j8qnq4ftci_large_2x.png",
+  "bytes": 10540,
+  "type": "cached",
+  "size": [
+   74,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_17__d1k2ss9gvkya_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_17__d1k2ss9gvkya_large_2x.png",
+  "bytes": 12418,
+  "type": "cached",
+  "size": [
+   72,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_17e__gd8egsmdhgey_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_17e__gd8egsmdhgey_large_2x.png",
+  "bytes": 10316,
+  "type": "cached",
+  "size": [
+   74,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/iphone_16__dwi4y3l3amgm_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/iphone_16__dwi4y3l3amgm_large_2x.png",
+  "bytes": 13463,
+  "type": "cached",
+  "size": [
+   72,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/compare__clhjrq5m2ymq_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/compare__clhjrq5m2ymq_large_2x.png",
+  "bytes": 15359,
+  "type": "cached",
+  "size": [
+   128,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/accessories__eq6jc5t9202u_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/accessories__eq6jc5t9202u_large_2x.png",
+  "bytes": 22112,
+  "type": "cached",
+  "size": [
+   154,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/shop__fc6e3idzwtqq_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/shop__fc6e3idzwtqq_large_2x.png",
+  "bytes": 18268,
+  "type": "cached",
+  "size": [
+   144,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/v/iphone-18-pro/d/images/site/localnav/ios__drrubh21s9yu_large_2x.png",
+  "local": "/sites/apple-iphone-18-pro/images/site/localnav/ios__drrubh21s9yu_large_2x.png",
+  "bytes": 16806,
+  "type": "cached",
+  "size": [
+   106,
+   132
+  ]
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/hero/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/hero-large.mp4",
+  "bytes": 1948463,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/hero/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/hero-small.mp4",
+  "bytes": 512929,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-camera/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/highlights-camera-large.mp4",
+  "bytes": 588937,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-camera/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/highlights-camera-small.mp4",
+  "bytes": 142280,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-colors/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/highlights-colors-large.mp4",
+  "bytes": 316418,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-colors/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/highlights-colors-small.mp4",
+  "bytes": 66894,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-chip/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/highlights-chip-large.mp4",
+  "bytes": 2985494,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-chip/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/highlights-chip-small.mp4",
+  "bytes": 1186463,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/viewer-aperture/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/viewer-aperture-large.mp4",
+  "bytes": 1076880,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/viewer-aperture/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/viewer-aperture-small.mp4",
+  "bytes": 410023,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/viewer-dynamic-island/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/viewer-dynamic-island-large.mp4",
+  "bytes": 525054,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/viewer-dynamic-island/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/viewer-dynamic-island-small.mp4",
+  "bytes": 234940,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/camera-system/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/camera-system-large.mp4",
+  "bytes": 7551755,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/camera-system/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/camera-system-small.mp4",
+  "bytes": 2536090,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/8x-zoom/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/8x-zoom-large.mp4",
+  "bytes": 1880961,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/8x-zoom/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/8x-zoom-small.mp4",
+  "bytes": 501427,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/pro-video/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/pro-video-large.mp4",
+  "bytes": 1217881,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/pro-video/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/pro-video-small.mp4",
+  "bytes": 494109,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/4k-timelapse/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/4k-timelapse-large.mp4",
+  "bytes": 540627,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/4k-timelapse/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/4k-timelapse-small.mp4",
+  "bytes": 305316,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/battery/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/battery-large.mp4",
+  "bytes": 1581748,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/battery/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/battery-small.mp4",
+  "bytes": 242366,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/performance/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/performance-large.mp4",
+  "bytes": 1699966,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/performance/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/performance-small.mp4",
+  "bytes": 504585,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/e92adf1e-6ecf-423b-ad9b-15223f67b546/anim/highlights-battery/large.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/highlights-battery-large.mp4",
+  "bytes": 983388,
+  "type": "video/mp4",
+  "size": null
+ },
+ {
+  "src": "https://www.apple.com/105/media/us/iphone-18-pro/2026/e92adf1e-6ecf-423b-ad9b-15223f67b546/anim/highlights-battery/small.mp4",
+  "local": "/sites/apple-iphone-18-pro/videos/highlights-battery-small.mp4",
+  "bytes": 496803,
+  "type": "video/mp4",
+  "size": null
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "label": "Apple",
+  "href": "/",
+  "aria": "Apple",
+  "cls": "globalnav-item globalnav-item-apple"
+ },
+ {
+  "label": "Store",
+  "href": "/us/shop/goto/store",
+  "aria": "Store",
+  "cls": "globalnav-item globalnav-menu",
+  "groups": []
+ },
+ {
+  "label": "",
+  "href": "/us/search",
+  "aria": "Search apple.com",
+  "cls": "globalnav-item globalnav-search",
+  "groups": []
+ },
+ {
+  "label": "0 +",
+  "href": "/us/shop/goto/bag",
+  "aria": "Shopping Bag",
+  "cls": "globalnav-item globalnav-bag",
+  "groups": []
+ }
+]

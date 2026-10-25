@@ -1,0 +1,1166 @@
+{
+ "items": [
+  {
+   "id": "store",
+   "label": "Store",
+   "href": "https://www.apple.com/us/shop/goto/store",
+   "groups": [
+    {
+     "title": "Shop",
+     "elevated": [
+      {
+       "label": "Shop the Latest",
+       "href": "https://www.apple.com/us/shop/goto/store"
+      },
+      {
+       "label": "Mac",
+       "href": "https://www.apple.com/us/shop/goto/buy_mac"
+      },
+      {
+       "label": "iPad",
+       "href": "https://www.apple.com/us/shop/goto/buy_ipad"
+      },
+      {
+       "label": "iPhone",
+       "href": "https://www.apple.com/us/shop/goto/buy_iphone"
+      },
+      {
+       "label": "Apple Watch",
+       "href": "https://www.apple.com/us/shop/goto/buy_watch"
+      },
+      {
+       "label": "Apple Vision Pro",
+       "href": "https://www.apple.com/us/shop/goto/buy_vision"
+      },
+      {
+       "label": "AirPods",
+       "href": "https://www.apple.com/us/shop/goto/airpods/accessories"
+      },
+      {
+       "label": "Home",
+       "href": "https://www.apple.com/us/shop/goto/buy_home"
+      },
+      {
+       "label": "Accessories",
+       "href": "https://www.apple.com/us/shop/goto/buy_accessories"
+      }
+     ],
+     "links": []
+    },
+    {
+     "title": "Quick Links",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Find a Store",
+       "href": "https://www.apple.com/retail/"
+      },
+      {
+       "label": "Order Status",
+       "href": "https://www.apple.com/us/shop/goto/order/list"
+      },
+      {
+       "label": "Apple Upgrade",
+       "href": "https://www.apple.com/us/shop/goto/apple_upgrade"
+      },
+      {
+       "label": "Apple Trade In",
+       "href": "https://www.apple.com/us/shop/goto/trade_in"
+      },
+      {
+       "label": "Financing",
+       "href": "https://www.apple.com/us/shop/goto/payment_plan"
+      },
+      {
+       "label": "Personal Setup",
+       "href": "https://www.apple.com/us/shop/goto/personal_setup"
+      }
+     ]
+    },
+    {
+     "title": "Shop Special Stores",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Certified Refurbished",
+       "href": "https://www.apple.com/us/shop/goto/special_deals"
+      },
+      {
+       "label": "Education",
+       "href": "https://www.apple.com/us/shop/goto/educationrouting"
+      },
+      {
+       "label": "Business",
+       "href": "https://www.apple.com/retail/business/"
+      },
+      {
+       "label": "Veterans and Military",
+       "href": "https://www.apple.com/us/shop/goto/eppstore/veteransandmilitary"
+      },
+      {
+       "label": "Government",
+       "href": "https://www.apple.com/r/store/government/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "mac",
+   "label": "Mac",
+   "href": "https://www.apple.com/mac/",
+   "groups": [
+    {
+     "title": "Explore Mac",
+     "elevated": [
+      {
+       "label": "Explore All Mac",
+       "href": "https://www.apple.com/mac/"
+      },
+      {
+       "label": "MacBook Neo",
+       "href": "https://www.apple.com/macbook-neo/"
+      },
+      {
+       "label": "MacBook Air",
+       "href": "https://www.apple.com/macbook-air/"
+      },
+      {
+       "label": "MacBook Pro",
+       "href": "https://www.apple.com/macbook-pro/"
+      },
+      {
+       "label": "iMac",
+       "href": "https://www.apple.com/imac/"
+      },
+      {
+       "label": "Mac mini",
+       "href": "https://www.apple.com/mac-mini/"
+      },
+      {
+       "label": "Mac Studio",
+       "href": "https://www.apple.com/mac-studio/"
+      },
+      {
+       "label": "Displays",
+       "href": "https://www.apple.com/displays/"
+      }
+     ],
+     "links": [
+      {
+       "label": "Compare Mac",
+       "href": "https://www.apple.com/mac/compare/"
+      },
+      {
+       "label": "Switch from PC to Mac",
+       "href": "https://www.apple.com/mac/mac-does-that/"
+      }
+     ]
+    },
+    {
+     "title": "Shop Mac",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Shop Mac",
+       "href": "https://www.apple.com/us/shop/goto/buy_mac"
+      },
+      {
+       "label": "Help Me Choose",
+       "href": "https://www.apple.com/mac/best-mac/"
+      },
+      {
+       "label": "Mac Accessories",
+       "href": "https://www.apple.com/us/shop/goto/mac/accessories"
+      },
+      {
+       "label": "Apple Upgrade",
+       "href": "https://www.apple.com/us/shop/goto/apple_upgrade"
+      },
+      {
+       "label": "Apple Trade In",
+       "href": "https://www.apple.com/us/shop/goto/trade_in#mac"
+      },
+      {
+       "label": "Financing",
+       "href": "https://www.apple.com/us/shop/goto/payment_plan"
+      },
+      {
+       "label": "Personal Setup",
+       "href": "https://www.apple.com/us/shop/goto/personal_setup"
+      }
+     ]
+    },
+    {
+     "title": "More from Mac",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Mac Support",
+       "href": "https://support.apple.com/mac?cid=gn-ols-mac-psp-prodfly"
+      },
+      {
+       "label": "AppleCare",
+       "href": "https://www.apple.com/applecare/?filter=mac"
+      },
+      {
+       "label": "macOS 27",
+       "href": "https://www.apple.com/os/macos/"
+      },
+      {
+       "label": "Apple Intelligence and Siri",
+       "href": "https://www.apple.com/apple-intelligence/"
+      },
+      {
+       "label": "Apps by Apple",
+       "href": "https://www.apple.com/apps/"
+      },
+      {
+       "label": "Apple Creator Studio",
+       "href": "https://www.apple.com/apple-creator-studio/"
+      },
+      {
+       "label": "Better with iPhone",
+       "href": "https://www.apple.com/macos/continuity/"
+      },
+      {
+       "label": "iCloud+",
+       "href": "https://www.apple.com/icloud/"
+      },
+      {
+       "label": "Mac for Business",
+       "href": "https://www.apple.com/business/mac/"
+      },
+      {
+       "label": "Education",
+       "href": "https://www.apple.com/education/"
+      },
+      {
+       "label": "Apple at Work",
+       "href": "https://www.apple.com/business/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ipad",
+   "label": "iPad",
+   "href": "https://www.apple.com/ipad/",
+   "groups": [
+    {
+     "title": "Explore iPad",
+     "elevated": [
+      {
+       "label": "Explore All iPad",
+       "href": "https://www.apple.com/ipad/"
+      },
+      {
+       "label": "iPad Pro",
+       "href": "https://www.apple.com/ipad-pro/"
+      },
+      {
+       "label": "iPad Air",
+       "href": "https://www.apple.com/ipad-air/"
+      },
+      {
+       "label": "iPad",
+       "href": "https://www.apple.com/ipad-11/"
+      },
+      {
+       "label": "iPad mini",
+       "href": "https://www.apple.com/ipad-mini/"
+      },
+      {
+       "label": "Apple Pencil",
+       "href": "https://www.apple.com/apple-pencil/"
+      },
+      {
+       "label": "Keyboards",
+       "href": "https://www.apple.com/ipad-keyboards/"
+      }
+     ],
+     "links": [
+      {
+       "label": "Compare iPad",
+       "href": "https://www.apple.com/ipad/compare/"
+      }
+     ]
+    },
+    {
+     "title": "Shop iPad",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Shop iPad",
+       "href": "https://www.apple.com/us/shop/goto/buy_ipad"
+      },
+      {
+       "label": "iPad Accessories",
+       "href": "https://www.apple.com/us/shop/goto/ipad/accessories"
+      },
+      {
+       "label": "Apple Upgrade",
+       "href": "https://www.apple.com/us/shop/goto/apple_upgrade"
+      },
+      {
+       "label": "Apple Trade In",
+       "href": "https://www.apple.com/us/shop/goto/trade_in#ipad"
+      },
+      {
+       "label": "Financing",
+       "href": "https://www.apple.com/us/shop/goto/payment_plan"
+      },
+      {
+       "label": "Personal Setup",
+       "href": "https://www.apple.com/us/shop/goto/personal_setup"
+      }
+     ]
+    },
+    {
+     "title": "More from iPad",
+     "elevated": [],
+     "links": [
+      {
+       "label": "iPad Support",
+       "href": "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-prodfly"
+      },
+      {
+       "label": "AppleCare",
+       "href": "https://www.apple.com/applecare/?filter=ipad"
+      },
+      {
+       "label": "iPadOS 27",
+       "href": "https://www.apple.com/os/ipados/"
+      },
+      {
+       "label": "Apple Intelligence and Siri",
+       "href": "https://www.apple.com/apple-intelligence/"
+      },
+      {
+       "label": "Apps by Apple",
+       "href": "https://www.apple.com/apps/"
+      },
+      {
+       "label": "Apple Creator Studio",
+       "href": "https://www.apple.com/apple-creator-studio/"
+      },
+      {
+       "label": "iCloud+",
+       "href": "https://www.apple.com/icloud/"
+      },
+      {
+       "label": "Education",
+       "href": "https://www.apple.com/education/"
+      },
+      {
+       "label": "Apple at Work",
+       "href": "https://www.apple.com/business/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iphone",
+   "label": "iPhone",
+   "href": "https://www.apple.com/iphone/",
+   "groups": [
+    {
+     "title": "Explore iPhone",
+     "elevated": [
+      {
+       "label": "Explore All iPhone",
+       "href": "https://www.apple.com/iphone/"
+      },
+      {
+       "label": "iPhone Duo",
+       "href": "https://www.apple.com/iphone-duo/"
+      },
+      {
+       "label": "iPhone 18 Pro",
+       "href": "https://www.apple.com/iphone-18-pro/"
+      },
+      {
+       "label": "iPhone Air",
+       "href": "https://www.apple.com/iphone-air/"
+      },
+      {
+       "label": "iPhone 17",
+       "href": "https://www.apple.com/iphone-17/"
+      },
+      {
+       "label": "iPhone 17e",
+       "href": "https://www.apple.com/iphone-17e/"
+      },
+      {
+       "label": "iPhone 16",
+       "href": "https://www.apple.com/us/shop/goto/buy_iphone/iphone_16"
+      }
+     ],
+     "links": [
+      {
+       "label": "Compare iPhone",
+       "href": "https://www.apple.com/iphone/compare/"
+      },
+      {
+       "label": "Switch from Android",
+       "href": "https://www.apple.com/iphone/switch/"
+      }
+     ]
+    },
+    {
+     "title": "Shop iPhone",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Shop iPhone",
+       "href": "https://www.apple.com/us/shop/goto/buy_iphone"
+      },
+      {
+       "label": "iPhone Accessories",
+       "href": "https://www.apple.com/us/shop/goto/iphone/accessories"
+      },
+      {
+       "label": "Apple Upgrade",
+       "href": "https://www.apple.com/us/shop/goto/apple_upgrade"
+      },
+      {
+       "label": "Apple Trade In",
+       "href": "https://www.apple.com/us/shop/goto/trade_in#iphone"
+      },
+      {
+       "label": "Carrier Deals at Apple",
+       "href": "https://www.apple.com/us/shop/goto/buy_iphone/carrier_offers"
+      },
+      {
+       "label": "Financing",
+       "href": "https://www.apple.com/us/shop/goto/payment_plan"
+      },
+      {
+       "label": "Personal Setup",
+       "href": "https://www.apple.com/us/shop/goto/personal_setup"
+      }
+     ]
+    },
+    {
+     "title": "More from iPhone",
+     "elevated": [],
+     "links": [
+      {
+       "label": "iPhone Support",
+       "href": "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-prodfly"
+      },
+      {
+       "label": "AppleCare",
+       "href": "https://www.apple.com/applecare/?filter=iphone"
+      },
+      {
+       "label": "iOS 27",
+       "href": "https://www.apple.com/os/ios/"
+      },
+      {
+       "label": "Apple Intelligence and Siri",
+       "href": "https://www.apple.com/apple-intelligence/"
+      },
+      {
+       "label": "Apps by Apple",
+       "href": "https://www.apple.com/apps/"
+      },
+      {
+       "label": "iPhone Privacy",
+       "href": "https://www.apple.com/privacy/"
+      },
+      {
+       "label": "Better with Mac",
+       "href": "https://www.apple.com/macos/continuity/"
+      },
+      {
+       "label": "iCloud+",
+       "href": "https://www.apple.com/icloud/"
+      },
+      {
+       "label": "Wallet, Pay, Card",
+       "href": "https://www.apple.com/wallet/"
+      },
+      {
+       "label": "Apple at Work",
+       "href": "https://www.apple.com/business/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "watch",
+   "label": "Watch",
+   "href": "https://www.apple.com/watch/",
+   "groups": [
+    {
+     "title": "Explore Watch",
+     "elevated": [
+      {
+       "label": "Explore All Apple Watch",
+       "href": "https://www.apple.com/watch/"
+      },
+      {
+       "label": "Apple Watch Series 12",
+       "href": "https://www.apple.com/apple-watch-series-12/"
+      },
+      {
+       "label": "Apple Watch Ultra 4",
+       "href": "https://www.apple.com/apple-watch-ultra-4/"
+      },
+      {
+       "label": "Apple Watch SE 3",
+       "href": "https://www.apple.com/apple-watch-se-3/"
+      },
+      {
+       "label": "Apple Watch Nike",
+       "href": "https://www.apple.com/apple-watch-nike/"
+      },
+      {
+       "label": "Apple Watch Hermès",
+       "href": "https://www.apple.com/apple-watch-hermes/"
+      }
+     ],
+     "links": [
+      {
+       "label": "Compare Watch",
+       "href": "https://www.apple.com/watch/compare/"
+      },
+      {
+       "label": "Why Apple Watch",
+       "href": "https://www.apple.com/watch/why-apple-watch/"
+      }
+     ]
+    },
+    {
+     "title": "Shop Watch",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Shop Apple Watch",
+       "href": "https://www.apple.com/us/shop/goto/buy_watch"
+      },
+      {
+       "label": "Apple Watch Bands",
+       "href": "https://www.apple.com/us/shop/goto/watch/bands"
+      },
+      {
+       "label": "Apple Watch Accessories",
+       "href": "https://www.apple.com/us/shop/goto/watch/accessories"
+      },
+      {
+       "label": "Apple Upgrade",
+       "href": "https://www.apple.com/us/shop/goto/apple_upgrade"
+      },
+      {
+       "label": "Apple Trade In",
+       "href": "https://www.apple.com/us/shop/goto/trade_in#watch"
+      },
+      {
+       "label": "Financing",
+       "href": "https://www.apple.com/us/shop/goto/payment_plan"
+      },
+      {
+       "label": "Personal Setup",
+       "href": "https://www.apple.com/us/shop/goto/personal_setup"
+      }
+     ]
+    },
+    {
+     "title": "More from Watch",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Apple Watch Support",
+       "href": "https://support.apple.com/watch?cid=gn-ols-watch-psp-prodfly"
+      },
+      {
+       "label": "AppleCare",
+       "href": "https://www.apple.com/applecare/?filter=watch"
+      },
+      {
+       "label": "watchOS 27",
+       "href": "https://www.apple.com/os/watchos/"
+      },
+      {
+       "label": "Apple Watch For Your Kids",
+       "href": "https://www.apple.com/apple-watch-for-your-kids/"
+      },
+      {
+       "label": "Apps by Apple",
+       "href": "https://www.apple.com/apps/"
+      },
+      {
+       "label": "Apple Fitness+",
+       "href": "https://www.apple.com/apple-fitness-plus/"
+      },
+      {
+       "label": "Education",
+       "href": "https://www.apple.com/education/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "vision",
+   "label": "Vision",
+   "href": "https://www.apple.com/apple-vision-pro/",
+   "groups": [
+    {
+     "title": "Explore Vision",
+     "elevated": [
+      {
+       "label": "Explore Apple Vision Pro",
+       "href": "https://www.apple.com/apple-vision-pro/"
+      }
+     ],
+     "links": [
+      {
+       "label": "Tech Specs",
+       "href": "https://www.apple.com/apple-vision-pro/specs/"
+      }
+     ]
+    },
+    {
+     "title": "Shop Vision",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Shop Apple Vision Pro",
+       "href": "https://www.apple.com/us/shop/goto/buy_vision"
+      },
+      {
+       "label": "Apple Vision Pro Accessories",
+       "href": "https://www.apple.com/us/shop/goto/vision/accessories"
+      },
+      {
+       "label": "Book a Demo",
+       "href": "https://www.apple.com/retail/instore-shopping-session/session-selection/?topic=visionpro"
+      },
+      {
+       "label": "Financing",
+       "href": "https://www.apple.com/us/shop/goto/payment_plan"
+      },
+      {
+       "label": "Personal Setup",
+       "href": "https://www.apple.com/us/shop/goto/personal_setup"
+      }
+     ]
+    },
+    {
+     "title": "More from Vision",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Apple Vision Pro Support",
+       "href": "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-prodfly"
+      },
+      {
+       "label": "AppleCare",
+       "href": "https://www.apple.com/applecare/?filter=apple-vision-pro"
+      },
+      {
+       "label": "visionOS 27",
+       "href": "https://www.apple.com/os/visionos/"
+      },
+      {
+       "label": "Apple Vision Pro for Enterprise",
+       "href": "https://www.apple.com/business/enterprise/apple-vision-pro/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "airpods",
+   "label": "AirPods",
+   "href": "https://www.apple.com/airpods/",
+   "groups": [
+    {
+     "title": "Explore AirPods",
+     "elevated": [
+      {
+       "label": "Explore All AirPods",
+       "href": "https://www.apple.com/airpods/"
+      },
+      {
+       "label": "AirPods 5",
+       "href": "https://www.apple.com/airpods-5/"
+      },
+      {
+       "label": "AirPods Pro 3",
+       "href": "https://www.apple.com/airpods-pro/"
+      },
+      {
+       "label": "AirPods Max 2",
+       "href": "https://www.apple.com/airpods-max/"
+      }
+     ],
+     "links": [
+      {
+       "label": "Compare AirPods",
+       "href": "https://www.apple.com/airpods/compare/"
+      }
+     ]
+    },
+    {
+     "title": "Shop AirPods",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Shop AirPods 5",
+       "href": "https://www.apple.com/us/shop/goto/buy_airpods/airpods_5"
+      },
+      {
+       "label": "Shop AirPods Pro 3",
+       "href": "https://www.apple.com/us/shop/goto/buy_airpods/airpods_pro_3"
+      },
+      {
+       "label": "Shop AirPods Max 2",
+       "href": "https://www.apple.com/us/shop/goto/buy_airpods/airpods_max_2"
+      },
+      {
+       "label": "AirPods Accessories",
+       "href": "https://www.apple.com/us/shop/goto/airpods/accessories"
+      }
+     ]
+    },
+    {
+     "title": "More from AirPods",
+     "elevated": [],
+     "links": [
+      {
+       "label": "AirPods Support",
+       "href": "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-prodfly"
+      },
+      {
+       "label": "AppleCare",
+       "href": "https://www.apple.com/applecare/?filter=headphones"
+      },
+      {
+       "label": "Hearing Health",
+       "href": "https://www.apple.com/airpods-pro/hearing-health/"
+      },
+      {
+       "label": "Apple Music",
+       "href": "https://www.apple.com/apple-music/"
+      },
+      {
+       "label": "Apple Fitness+",
+       "href": "https://www.apple.com/apple-fitness-plus/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tv-home",
+   "label": "Home",
+   "href": "https://www.apple.com/home/",
+   "groups": [
+    {
+     "title": "Explore Home",
+     "elevated": [
+      {
+       "label": "Explore Home",
+       "href": "https://www.apple.com/home/"
+      },
+      {
+       "label": "Apple HomeView",
+       "href": "https://www.apple.com/apple-homeview/"
+      },
+      {
+       "label": "Apple TV 4K",
+       "href": "https://www.apple.com/apple-tv-4k/"
+      },
+      {
+       "label": "HomePod",
+       "href": "https://www.apple.com/homepod-2nd-generation/"
+      },
+      {
+       "label": "HomePod mini 2",
+       "href": "https://www.apple.com/homepod-mini/"
+      }
+     ],
+     "links": []
+    },
+    {
+     "title": "Shop Home",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Shop Home",
+       "href": "https://www.apple.com/us/shop/goto/buy_home"
+      },
+      {
+       "label": "Shop Apple Home Collection",
+       "href": "https://www.apple.com/us/shop/goto/home_accessories/home_collection"
+      },
+      {
+       "label": "Shop Home Accessories",
+       "href": "https://www.apple.com/us/shop/goto/home_accessories"
+      },
+      {
+       "label": "Personal Setup",
+       "href": "https://www.apple.com/us/shop/goto/personal_setup"
+      }
+     ]
+    },
+    {
+     "title": "More from Home",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Apple TV Support",
+       "href": "https://support.apple.com/apple-tv?cid=gn-ols-appletv-psp-prodfly"
+      },
+      {
+       "label": "HomePod Support",
+       "href": "https://support.apple.com/homepod?cid=gn-ols-homepod-psp-prodfly"
+      },
+      {
+       "label": "AppleCare for Apple TV",
+       "href": "https://www.apple.com/applecare/?filter=tv"
+      },
+      {
+       "label": "AppleCare for HomePod",
+       "href": "https://www.apple.com/applecare/?filter=homepod"
+      },
+      {
+       "label": "Apple TV app",
+       "href": "https://www.apple.com/apple-tv-app/"
+      },
+      {
+       "label": "Apple TV",
+       "href": "https://www.apple.com/apple-tv/"
+      },
+      {
+       "label": "Home app",
+       "href": "https://www.apple.com/home-app/"
+      },
+      {
+       "label": "Apple Music",
+       "href": "https://www.apple.com/apple-music/"
+      },
+      {
+       "label": "AirPlay",
+       "href": "https://www.apple.com/airplay/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "entertainment",
+   "label": "Entertainment",
+   "href": "https://www.apple.com/entertainment/",
+   "groups": [
+    {
+     "title": "Explore Entertainment",
+     "elevated": [
+      {
+       "label": "Explore Entertainment",
+       "href": "https://www.apple.com/services/"
+      },
+      {
+       "label": "Apple One",
+       "href": "https://www.apple.com/apple-one/"
+      },
+      {
+       "label": "Apple TV",
+       "href": "https://www.apple.com/apple-tv/"
+      },
+      {
+       "label": "Apple Music",
+       "href": "https://www.apple.com/apple-music/"
+      },
+      {
+       "label": "Apple Arcade",
+       "href": "https://www.apple.com/apple-arcade/"
+      },
+      {
+       "label": "Apple Fitness+",
+       "href": "https://www.apple.com/apple-fitness-plus/"
+      },
+      {
+       "label": "Apple News+",
+       "href": "https://www.apple.com/apple-news/"
+      },
+      {
+       "label": "Apple Podcasts",
+       "href": "https://www.apple.com/apple-podcasts/"
+      },
+      {
+       "label": "Apple Books",
+       "href": "https://www.apple.com/apple-books/"
+      },
+      {
+       "label": "App Store",
+       "href": "https://www.apple.com/app-store/"
+      }
+     ],
+     "links": []
+    },
+    {
+     "title": "Support",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Apple TV Support",
+       "href": "https://support.apple.com/tv?cid=gn-ols-tv-psp-prodfly"
+      },
+      {
+       "label": "Apple Music Support",
+       "href": "https://support.apple.com/music?cid=gn-ols-music-psp-prodfly"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "accessories",
+   "label": "Accessories",
+   "href": "https://www.apple.com/us/shop/goto/buy_accessories",
+   "groups": [
+    {
+     "title": "Shop by Product",
+     "elevated": [
+      {
+       "label": "Shop All Accessories",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all"
+      },
+      {
+       "label": "iPhone",
+       "href": "https://www.apple.com/us/shop/goto/iphone/accessories"
+      },
+      {
+       "label": "iPad",
+       "href": "https://www.apple.com/us/shop/goto/ipad/accessories"
+      },
+      {
+       "label": "Mac",
+       "href": "https://www.apple.com/us/shop/goto/mac/accessories"
+      },
+      {
+       "label": "Apple Watch",
+       "href": "https://www.apple.com/us/shop/goto/watch/accessories"
+      },
+      {
+       "label": "Apple Vision Pro",
+       "href": "https://www.apple.com/us/shop/goto/vision/accessories"
+      },
+      {
+       "label": "AirPods",
+       "href": "https://www.apple.com/us/shop/goto/airpods/accessories"
+      },
+      {
+       "label": "Home",
+       "href": "https://www.apple.com/us/shop/goto/home_accessories"
+      },
+      {
+       "label": "AirTag",
+       "href": "https://www.apple.com/us/shop/goto/airtag/accessories"
+      },
+      {
+       "label": "Beats",
+       "href": "https://www.apple.com/us/shop/goto/beats/accessories"
+      }
+     ],
+     "links": []
+    },
+    {
+     "title": "Shop by Category",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Headphones & Speakers",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/headphones_speakers"
+      },
+      {
+       "label": "Chargers & Adapters",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/chargers_adapters"
+      },
+      {
+       "label": "Smart Home Essentials",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/homekit"
+      },
+      {
+       "label": "Cases & Protection",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/cases_protection"
+      },
+      {
+       "label": "Content Creation",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/content_creation"
+      },
+      {
+       "label": "Gaming",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/gaming"
+      },
+      {
+       "label": "Hard Drives & Storage",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/drives_storage"
+      },
+      {
+       "label": "Mice & Keyboards",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/mice_keyboards"
+      },
+      {
+       "label": "Health & Fitness",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/health_fitness"
+      },
+      {
+       "label": "Office Accessories",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/office"
+      },
+      {
+       "label": "Software",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/software"
+      }
+     ]
+    },
+    {
+     "title": "More to Explore",
+     "elevated": [],
+     "links": [
+      {
+       "label": "New Arrivals",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/new_arrivals"
+      },
+      {
+       "label": "Made by Apple",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/made_by_apple"
+      },
+      {
+       "label": "Accessibility",
+       "href": "https://www.apple.com/us/shop/goto/accessories/all/accessibility"
+      },
+      {
+       "label": "Assistive Technologies",
+       "href": "https://www.apple.com/accessibility/assistive-technologies/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "support",
+   "label": "Support",
+   "href": "https://support.apple.com/?cid=gn-ols-home-hp-tab",
+   "groups": [
+    {
+     "title": "Explore Support",
+     "elevated": [
+      {
+       "label": "iPhone",
+       "href": "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-explore"
+      },
+      {
+       "label": "Mac",
+       "href": "https://support.apple.com/mac?cid=gn-ols-mac-psp-explore"
+      },
+      {
+       "label": "iPad",
+       "href": "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-explore"
+      },
+      {
+       "label": "Watch",
+       "href": "https://support.apple.com/watch?cid=gn-ols-watch-psp-explore"
+      },
+      {
+       "label": "Apple Vision Pro",
+       "href": "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-explore"
+      },
+      {
+       "label": "AirPods",
+       "href": "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore"
+      },
+      {
+       "label": "Music",
+       "href": "https://support.apple.com/music?cid=gn-ols-music-psp-explore"
+      },
+      {
+       "label": "TV",
+       "href": "https://support.apple.com/tv?cid=gn-ols-tv-psp-explore"
+      }
+     ],
+     "links": [
+      {
+       "label": "Explore Support",
+       "href": "https://support.apple.com/?cid=gn-ols-home-hp-explore"
+      }
+     ]
+    },
+    {
+     "title": "Get Help",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Community",
+       "href": "https://discussions.apple.com/welcome?cid=gn-com-community-lp-get_help"
+      },
+      {
+       "label": "Check Coverage",
+       "href": "https://checkcoverage.apple.com/us/en?cid=gn-ols-checkcoverage-lp-get_help"
+      },
+      {
+       "label": "Genius Bar",
+       "href": "https://www.apple.com/retail/geniusbar/"
+      },
+      {
+       "label": "Repair",
+       "href": "https://support.apple.com/repair?cid=gn-ols-repair-lp-get_help"
+      }
+     ]
+    },
+    {
+     "title": "Helpful Topics",
+     "elevated": [],
+     "links": [
+      {
+       "label": "Get AppleCare",
+       "href": "https://www.apple.com/applecare/"
+      },
+      {
+       "label": "Apple Account and Password",
+       "href": "https://support.apple.com/apple-account?cid=gn-ols-appleaccount-psp-helpful_topics"
+      },
+      {
+       "label": "Billing & Subscriptions",
+       "href": "https://support.apple.com/billing?cid=gn-ols-billing-collection-helpful_topics"
+      },
+      {
+       "label": "Accessibility",
+       "href": "https://support.apple.com/accessibility?cid=gn-ols-accessibility-psp-helpful_topics"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "searchQuickLinks": [
+  {
+   "label": "Find a Store",
+   "href": "https://www.apple.com/retail/"
+  },
+  {
+   "label": "Apple Vision Pro",
+   "href": "https://www.apple.com/apple-vision-pro/"
+  },
+  {
+   "label": "AirPods",
+   "href": "https://www.apple.com/airpods/"
+  },
+  {
+   "label": "Apple Intelligence",
+   "href": "https://www.apple.com/apple-intelligence/"
+  },
+  {
+   "label": "Apple Trade In",
+   "href": "https://www.apple.com/us/shop/goto/trade_in"
+  }
+ ]
+}

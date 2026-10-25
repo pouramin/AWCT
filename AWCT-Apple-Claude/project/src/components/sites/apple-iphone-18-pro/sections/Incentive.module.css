@@ -1,0 +1,51 @@
+.item { flex-basis: 372px; }
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 516px;
+  padding: 32px 32px 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 28px;
+  background: #fff;
+}
+.label { margin: 0; font: 600 17px/1.23536 var(--a-font-text); }
+.headline { margin: 12px 0 0; }
+.body { margin: 12px 0 0; font: 400 17px/1.23536 var(--a-font-text); }
+.image { display: block; margin: auto -32px 0; }
+.image img { display: block; width: 100%; height: auto; }
+
+.control {
+  position: absolute;
+  bottom: 20px;
+  inset-inline-end: 20px;
+  display: grid;
+  place-items: center;
+  width: 36px;
+  height: 36px;
+  border: 0;
+  border-radius: 50%;
+  background: #e8e8ed;
+  color: rgba(0, 0, 0, 0.56);
+  cursor: pointer;
+  transition: transform 0.2s ease, background 0.2s ease;
+}
+.control svg { width: 14px; height: 14px; }
+.card:hover .control { transform: scale(1.1); background: #dcdce1; color: rgba(0, 0, 0, 0.72); }
+.control .chevron { width: 26px; height: 26px; }
+
+.modal { text-align: start; }
+.modalTopic { margin: 0; font: 600 17px/1.23536 var(--a-font-text); }
+.modalHeadline { margin: 8px 0 32px; font: 600 40px/1.1 var(--a-font-display); }
+.modalBody { margin: 0 0 24px; font: 400 17px/1.47059 var(--a-font-text); }
+.qr { display: block; margin-top: 32px; }
+.qr img { display: block; width: 100%; height: auto; border-radius: 18px; }
+
+@media (max-width: 734px) {
+  .item { flex-basis: 300px; }
+  .card { height: 480px; padding: 28px 28px 0; }
+  .image { margin-inline: -28px; }
+  .modalHeadline { font-size: 32px; }
+}

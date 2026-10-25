@@ -1,0 +1,54 @@
+{
+  "hero": {
+    "large": "/sites/apple/video-hero-large.mp4",
+    "small": "/sites/apple/video-hero-small.mp4"
+  },
+  "highlights-camera": {
+    "large": "/sites/apple/video-highlights-camera-large.mp4",
+    "small": "/sites/apple/video-highlights-camera-small.mp4"
+  },
+  "highlights-battery": {
+    "large": "/sites/apple/video-highlights-battery-large.mp4",
+    "small": "/sites/apple/video-highlights-battery-small.mp4"
+  },
+  "highlights-colors": {
+    "large": "/sites/apple/video-highlights-colors-large.mp4",
+    "small": "/sites/apple/video-highlights-colors-small.mp4"
+  },
+  "highlights-chip": {
+    "large": "/sites/apple/video-highlights-chip-large.mp4",
+    "small": "/sites/apple/video-highlights-chip-small.mp4"
+  },
+  "viewer-aperture": {
+    "large": "/sites/apple/video-viewer-aperture-large.mp4",
+    "small": "/sites/apple/video-viewer-aperture-small.mp4"
+  },
+  "viewer-dynamic-island": {
+    "large": "/sites/apple/video-viewer-dynamic-island-large.mp4",
+    "small": "/sites/apple/video-viewer-dynamic-island-small.mp4"
+  },
+  "camera-system": {
+    "large": "/sites/apple/video-camera-system-large.mp4",
+    "small": "/sites/apple/video-camera-system-small.mp4"
+  },
+  "8x-zoom": {
+    "large": "/sites/apple/video-8x-zoom-large.mp4",
+    "small": "/sites/apple/video-8x-zoom-small.mp4"
+  },
+  "pro-video": {
+    "large": "/sites/apple/video-pro-video-large.mp4",
+    "small": "/sites/apple/video-pro-video-small.mp4"
+  },
+  "4k-timelapse": {
+    "large": "/sites/apple/video-4k-timelapse-large.mp4",
+    "small": "/sites/apple/video-4k-timelapse-small.mp4"
+  },
+  "battery": {
+    "large": "/sites/apple/video-battery-large.mp4",
+    "small": "/sites/apple/video-battery-small.mp4"
+  },
+  "performance": {
+    "large": "/sites/apple/video-performance-large.mp4",
+    "small": "/sites/apple/video-performance-small.mp4"
+  }
+}

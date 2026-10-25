@@ -1,0 +1,2891 @@
+{
+  "site": "apple",
+  "routes": [
+    "/",
+    "/iphone-18-pro"
+  ],
+  "port": 3002,
+  "assetFiles": 257,
+  "researchFiles": 55,
+  "checkedLiteralAssetReferences": 251,
+  "missingLocalAssets": [],
+  "missingImportsOrDependencies": [],
+  "implementationByteMismatches": [],
+  "credentialOrMachinePathFindings": [],
+  "dependencyLockStrategy": "Original full base lock graph, updated root metadata; Apple adds original dependency-free hls.js 1.7.3 entry.",
+  "npmInstallOrBuildPerformed": false,
+  "limitations": "The full product film streams from Apple and needs internet; other product media is local. Free 3D/AR, exact animation timing and full Persian translation are not implemented.",
+  "originalToExportFiles": [
+    {
+      "original": "apps/apple/src/app/iphone-18-pro/page.tsx",
+      "exported": "awct-apple/src/app/iphone-18-pro/page.tsx",
+      "sha256": "e8943c4932a11ce1b6099094f910da0af56f2306fe3b6c37f12e9f434c6e3d2e",
+      "originalSha256": "e8943c4932a11ce1b6099094f910da0af56f2306fe3b6c37f12e9f434c6e3d2e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/app/layout.tsx",
+      "exported": "awct-apple/src/app/layout.tsx",
+      "sha256": "54da017e0e5c18a881ae3a37cacff2584971044f3c5775aef7687f431b36e225",
+      "originalSha256": "54da017e0e5c18a881ae3a37cacff2584971044f3c5775aef7687f431b36e225",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/app/page.tsx",
+      "exported": "awct-apple/src/app/page.tsx",
+      "sha256": "bdf64252982eed8d2858f5a197cbfac31f8292ce0bb0744cdbfd1ccd20ffd761",
+      "originalSha256": "bdf64252982eed8d2858f5a197cbfac31f8292ce0bb0744cdbfd1ccd20ffd761",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/apple.css",
+      "exported": "awct-apple/src/components/sites/apple/apple.css",
+      "sha256": "0fe2f9198bf0e0389a39e18096136814b8d833451964c7a46c55140616426ff4",
+      "originalSha256": "0fe2f9198bf0e0389a39e18096136814b8d833451964c7a46c55140616426ff4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/emphasis.json",
+      "exported": "awct-apple/src/components/sites/apple/emphasis.json",
+      "sha256": "d3e7c978d35d19e48fafc1900bde5a66480f64669cb6ecc636b8464eefac4d8c",
+      "originalSha256": "d3e7c978d35d19e48fafc1900bde5a66480f64669cb6ecc636b8464eefac4d8c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/FilmPlayer.tsx",
+      "exported": "awct-apple/src/components/sites/apple/FilmPlayer.tsx",
+      "sha256": "8f1cde03bbef3f59f3e762d1aa1353688d6b72ca95e159cba0782b09f4f5eb4b",
+      "originalSha256": "8f1cde03bbef3f59f3e762d1aa1353688d6b72ca95e159cba0782b09f4f5eb4b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/footer.json",
+      "exported": "awct-apple/src/components/sites/apple/footer.json",
+      "sha256": "d09414e087923d739a1252f6f906a300ee25a45855d65061e10db8762aa39dc5",
+      "originalSha256": "d09414e087923d739a1252f6f906a300ee25a45855d65061e10db8762aa39dc5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/i18n.ts",
+      "exported": "awct-apple/src/components/sites/apple/i18n.ts",
+      "sha256": "013cc8efe8f5e42e6cbf6cc2def2835beead39891ec6f7f145ceaf8b298256cc",
+      "originalSha256": "013cc8efe8f5e42e6cbf6cc2def2835beead39891ec6f7f145ceaf8b298256cc",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/IPhonePage.tsx",
+      "exported": "awct-apple/src/components/sites/apple/IPhonePage.tsx",
+      "sha256": "358d8528386c8857df1e556447a985cf14948bc300ce556d434be4ea08403ff1",
+      "originalSha256": "358d8528386c8857df1e556447a985cf14948bc300ce556d434be4ea08403ff1",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/media.json",
+      "exported": "awct-apple/src/components/sites/apple/media.json",
+      "sha256": "a6418c9d1be78261388533603c3e8dab609d951c193cdf1e02e7ae8e11bd94cd",
+      "originalSha256": "a6418c9d1be78261388533603c3e8dab609d951c193cdf1e02e7ae8e11bd94cd",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/menus.json",
+      "exported": "awct-apple/src/components/sites/apple/menus.json",
+      "sha256": "fbe91904283aab13dc0c004172146ecbc6a36bd1a91e21fb27f3c483af79f6b8",
+      "originalSha256": "fbe91904283aab13dc0c004172146ecbc6a36bd1a91e21fb27f3c483af79f6b8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/navigation.json",
+      "exported": "awct-apple/src/components/sites/apple/navigation.json",
+      "sha256": "37ffe02b54c89148988144fca5991394a640f21c13f744019baec406e46f3742",
+      "originalSha256": "37ffe02b54c89148988144fca5991394a640f21c13f744019baec406e46f3742",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/src/components/sites/apple/source.json",
+      "exported": "awct-apple/src/components/sites/apple/source.json",
+      "sha256": "0dd81d8d9dd234fd4bbb684e88b0f2aa8b54182038d54a0b7a6afd1050388fe9",
+      "originalSha256": "0dd81d8d9dd234fd4bbb684e88b0f2aa8b54182038d54a0b7a6afd1050388fe9",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/3d_viewer__hgotqf9hvvee_large.jpg",
+      "exported": "awct-apple/public/sites/apple/3d_viewer__hgotqf9hvvee_large.jpg",
+      "sha256": "6753f5d0f34caa27b71cc9fb43adf99d404d0babee8c3c49d32de676dd85b1ea",
+      "originalSha256": "6753f5d0f34caa27b71cc9fb43adf99d404d0babee8c3c49d32de676dd85b1ea",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/3d_viewer__hgotqf9hvvee_small.jpg",
+      "exported": "awct-apple/public/sites/apple/3d_viewer__hgotqf9hvvee_small.jpg",
+      "sha256": "898bcb5bbed5c0cb2ce1d6e98427ca79d98a7d9b936dd1d8b45395ff3ac9337a",
+      "originalSha256": "898bcb5bbed5c0cb2ce1d6e98427ca79d98a7d9b936dd1d8b45395ff3ac9337a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/4k_timelapse_endframe__fpokzlb44wa6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/4k_timelapse_endframe__fpokzlb44wa6_large.jpg",
+      "sha256": "120a4b73b714f52f787837b76cf611e25f4c72425fc7389c47e3f7bb1b1a5dcc",
+      "originalSha256": "120a4b73b714f52f787837b76cf611e25f4c72425fc7389c47e3f7bb1b1a5dcc",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/4k_timelapse_endframe__fpokzlb44wa6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/4k_timelapse_endframe__fpokzlb44wa6_small.jpg",
+      "sha256": "63649738630728a760ae2cb73733ff4885db1d0bb9f69542942e17b55babdf75",
+      "originalSha256": "63649738630728a760ae2cb73733ff4885db1d0bb9f69542942e17b55babdf75",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/4k_timelapse_startframe__bwemjwb0098i_large.jpg",
+      "exported": "awct-apple/public/sites/apple/4k_timelapse_startframe__bwemjwb0098i_large.jpg",
+      "sha256": "2e7e8bde99c557183b9f418049c56669e492019ed734f43b8c20eaae9fecd916",
+      "originalSha256": "2e7e8bde99c557183b9f418049c56669e492019ed734f43b8c20eaae9fecd916",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/4k_timelapse_startframe__bwemjwb0098i_small.jpg",
+      "exported": "awct-apple/public/sites/apple/4k_timelapse_startframe__bwemjwb0098i_small.jpg",
+      "sha256": "372eaa99df6f7e55f8f1bb2de76107b865b03ebc761dcaa31c3dde45ab83d8da",
+      "originalSha256": "372eaa99df6f7e55f8f1bb2de76107b865b03ebc761dcaa31c3dde45ab83d8da",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/8x-zoom_endframe__ed8psayfjwqe_large.jpg",
+      "exported": "awct-apple/public/sites/apple/8x-zoom_endframe__ed8psayfjwqe_large.jpg",
+      "sha256": "2b1b89de8c72aface0e91e4e7eade831ac6b7615690d094dcb3f60ed387802c5",
+      "originalSha256": "2b1b89de8c72aface0e91e4e7eade831ac6b7615690d094dcb3f60ed387802c5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/8x-zoom_endframe__ed8psayfjwqe_small.jpg",
+      "exported": "awct-apple/public/sites/apple/8x-zoom_endframe__ed8psayfjwqe_small.jpg",
+      "sha256": "6d39af9dd513864babc00faf6cd8f3b19e43f92fd6721ffdf52c10663d2bcb0a",
+      "originalSha256": "6d39af9dd513864babc00faf6cd8f3b19e43f92fd6721ffdf52c10663d2bcb0a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/8x-zoom_startframe__wp22u2y5ir6q_large.jpg",
+      "exported": "awct-apple/public/sites/apple/8x-zoom_startframe__wp22u2y5ir6q_large.jpg",
+      "sha256": "98faf2b73632bcc66cbefe28cd950fe5963ac7379c40a719a892674272152cb6",
+      "originalSha256": "98faf2b73632bcc66cbefe28cd950fe5963ac7379c40a719a892674272152cb6",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/8x-zoom_startframe__wp22u2y5ir6q_small.jpg",
+      "exported": "awct-apple/public/sites/apple/8x-zoom_startframe__wp22u2y5ir6q_small.jpg",
+      "sha256": "3eb7d0fc4df1db057c16800d5fa4bd4f97ab3b4db6e80e8f7abbdc0623bee424",
+      "originalSha256": "3eb7d0fc4df1db057c16800d5fa4bd4f97ab3b4db6e80e8f7abbdc0623bee424",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/a20_pro_chip__c6rba3bxjuc2_large.jpg",
+      "exported": "awct-apple/public/sites/apple/a20_pro_chip__c6rba3bxjuc2_large.jpg",
+      "sha256": "6fb5c8e4e533ec48a6f60c5c0374548d76205c3665466d31e8b51c6b64853a8c",
+      "originalSha256": "6fb5c8e4e533ec48a6f60c5c0374548d76205c3665466d31e8b51c6b64853a8c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/a20_pro_chip__c6rba3bxjuc2_small.jpg",
+      "exported": "awct-apple/public/sites/apple/a20_pro_chip__c6rba3bxjuc2_small.jpg",
+      "sha256": "9e318070994d51edd5a6c3215d1604a443e1320c63a27c5df2323f36dcbc84ea",
+      "originalSha256": "9e318070994d51edd5a6c3215d1604a443e1320c63a27c5df2323f36dcbc84ea",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/accessories__eq6jc5t9202u_large.jpg",
+      "exported": "awct-apple/public/sites/apple/accessories__eq6jc5t9202u_large.jpg",
+      "sha256": "e0a51ef491b20f585687d764cacd36aa610aacfac7984cdc749c3a245c703cf5",
+      "originalSha256": "e0a51ef491b20f585687d764cacd36aa610aacfac7984cdc749c3a245c703cf5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/accessories__eq6jc5t9202u_large.png",
+      "exported": "awct-apple/public/sites/apple/accessories__eq6jc5t9202u_large.png",
+      "sha256": "b137308579b748246b4b2c96de9449f736937733589e05adebc511f2c57ef374",
+      "originalSha256": "b137308579b748246b4b2c96de9449f736937733589e05adebc511f2c57ef374",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/accessories__eq6jc5t9202u_small.jpg",
+      "exported": "awct-apple/public/sites/apple/accessories__eq6jc5t9202u_small.jpg",
+      "sha256": "5ef0e2bbe6ca86a581cae81aacd599cfc03065826f169ebc00003e2bad668c2c",
+      "originalSha256": "5ef0e2bbe6ca86a581cae81aacd599cfc03065826f169ebc00003e2bad668c2c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/action_button__f9p8n5h9xk66_large.jpg",
+      "exported": "awct-apple/public/sites/apple/action_button__f9p8n5h9xk66_large.jpg",
+      "sha256": "a6ac65c9906157342f2bff2c467fa49a149752ab4014c5723cbfe4bd008f2bf9",
+      "originalSha256": "a6ac65c9906157342f2bff2c467fa49a149752ab4014c5723cbfe4bd008f2bf9",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/action_button__f9p8n5h9xk66_small.jpg",
+      "exported": "awct-apple/public/sites/apple/action_button__f9p8n5h9xk66_small.jpg",
+      "sha256": "cf528852b2c959eaa0479b7f7acc1046c42c0217e1025317e135c77910dfdced",
+      "originalSha256": "cf528852b2c959eaa0479b7f7acc1046c42c0217e1025317e135c77910dfdced",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/app_actions__budci8e25k76_large.jpg",
+      "exported": "awct-apple/public/sites/apple/app_actions__budci8e25k76_large.jpg",
+      "sha256": "25984ce2af57913d213a97c7038e577c2f92eab8f6330f986d3f2f5304b46dab",
+      "originalSha256": "25984ce2af57913d213a97c7038e577c2f92eab8f6330f986d3f2f5304b46dab",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/app_actions__budci8e25k76_small.jpg",
+      "exported": "awct-apple/public/sites/apple/app_actions__budci8e25k76_small.jpg",
+      "sha256": "1f0c52bd188416cf2c59bbf248b87358c794c69c53cc20bbf9d6b9997a3f0733",
+      "originalSha256": "1f0c52bd188416cf2c59bbf248b87358c794c69c53cc20bbf9d6b9997a3f0733",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/apple.svg",
+      "exported": "awct-apple/public/sites/apple/apple.svg",
+      "sha256": "376e4e67fe26b0f0d7a1867afa7b09f5b9e1a57c6c11bb4b515a8428ee93a888",
+      "originalSha256": "376e4e67fe26b0f0d7a1867afa7b09f5b9e1a57c6c11bb4b515a8428ee93a888",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/apple_intelligence__bj6vdt2qskmu_large.png",
+      "exported": "awct-apple/public/sites/apple/apple_intelligence__bj6vdt2qskmu_large.png",
+      "sha256": "1d790a13228d31f251b1a140042fa9ec8d5e5ae4dfb95582e61067a8d2aa9316",
+      "originalSha256": "1d790a13228d31f251b1a140042fa9ec8d5e5ae4dfb95582e61067a8d2aa9316",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/apple_store_app__b1iul1goe0mq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/apple_store_app__b1iul1goe0mq_large.jpg",
+      "sha256": "5226e6dfc371807c334e2d823fd062375e42e434c9db37259077170fb55c0391",
+      "originalSha256": "5226e6dfc371807c334e2d823fd062375e42e434c9db37259077170fb55c0391",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/apple_store_app__b1iul1goe0mq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/apple_store_app__b1iul1goe0mq_small.jpg",
+      "sha256": "a0ee377d35d59e0c9a053ee053ffe446775a2e3b444ffa97c460743e08160aa5",
+      "originalSha256": "a0ee377d35d59e0c9a053ee053ffe446775a2e3b444ffa97c460743e08160aa5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/apple_trade_in__bxvpyn2q8tg2_large.jpg",
+      "exported": "awct-apple/public/sites/apple/apple_trade_in__bxvpyn2q8tg2_large.jpg",
+      "sha256": "edfcad9c7c797ac635bc4e2ee55648b0537b55f18c4390c2d97bdf39a0445787",
+      "originalSha256": "edfcad9c7c797ac635bc4e2ee55648b0537b55f18c4390c2d97bdf39a0445787",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/apple_trade_in__bxvpyn2q8tg2_small.jpg",
+      "exported": "awct-apple/public/sites/apple/apple_trade_in__bxvpyn2q8tg2_small.jpg",
+      "sha256": "cda603f4f4e4eb36f7b5c37e0d07c43b91fb0e42ce1f943132c5e574ae9110a8",
+      "originalSha256": "cda603f4f4e4eb36f7b5c37e0d07c43b91fb0e42ce1f943132c5e574ae9110a8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/apple_upgrade__dc9j71c0kuye_large.jpg",
+      "exported": "awct-apple/public/sites/apple/apple_upgrade__dc9j71c0kuye_large.jpg",
+      "sha256": "bb563dfdac0d74f31381b35797e2a35df4ba509476f5fd1ef3768e9a049a4424",
+      "originalSha256": "bb563dfdac0d74f31381b35797e2a35df4ba509476f5fd1ef3768e9a049a4424",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/apple_upgrade__dc9j71c0kuye_small.jpg",
+      "exported": "awct-apple/public/sites/apple/apple_upgrade__dc9j71c0kuye_small.jpg",
+      "sha256": "a07d65e565234385222aca04ccf6dce00215b202656238bb7d725f6bd8b2a643",
+      "originalSha256": "a07d65e565234385222aca04ccf6dce00215b202656238bb7d725f6bd8b2a643",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/audio_mix__cv5tvd3y13ee_large.jpg",
+      "exported": "awct-apple/public/sites/apple/audio_mix__cv5tvd3y13ee_large.jpg",
+      "sha256": "e49591cf0b24a52361b4cad5e59fb3bea1edbe77d1f51151b130d3afa1173fe0",
+      "originalSha256": "e49591cf0b24a52361b4cad5e59fb3bea1edbe77d1f51151b130d3afa1173fe0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/audio_mix__cv5tvd3y13ee_small.jpg",
+      "exported": "awct-apple/public/sites/apple/audio_mix__cv5tvd3y13ee_small.jpg",
+      "sha256": "bb56089ece672281d9b550eb85464e88f511d3c63aacc5573bad32ca662a17b5",
+      "originalSha256": "bb56089ece672281d9b550eb85464e88f511d3c63aacc5573bad32ca662a17b5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/balance__dtrq8w3uj9iu_large.jpg",
+      "exported": "awct-apple/public/sites/apple/balance__dtrq8w3uj9iu_large.jpg",
+      "sha256": "2a68bcfec7f1c65dc0ad4552d92995112f67790cee76107253dd6bbcb451157b",
+      "originalSha256": "2a68bcfec7f1c65dc0ad4552d92995112f67790cee76107253dd6bbcb451157b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/balance__dtrq8w3uj9iu_small.jpg",
+      "exported": "awct-apple/public/sites/apple/balance__dtrq8w3uj9iu_small.jpg",
+      "sha256": "067925147b1e069e9fe191959ec4de8473474bc8f22e2288c35e46fbdb5a6a33",
+      "originalSha256": "067925147b1e069e9fe191959ec4de8473474bc8f22e2288c35e46fbdb5a6a33",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/battery__btf608ldbd0i_large.png",
+      "exported": "awct-apple/public/sites/apple/battery__btf608ldbd0i_large.png",
+      "sha256": "7df61c2c9d1f190d45c2b2a1ac4c4dbea55c60ab8c0c0c92c0be21d88b2104de",
+      "originalSha256": "7df61c2c9d1f190d45c2b2a1ac4c4dbea55c60ab8c0c0c92c0be21d88b2104de",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/battery_endframe__ds9p2a09r9aq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/battery_endframe__ds9p2a09r9aq_large.jpg",
+      "sha256": "7e4002072e3a0ed79707f0ca0c90c2dd964f0b3bc927ad45740069e62b5f63d4",
+      "originalSha256": "7e4002072e3a0ed79707f0ca0c90c2dd964f0b3bc927ad45740069e62b5f63d4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/battery_endframe__ds9p2a09r9aq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/battery_endframe__ds9p2a09r9aq_small.jpg",
+      "sha256": "1b2fe598dea31baafd302b2462a798cb8892a4654b5ec771730d23763db4e7d5",
+      "originalSha256": "1b2fe598dea31baafd302b2462a798cb8892a4654b5ec771730d23763db4e7d5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/boc_qr_code__dl7xwwg834gi_large.png",
+      "exported": "awct-apple/public/sites/apple/boc_qr_code__dl7xwwg834gi_large.png",
+      "sha256": "95455d08f49b3d320fb8b8da43b61ab3128c6dec42844bbad3bf0fa5db313c66",
+      "originalSha256": "95455d08f49b3d320fb8b8da43b61ab3128c6dec42844bbad3bf0fa5db313c66",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/call_context__bwokedkz7swi_large.jpg",
+      "exported": "awct-apple/public/sites/apple/call_context__bwokedkz7swi_large.jpg",
+      "sha256": "89f153c467307b0924e22f30c632cdb1ed4da0b8952c064e2fdd6a3e4ccb2c53",
+      "originalSha256": "89f153c467307b0924e22f30c632cdb1ed4da0b8952c064e2fdd6a3e4ccb2c53",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/call_context__bwokedkz7swi_small.jpg",
+      "exported": "awct-apple/public/sites/apple/call_context__bwokedkz7swi_small.jpg",
+      "sha256": "d2d6c4d9169f318957647f7bc82981c90db0382acf7c07c6297daf5265deb5b3",
+      "originalSha256": "d2d6c4d9169f318957647f7bc82981c90db0382acf7c07c6297daf5265deb5b3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/camera_control__f4t7iottmvyy_large.jpg",
+      "exported": "awct-apple/public/sites/apple/camera_control__f4t7iottmvyy_large.jpg",
+      "sha256": "ea5e79a5c4748f5f920d5d0f8a1f9c960f7ac2258e9caa12620260ed2eea781b",
+      "originalSha256": "ea5e79a5c4748f5f920d5d0f8a1f9c960f7ac2258e9caa12620260ed2eea781b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/camera_control__f4t7iottmvyy_small.jpg",
+      "exported": "awct-apple/public/sites/apple/camera_control__f4t7iottmvyy_small.jpg",
+      "sha256": "4a50ad42c8d3453b9077af798a987ada69be7ceeca91ede8316acbe7cb057ebd",
+      "originalSha256": "4a50ad42c8d3453b9077af798a987ada69be7ceeca91ede8316acbe7cb057ebd",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/camera_system_startframe__e0gisudnvv2a_large.jpg",
+      "exported": "awct-apple/public/sites/apple/camera_system_startframe__e0gisudnvv2a_large.jpg",
+      "sha256": "4f9661783243d66882a893f09844598ecb5c6d976b8877caeb69748839ea7485",
+      "originalSha256": "4f9661783243d66882a893f09844598ecb5c6d976b8877caeb69748839ea7485",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/camera_system_startframe__e0gisudnvv2a_small.jpg",
+      "exported": "awct-apple/public/sites/apple/camera_system_startframe__e0gisudnvv2a_small.jpg",
+      "sha256": "7aa9349bf89d6da7870c4cf5f3349cbe5d21808512e911fea8e93d194a31a859",
+      "originalSha256": "7aa9349bf89d6da7870c4cf5f3349cbe5d21808512e911fea8e93d194a31a859",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/carrier__esb83lh15tsi_large.jpg",
+      "exported": "awct-apple/public/sites/apple/carrier__esb83lh15tsi_large.jpg",
+      "sha256": "68450852492cb7794ce0f7d0a8bc581446aa88944e31d04bdcef872099140edb",
+      "originalSha256": "68450852492cb7794ce0f7d0a8bc581446aa88944e31d04bdcef872099140edb",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/carrier__esb83lh15tsi_small.jpg",
+      "exported": "awct-apple/public/sites/apple/carrier__esb83lh15tsi_small.jpg",
+      "sha256": "4575a63d859cbe3f82d64af52012da9c8cae9d775fb7217e2d060e5729ce64f0",
+      "originalSha256": "4575a63d859cbe3f82d64af52012da9c8cae9d775fb7217e2d060e5729ce64f0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/center_stage__ecf4wpldlkcy_large.jpg",
+      "exported": "awct-apple/public/sites/apple/center_stage__ecf4wpldlkcy_large.jpg",
+      "sha256": "eef3894306d3b3a8b97f8033a66af081105f86614fec3a020d2df8a4302c7aec",
+      "originalSha256": "eef3894306d3b3a8b97f8033a66af081105f86614fec3a020d2df8a4302c7aec",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/center_stage__ecf4wpldlkcy_large.png",
+      "exported": "awct-apple/public/sites/apple/center_stage__ecf4wpldlkcy_large.png",
+      "sha256": "629be178c8f2978d28141a62f6a8f0687777446b62b13cdfcdeb4d639418f3e3",
+      "originalSha256": "629be178c8f2978d28141a62f6a8f0687777446b62b13cdfcdeb4d639418f3e3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/center_stage__ecf4wpldlkcy_small.jpg",
+      "exported": "awct-apple/public/sites/apple/center_stage__ecf4wpldlkcy_small.jpg",
+      "sha256": "7e23728bb739901377066a103155790d35f7079f9d9d8e82170176cc29498cd7",
+      "originalSha256": "7e23728bb739901377066a103155790d35f7079f9d9d8e82170176cc29498cd7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/charge__eiv9d90t9zue_large.png",
+      "exported": "awct-apple/public/sites/apple/charge__eiv9d90t9zue_large.png",
+      "sha256": "e9fabee6bf5ebaea9e9b40f7468825350b4045e9bbd82129b7c53615378507f6",
+      "originalSha256": "e9fabee6bf5ebaea9e9b40f7468825350b4045e9bbd82129b7c53615378507f6",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/charge__eiv9d90t9zue_small.png",
+      "exported": "awct-apple/public/sites/apple/charge__eiv9d90t9zue_small.png",
+      "sha256": "e9774598dc830ed308e3942a614de567c5e63dac7723664451087f4d2fbafe81",
+      "originalSha256": "e9774598dc830ed308e3942a614de567c5e63dac7723664451087f4d2fbafe81",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/child_safety__ep2w0kpc93ee_large.jpg",
+      "exported": "awct-apple/public/sites/apple/child_safety__ep2w0kpc93ee_large.jpg",
+      "sha256": "a52faa03bc46e7e6427177827e361e155cfb17c9560f7978c4ce7ba14458dedc",
+      "originalSha256": "a52faa03bc46e7e6427177827e361e155cfb17c9560f7978c4ce7ba14458dedc",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/child_safety__ep2w0kpc93ee_small.jpg",
+      "exported": "awct-apple/public/sites/apple/child_safety__ep2w0kpc93ee_small.jpg",
+      "sha256": "10d895addd55ae4d4d6e745273084df813822740e808337a03984ce94c80999b",
+      "originalSha256": "10d895addd55ae4d4d6e745273084df813822740e808337a03984ce94c80999b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/chip_a20pro__eio38rrjn50m_large.png",
+      "exported": "awct-apple/public/sites/apple/chip_a20pro__eio38rrjn50m_large.png",
+      "sha256": "2857d8e058fda1a37f572f1cc57d3c3d07ec26007d4cdf994cc5a25b7a01138f",
+      "originalSha256": "2857d8e058fda1a37f572f1cc57d3c3d07ec26007d4cdf994cc5a25b7a01138f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/clean_up__c4nkcvxq91me_large.jpg",
+      "exported": "awct-apple/public/sites/apple/clean_up__c4nkcvxq91me_large.jpg",
+      "sha256": "3ed160c698f28720636aff707f3d628f28762f7383584c137bd3dc88647fec2d",
+      "originalSha256": "3ed160c698f28720636aff707f3d628f28762f7383584c137bd3dc88647fec2d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/clean_up__c4nkcvxq91me_small.jpg",
+      "exported": "awct-apple/public/sites/apple/clean_up__c4nkcvxq91me_small.jpg",
+      "sha256": "68a0b18f2fbdb082e41fa7f81ea77d0712723f8cd1dd434d3f0c0a236557a002",
+      "originalSha256": "68a0b18f2fbdb082e41fa7f81ea77d0712723f8cd1dd434d3f0c0a236557a002",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/color_black__dseo2tvypuc2_large.jpg",
+      "exported": "awct-apple/public/sites/apple/color_black__dseo2tvypuc2_large.jpg",
+      "sha256": "83595f9ff7530355575c62b12615d524ef792c4ab8ad177aabe90a15b3d2631a",
+      "originalSha256": "83595f9ff7530355575c62b12615d524ef792c4ab8ad177aabe90a15b3d2631a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/color_black__dseo2tvypuc2_small.jpg",
+      "exported": "awct-apple/public/sites/apple/color_black__dseo2tvypuc2_small.jpg",
+      "sha256": "16956a49a615b9f97341c417f3c498135a99d1e9e92568b99a47f643caf8ae74",
+      "originalSha256": "16956a49a615b9f97341c417f3c498135a99d1e9e92568b99a47f643caf8ae74",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/color_burgundy__f95it7a6dnyq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/color_burgundy__f95it7a6dnyq_large.jpg",
+      "sha256": "996a1babe19ebfba4e74e84893ddebd76001254537f89c7f94d16670adb48f46",
+      "originalSha256": "996a1babe19ebfba4e74e84893ddebd76001254537f89c7f94d16670adb48f46",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/color_burgundy__f95it7a6dnyq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/color_burgundy__f95it7a6dnyq_small.jpg",
+      "sha256": "70c02ffb4be8615ef1f4fa9e2e731358cdd004283ffbf52fe54624c994b5d62b",
+      "originalSha256": "70c02ffb4be8615ef1f4fa9e2e731358cdd004283ffbf52fe54624c994b5d62b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/color_glacier__fkxlpbz0ruy6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/color_glacier__fkxlpbz0ruy6_large.jpg",
+      "sha256": "7abf61f5d46d190f4983dbb5174d37b863af2a73f7b73660f940c0e543fe1392",
+      "originalSha256": "7abf61f5d46d190f4983dbb5174d37b863af2a73f7b73660f940c0e543fe1392",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/color_glacier__fkxlpbz0ruy6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/color_glacier__fkxlpbz0ruy6_small.jpg",
+      "sha256": "031dfcd9ca13435d59ea99eea70e762816df0c64ef1ce44d8eb37ff71756eab2",
+      "originalSha256": "031dfcd9ca13435d59ea99eea70e762816df0c64ef1ce44d8eb37ff71756eab2",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/color_silver__c0oudn0fzw4m_large.jpg",
+      "exported": "awct-apple/public/sites/apple/color_silver__c0oudn0fzw4m_large.jpg",
+      "sha256": "f44a140903b3da96784e49a34b6875c1eb4ab2c18e00564638be1d9203a645c9",
+      "originalSha256": "f44a140903b3da96784e49a34b6875c1eb4ab2c18e00564638be1d9203a645c9",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/color_silver__c0oudn0fzw4m_small.jpg",
+      "exported": "awct-apple/public/sites/apple/color_silver__c0oudn0fzw4m_small.jpg",
+      "sha256": "1d5fd821dcf4827ff9b1c5d21f5a16576799aad2a65a582f517bd3713467b1dd",
+      "originalSha256": "1d5fd821dcf4827ff9b1c5d21f5a16576799aad2a65a582f517bd3713467b1dd",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/colors_endframe__czfie0zmty4i_large.jpg",
+      "exported": "awct-apple/public/sites/apple/colors_endframe__czfie0zmty4i_large.jpg",
+      "sha256": "f737238677a697763b422880d2f1b8c3741cf78e97951cf9dfed8d6364ed527f",
+      "originalSha256": "f737238677a697763b422880d2f1b8c3741cf78e97951cf9dfed8d6364ed527f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/colors_endframe__czfie0zmty4i_small.jpg",
+      "exported": "awct-apple/public/sites/apple/colors_endframe__czfie0zmty4i_small.jpg",
+      "sha256": "1395c067ab863af7e811268e29c49b330943e0d5f18e719c1394e640aad74d82",
+      "originalSha256": "1395c067ab863af7e811268e29c49b330943e0d5f18e719c1394e640aad74d82",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/colors_startframe__dswlwmy4piuu_large.jpg",
+      "exported": "awct-apple/public/sites/apple/colors_startframe__dswlwmy4piuu_large.jpg",
+      "sha256": "9a5eb08369abde5bd9e14ac4fd3c1d33680ad0bfa31857f24c9d4cb3cb17c96f",
+      "originalSha256": "9a5eb08369abde5bd9e14ac4fd3c1d33680ad0bfa31857f24c9d4cb3cb17c96f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/colors_startframe__dswlwmy4piuu_small.jpg",
+      "exported": "awct-apple/public/sites/apple/colors_startframe__dswlwmy4piuu_small.jpg",
+      "sha256": "f8076e853374b55f580e420b91eb4f841c9f9bb66bd3e16069ea8a72581748d4",
+      "originalSha256": "f8076e853374b55f580e420b91eb4f841c9f9bb66bd3e16069ea8a72581748d4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/compare__clhjrq5m2ymq_large.png",
+      "exported": "awct-apple/public/sites/apple/compare__clhjrq5m2ymq_large.png",
+      "sha256": "c369f775d3211028129b5a6567f297c289a6780758e79bbc78b1a5918f61b72b",
+      "originalSha256": "c369f775d3211028129b5a6567f297c289a6780758e79bbc78b1a5918f61b72b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/crash_detection__c458d3ugtcom_large.jpg",
+      "exported": "awct-apple/public/sites/apple/crash_detection__c458d3ugtcom_large.jpg",
+      "sha256": "da4176246898fa9f65c600fc147603dfe94bbbe177f61bdb0c90c7cd82812f45",
+      "originalSha256": "da4176246898fa9f65c600fc147603dfe94bbbe177f61bdb0c90c7cd82812f45",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/crash_detection__c458d3ugtcom_small.jpg",
+      "exported": "awct-apple/public/sites/apple/crash_detection__c458d3ugtcom_small.jpg",
+      "sha256": "ed3d55ce7ebdfaad1a778e9ad14777f8c3fbc1e874b2265e48c4844cd30de8bb",
+      "originalSha256": "ed3d55ce7ebdfaad1a778e9ad14777f8c3fbc1e874b2265e48c4844cd30de8bb",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/creditcard__9lzp09qkxv6u_large.png",
+      "exported": "awct-apple/public/sites/apple/creditcard__9lzp09qkxv6u_large.png",
+      "sha256": "9019650fc85ce288d36de1014d6ae242a05861a2c8a8d64b47818d1f2b6cfb6c",
+      "originalSha256": "9019650fc85ce288d36de1014d6ae242a05861a2c8a8d64b47818d1f2b6cfb6c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/customize__flxdw7wl0byq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/customize__flxdw7wl0byq_large.jpg",
+      "sha256": "bf2379578124667870f8a7374077fc5e628a12694d4f297ae4c1f0f4013e1792",
+      "originalSha256": "bf2379578124667870f8a7374077fc5e628a12694d4f297ae4c1f0f4013e1792",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/customize__flxdw7wl0byq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/customize__flxdw7wl0byq_small.jpg",
+      "sha256": "ff31833498a3001c154b572357204af176e0684cc40b1ca9cb4ab1859caec9c0",
+      "originalSha256": "ff31833498a3001c154b572357204af176e0684cc40b1ca9cb4ab1859caec9c0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/deliver__dppu74mrffo2_large.jpg",
+      "exported": "awct-apple/public/sites/apple/deliver__dppu74mrffo2_large.jpg",
+      "sha256": "fd3fe23f4260c5a4a5953dec00349f5bfd1f02921ff95a006116482f2be919e3",
+      "originalSha256": "fd3fe23f4260c5a4a5953dec00349f5bfd1f02921ff95a006116482f2be919e3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/deliver__dppu74mrffo2_small.jpg",
+      "exported": "awct-apple/public/sites/apple/deliver__dppu74mrffo2_small.jpg",
+      "sha256": "b7ae09547b205ab790ad8fdd00559899e442dbca022a1c59ebe037276c47009e",
+      "originalSha256": "b7ae09547b205ab790ad8fdd00559899e442dbca022a1c59ebe037276c47009e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/depth__eqlqllrh0v8m_large.jpg",
+      "exported": "awct-apple/public/sites/apple/depth__eqlqllrh0v8m_large.jpg",
+      "sha256": "60c2f0300ca1a8be577e9802c4b7054f4cca4177658f668d2a81830039acaa3a",
+      "originalSha256": "60c2f0300ca1a8be577e9802c4b7054f4cca4177658f668d2a81830039acaa3a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/depth__eqlqllrh0v8m_small.jpg",
+      "exported": "awct-apple/public/sites/apple/depth__eqlqllrh0v8m_small.jpg",
+      "sha256": "36e7a541eb594674f79a451abdf23fd18c05cdfe3830e1ee54f2f15c3c0b7820",
+      "originalSha256": "36e7a541eb594674f79a451abdf23fd18c05cdfe3830e1ee54f2f15c3c0b7820",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/dual_capture__cwiaeus8h002_large.jpg",
+      "exported": "awct-apple/public/sites/apple/dual_capture__cwiaeus8h002_large.jpg",
+      "sha256": "d7cf3d45633a248b98d8329ee3f7464d7554ac5b5fa232d8f87e0a95f2108196",
+      "originalSha256": "d7cf3d45633a248b98d8329ee3f7464d7554ac5b5fa232d8f87e0a95f2108196",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/dual_capture__cwiaeus8h002_small.jpg",
+      "exported": "awct-apple/public/sites/apple/dual_capture__cwiaeus8h002_small.jpg",
+      "sha256": "9d1017441631ee6a948092ee462c15b226d5d2e0262bccd5728daa78c9b770b5",
+      "originalSha256": "9d1017441631ee6a948092ee462c15b226d5d2e0262bccd5728daa78c9b770b5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/durability__gluy1en01nqm_large.jpg",
+      "exported": "awct-apple/public/sites/apple/durability__gluy1en01nqm_large.jpg",
+      "sha256": "0fb235d504296bc2d4eaa6b338cb7f651a8bc1069f4b4bc0cee35fa06cb199bc",
+      "originalSha256": "0fb235d504296bc2d4eaa6b338cb7f651a8bc1069f4b4bc0cee35fa06cb199bc",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/durability__gluy1en01nqm_small.jpg",
+      "exported": "awct-apple/public/sites/apple/durability__gluy1en01nqm_small.jpg",
+      "sha256": "1221e0e99fdd27293e437960422c788e331c6ec151f29d54566aed1135478572",
+      "originalSha256": "1221e0e99fdd27293e437960422c788e331c6ec151f29d54566aed1135478572",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/dynamic_island_endframe__edszr68pgo66_large.jpg",
+      "exported": "awct-apple/public/sites/apple/dynamic_island_endframe__edszr68pgo66_large.jpg",
+      "sha256": "4ddddb19172bac32065a472ddae15e3dfc7e723a0ed18e770dc66a82ecccb757",
+      "originalSha256": "4ddddb19172bac32065a472ddae15e3dfc7e723a0ed18e770dc66a82ecccb757",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/dynamic_island_endframe__edszr68pgo66_small.jpg",
+      "exported": "awct-apple/public/sites/apple/dynamic_island_endframe__edszr68pgo66_small.jpg",
+      "sha256": "599cd2e64dc2a4fe8b1ffba698afaac1e34a28e292476330e5db5b0ff3a21d89",
+      "originalSha256": "599cd2e64dc2a4fe8b1ffba698afaac1e34a28e292476330e5db5b0ff3a21d89",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/dynamic_island_startframe__e29ujwo7xcwi_large.jpg",
+      "exported": "awct-apple/public/sites/apple/dynamic_island_startframe__e29ujwo7xcwi_large.jpg",
+      "sha256": "1f9166b48fa7481ab36999912cfca5d4da4fbcfac0413cd80a9d4eec2eab854d",
+      "originalSha256": "1f9166b48fa7481ab36999912cfca5d4da4fbcfac0413cd80a9d4eec2eab854d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/dynamic_island_startframe__e29ujwo7xcwi_small.jpg",
+      "exported": "awct-apple/public/sites/apple/dynamic_island_startframe__e29ujwo7xcwi_small.jpg",
+      "sha256": "5ad68d05f1e70ccdc3f9fc1450d0afa0968bdb72bfe7ba54a6ea4aa390e0538c",
+      "originalSha256": "5ad68d05f1e70ccdc3f9fc1450d0afa0968bdb72bfe7ba54a6ea4aa390e0538c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/esim__dybvr8oo5ro2_large.jpg",
+      "exported": "awct-apple/public/sites/apple/esim__dybvr8oo5ro2_large.jpg",
+      "sha256": "1325ac8044f4c1f905fc200ab35a637c18313b32eae356ba6449d2219543f157",
+      "originalSha256": "1325ac8044f4c1f905fc200ab35a637c18313b32eae356ba6449d2219543f157",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/esim__dybvr8oo5ro2_small.jpg",
+      "exported": "awct-apple/public/sites/apple/esim__dybvr8oo5ro2_small.jpg",
+      "sha256": "8a32c46dbdee4bbbf29ee5152ed777e1d68ed3098ba6c47db1662804ad7121ee",
+      "originalSha256": "8a32c46dbdee4bbbf29ee5152ed777e1d68ed3098ba6c47db1662804ad7121ee",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/esos__8m299y5obzmq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/esos__8m299y5obzmq_large.jpg",
+      "sha256": "214875d86bf3a73faa52134ad8064a8eee211298706d8ffbe8ed449f76741977",
+      "originalSha256": "214875d86bf3a73faa52134ad8064a8eee211298706d8ffbe8ed449f76741977",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/esos__8m299y5obzmq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/esos__8m299y5obzmq_small.jpg",
+      "sha256": "a0bcaa5e465f816ccd08f6b3db14865d3d4687c0195f23afa02acdffc1a4aaa7",
+      "originalSha256": "a0bcaa5e465f816ccd08f6b3db14865d3d4687c0195f23afa02acdffc1a4aaa7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/features__16r2b47nrpe2_large.jpg",
+      "exported": "awct-apple/public/sites/apple/features__16r2b47nrpe2_large.jpg",
+      "sha256": "8941f79e3b730719c0ad2f00f54f7746f36e612d6b3634d0ae9eb68e9070d582",
+      "originalSha256": "8941f79e3b730719c0ad2f00f54f7746f36e612d6b3634d0ae9eb68e9070d582",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/features__16r2b47nrpe2_small.jpg",
+      "exported": "awct-apple/public/sites/apple/features__16r2b47nrpe2_small.jpg",
+      "sha256": "63c054a576dd6af3f1d44826cee4e9becddb6f92eddfd9632bd3a2e2c3cdf6c7",
+      "originalSha256": "63c054a576dd6af3f1d44826cee4e9becddb6f92eddfd9632bd3a2e2c3cdf6c7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/find_my__epk4pm9szhci_large.jpg",
+      "exported": "awct-apple/public/sites/apple/find_my__epk4pm9szhci_large.jpg",
+      "sha256": "180677b6a735a175d4c8bb6ca7d74d02d2c0aeac778770b232de281db7dd5a75",
+      "originalSha256": "180677b6a735a175d4c8bb6ca7d74d02d2c0aeac778770b232de281db7dd5a75",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/find_my__epk4pm9szhci_small.jpg",
+      "exported": "awct-apple/public/sites/apple/find_my__epk4pm9szhci_small.jpg",
+      "sha256": "7e3060bbf862eef96971229cb579c85a68413b9c6e3e8664b6578e822f330a21",
+      "originalSha256": "7e3060bbf862eef96971229cb579c85a68413b9c6e3e8664b6578e822f330a21",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/front_camera__c533i0c3mh4y_large.jpg",
+      "exported": "awct-apple/public/sites/apple/front_camera__c533i0c3mh4y_large.jpg",
+      "sha256": "e8b74f3e907b7c9cabbc8e7001eaf16913a8d924b6128d5e42fd63429c553737",
+      "originalSha256": "e8b74f3e907b7c9cabbc8e7001eaf16913a8d924b6128d5e42fd63429c553737",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/front_camera__c533i0c3mh4y_small.jpg",
+      "exported": "awct-apple/public/sites/apple/front_camera__c533i0c3mh4y_small.jpg",
+      "sha256": "276d9c256e3316c72afb40d215da57a0f64d9dd850cbbcf36f8b69884e6a6116",
+      "originalSha256": "276d9c256e3316c72afb40d215da57a0f64d9dd850cbbcf36f8b69884e6a6116",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/guided_video_shopping__fpotxkh25ymq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/guided_video_shopping__fpotxkh25ymq_large.jpg",
+      "sha256": "9185f0321f3d60c5c51bb928829ce12120fdd1c7cafdc114d9fb6cde8993c691",
+      "originalSha256": "9185f0321f3d60c5c51bb928829ce12120fdd1c7cafdc114d9fb6cde8993c691",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/guided_video_shopping__fpotxkh25ymq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/guided_video_shopping__fpotxkh25ymq_small.jpg",
+      "sha256": "30a140de6fd157e73d4aa613bd0e51d5f3b90b361d822fe2d39ca3dd74305952",
+      "originalSha256": "30a140de6fd157e73d4aa613bd0e51d5f3b90b361d822fe2d39ca3dd74305952",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/hero_endframe__fbxsnz8txcia_large.jpg",
+      "exported": "awct-apple/public/sites/apple/hero_endframe__fbxsnz8txcia_large.jpg",
+      "sha256": "23c0cf72a8ec2bc233ee20655b958cb54a2d170e1a3fde0a3d0f67cbd3ebb8af",
+      "originalSha256": "23c0cf72a8ec2bc233ee20655b958cb54a2d170e1a3fde0a3d0f67cbd3ebb8af",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/hero_endframe__fbxsnz8txcia_small.jpg",
+      "exported": "awct-apple/public/sites/apple/hero_endframe__fbxsnz8txcia_small.jpg",
+      "sha256": "300973f2af11747b81fdf8dc00f6e931818639fc6a89c08b4723dd7556871445",
+      "originalSha256": "300973f2af11747b81fdf8dc00f6e931818639fc6a89c08b4723dd7556871445",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/hero_startframe__ck15fj8f67hy_large.jpg",
+      "exported": "awct-apple/public/sites/apple/hero_startframe__ck15fj8f67hy_large.jpg",
+      "sha256": "95c3df62556dfae67ce156a1dce42b1a5f55ec743e5c13d9aaa78b9022de665e",
+      "originalSha256": "95c3df62556dfae67ce156a1dce42b1a5f55ec743e5c13d9aaa78b9022de665e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/hero_startframe__ck15fj8f67hy_small.jpg",
+      "exported": "awct-apple/public/sites/apple/hero_startframe__ck15fj8f67hy_small.jpg",
+      "sha256": "f5d4d88551adb384bd2251e389f9a2f7313b425a8c82335d1193f953333e419a",
+      "originalSha256": "f5d4d88551adb384bd2251e389f9a2f7313b425a8c82335d1193f953333e419a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/icon_a20__dhsqkelmytg2_large.png",
+      "exported": "awct-apple/public/sites/apple/icon_a20__dhsqkelmytg2_large.png",
+      "sha256": "2d5514360d6687c6d7da8f3afa13728f76726d93868e0233e7452a349af03234",
+      "originalSha256": "2d5514360d6687c6d7da8f3afa13728f76726d93868e0233e7452a349af03234",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/icon_accessibility__ciyyk203pxsi_large.png",
+      "exported": "awct-apple/public/sites/apple/icon_accessibility__ciyyk203pxsi_large.png",
+      "sha256": "d566ab56b0d4a107ecd88843429b519c4addc46f17d3f6dcd9384a0477f64542",
+      "originalSha256": "d566ab56b0d4a107ecd88843429b519c4addc46f17d3f6dcd9384a0477f64542",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/icon_ai__cdtqv8s8tm82_large.png",
+      "exported": "awct-apple/public/sites/apple/icon_ai__cdtqv8s8tm82_large.png",
+      "sha256": "e95083ecb4614234b6da333401f740d85e18446a86c3f5b597a70430500ce6f9",
+      "originalSha256": "e95083ecb4614234b6da333401f740d85e18446a86c3f5b597a70430500ce6f9",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/icon_electricity__fmrz4117o7ee_large.png",
+      "exported": "awct-apple/public/sites/apple/icon_electricity__fmrz4117o7ee_large.png",
+      "sha256": "cf44acacad8e171c95c5a1e2403992805c37744455d56bb77dda535b4d564325",
+      "originalSha256": "cf44acacad8e171c95c5a1e2403992805c37744455d56bb77dda535b4d564325",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/icon_environment__bweedxdciqpe_large.png",
+      "exported": "awct-apple/public/sites/apple/icon_environment__bweedxdciqpe_large.png",
+      "sha256": "52ebf56336ded362636d8d5d18f57b577c11b315c9b88dc6490cdea3da93df7b",
+      "originalSha256": "52ebf56336ded362636d8d5d18f57b577c11b315c9b88dc6490cdea3da93df7b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/icon_package__btqe87dkmr5y_large.png",
+      "exported": "awct-apple/public/sites/apple/icon_package__btqe87dkmr5y_large.png",
+      "sha256": "a754581b6d9ae11bde2ecde7529c3ee157f24a95711fad4b215f465db3ab14b5",
+      "originalSha256": "a754581b6d9ae11bde2ecde7529c3ee157f24a95711fad4b215f465db3ab14b5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/icon_privacy__eej8prd13126_large.png",
+      "exported": "awct-apple/public/sites/apple/icon_privacy__eej8prd13126_large.png",
+      "sha256": "0a9a9e597ccc8e20e8911c8b88c3ea69b28b726cab31cfdcffc1ff388c98f21c",
+      "originalSha256": "0a9a9e597ccc8e20e8911c8b88c3ea69b28b726cab31cfdcffc1ff388c98f21c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/icon_recycling__cbg6enserceu_large.png",
+      "exported": "awct-apple/public/sites/apple/icon_recycling__cbg6enserceu_large.png",
+      "sha256": "25c6ec18dca7b4d8bc99aa9443c95f23bfc5bc423c9b57fa73d8510b2e0334be",
+      "originalSha256": "25c6ec18dca7b4d8bc99aa9443c95f23bfc5bc423c9b57fa73d8510b2e0334be",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/image_playground__do3eby1zbe82_large.jpg",
+      "exported": "awct-apple/public/sites/apple/image_playground__do3eby1zbe82_large.jpg",
+      "sha256": "49e42958a743b007986099fe1d76f4f9e5e1cdcd287a12ad413d98ff5e4dbb9e",
+      "originalSha256": "49e42958a743b007986099fe1d76f4f9e5e1cdcd287a12ad413d98ff5e4dbb9e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/image_playground__do3eby1zbe82_small.jpg",
+      "exported": "awct-apple/public/sites/apple/image_playground__do3eby1zbe82_small.jpg",
+      "sha256": "f6fecda9109ad47583698fa2c946a89d82bf62dfd05000c62ce028ab7b710f68",
+      "originalSha256": "f6fecda9109ad47583698fa2c946a89d82bf62dfd05000c62ce028ab7b710f68",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/intelligent__fud8ul5o3emy_large.jpg",
+      "exported": "awct-apple/public/sites/apple/intelligent__fud8ul5o3emy_large.jpg",
+      "sha256": "e8f7b09b17854f3df12899df584f3e96fd1d5e8b41232eaca906f8f94e66cf24",
+      "originalSha256": "e8f7b09b17854f3df12899df584f3e96fd1d5e8b41232eaca906f8f94e66cf24",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/intelligent__fud8ul5o3emy_small.jpg",
+      "exported": "awct-apple/public/sites/apple/intelligent__fud8ul5o3emy_small.jpg",
+      "sha256": "94508ca031e9c8bbae45a13319e3182b944b0d8aa443d71c02f5afdc7368e961",
+      "originalSha256": "94508ca031e9c8bbae45a13319e3182b944b0d8aa443d71c02f5afdc7368e961",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/ios__drrubh21s9yu_large.png",
+      "exported": "awct-apple/public/sites/apple/ios__drrubh21s9yu_large.png",
+      "sha256": "96ea256aa67e3945199b5d5835ae600d6063e420679f58945cf84a6c341cb4d4",
+      "originalSha256": "96ea256aa67e3945199b5d5835ae600d6063e420679f58945cf84a6c341cb4d4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_16__dwi4y3l3amgm_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone_16__dwi4y3l3amgm_large.png",
+      "sha256": "bf6ed51b5f4c99a52d73aa83b662f0ccb7708b70165d2cb7f0ec62dcd6e7af20",
+      "originalSha256": "bf6ed51b5f4c99a52d73aa83b662f0ccb7708b70165d2cb7f0ec62dcd6e7af20",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_17__d1k2ss9gvkya_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone_17__d1k2ss9gvkya_large.png",
+      "sha256": "fecd7c3aea7f3fc970c3240e50881f45bd1d661825b9a654bf518b6195c29d59",
+      "originalSha256": "fecd7c3aea7f3fc970c3240e50881f45bd1d661825b9a654bf518b6195c29d59",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_17e__gd8egsmdhgey_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone_17e__gd8egsmdhgey_large.png",
+      "sha256": "2183f330ecb9acf7c4f2ea7a4186a3b63ce79aff8534719cbe62fde878a5c3cd",
+      "originalSha256": "2183f330ecb9acf7c4f2ea7a4186a3b63ce79aff8534719cbe62fde878a5c3cd",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_18_pro__ezuydx8yjcia_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone_18_pro__ezuydx8yjcia_large.png",
+      "sha256": "fd93da771487e78f40b9e7a4eb100e099c9e51b787e61c1d71cff8fff6dd051a",
+      "originalSha256": "fd93da771487e78f40b9e7a4eb100e099c9e51b787e61c1d71cff8fff6dd051a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_18_pro_alt__gcw09g1aoqie_large.jpg",
+      "exported": "awct-apple/public/sites/apple/iphone_18_pro_alt__gcw09g1aoqie_large.jpg",
+      "sha256": "2a32f06e8021a558d4247599ca52f8e9771146d9239fa92d0cf64b5555824339",
+      "originalSha256": "2a32f06e8021a558d4247599ca52f8e9771146d9239fa92d0cf64b5555824339",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_18_pro_alt__gcw09g1aoqie_small.jpg",
+      "exported": "awct-apple/public/sites/apple/iphone_18_pro_alt__gcw09g1aoqie_small.jpg",
+      "sha256": "d1002772cdf0fbc842733d54cc2cb2d5bcf5f4f84b99ff1a5702f6471bdbc447",
+      "originalSha256": "d1002772cdf0fbc842733d54cc2cb2d5bcf5f4f84b99ff1a5702f6471bdbc447",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_18_pro_camera__cr03lr3qm8cy_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone_18_pro_camera__cr03lr3qm8cy_large.png",
+      "sha256": "95a4c0e50ccd61d6be7417b4f5c05c1d8891af02523f644ba8a48360ed619b4d",
+      "originalSha256": "95a4c0e50ccd61d6be7417b4f5c05c1d8891af02523f644ba8a48360ed619b4d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone__cm8c5664gln6_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone__cm8c5664gln6_large.png",
+      "sha256": "6e61705eca831ce3e2e082f96987d3d525df97513e58ea103fca6b91e2ad3ce0",
+      "originalSha256": "6e61705eca831ce3e2e082f96987d3d525df97513e58ea103fca6b91e2ad3ce0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_air__c7j8qnq4ftci_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone_air__c7j8qnq4ftci_large.png",
+      "sha256": "8ae54e63977a3295074de6e0b0238f6e70ccbeea4424ed7423579f6cdd9ec2cf",
+      "originalSha256": "8ae54e63977a3295074de6e0b0238f6e70ccbeea4424ed7423579f6cdd9ec2cf",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_duo__es1je56gg18i_large.jpg",
+      "exported": "awct-apple/public/sites/apple/iphone_duo__es1je56gg18i_large.jpg",
+      "sha256": "1864fb1d0ecb4a0ac2c1a1cfa2ad1ee12c54c82c230b64ab24ec8936fdbca3b6",
+      "originalSha256": "1864fb1d0ecb4a0ac2c1a1cfa2ad1ee12c54c82c230b64ab24ec8936fdbca3b6",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_duo__es1je56gg18i_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone_duo__es1je56gg18i_large.png",
+      "sha256": "3a0be05f30d3707b0f427a8e9337aa48a57016bf2894cd0361d3f796be3d5509",
+      "originalSha256": "3a0be05f30d3707b0f427a8e9337aa48a57016bf2894cd0361d3f796be3d5509",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_duo__es1je56gg18i_small.jpg",
+      "exported": "awct-apple/public/sites/apple/iphone_duo__es1je56gg18i_small.jpg",
+      "sha256": "125fe7fd63e2a04638913e6477d6b7239af537796f1c7ba751427a7d31a39ac7",
+      "originalSha256": "125fe7fd63e2a04638913e6477d6b7239af537796f1c7ba751427a7d31a39ac7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/iphone_duo_camera__e3kr0qjnx3o2_large.png",
+      "exported": "awct-apple/public/sites/apple/iphone_duo_camera__e3kr0qjnx3o2_large.png",
+      "sha256": "54d7460dd6f6ff4f01007d4a022aa3f131b5e1dc35ccb246cf204b555fe52d41",
+      "originalSha256": "54d7460dd6f6ff4f01007d4a022aa3f131b5e1dc35ccb246cf204b555fe52d41",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/loader__bjo96i52l46a_large.jpg",
+      "exported": "awct-apple/public/sites/apple/loader__bjo96i52l46a_large.jpg",
+      "sha256": "1c5b23e27ca90c6f965b3f45f6ec28e33186f1512755a32f7bbe48296f2429c5",
+      "originalSha256": "1c5b23e27ca90c6f965b3f45f6ec28e33186f1512755a32f7bbe48296f2429c5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/loader__bjo96i52l46a_small.jpg",
+      "exported": "awct-apple/public/sites/apple/loader__bjo96i52l46a_small.jpg",
+      "sha256": "a5f92b382f3301801be74c64fe36d9f0dc0ccd7af650534a60b69f9aa771cd66",
+      "originalSha256": "a5f92b382f3301801be74c64fe36d9f0dc0ccd7af650534a60b69f9aa771cd66",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/low_light__b51d1dpc3xde_large.jpg",
+      "exported": "awct-apple/public/sites/apple/low_light__b51d1dpc3xde_large.jpg",
+      "sha256": "91b9d43fe6d50c2683888ab939b3d96460a2a932669f7586aeafd49361b97b47",
+      "originalSha256": "91b9d43fe6d50c2683888ab939b3d96460a2a932669f7586aeafd49361b97b47",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/low_light__b51d1dpc3xde_small.jpg",
+      "exported": "awct-apple/public/sites/apple/low_light__b51d1dpc3xde_small.jpg",
+      "sha256": "13f650f8b1fb0109ba9f36a3ac8d1478ac8f5a0583672a84182b4109129b870e",
+      "originalSha256": "13f650f8b1fb0109ba9f36a3ac8d1478ac8f5a0583672a84182b4109129b870e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/main_camera__dcm72wfqflm6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/main_camera__dcm72wfqflm6_large.jpg",
+      "sha256": "94d59aa1dcdfda369c3583dbfa505d452500f59a5b3c52340eca20613b524ef1",
+      "originalSha256": "94d59aa1dcdfda369c3583dbfa505d452500f59a5b3c52340eca20613b524ef1",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/main_camera__dcm72wfqflm6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/main_camera__dcm72wfqflm6_small.jpg",
+      "sha256": "c65d26db890763e046a0d176a502bf658201c43136b0a2d41b0b559480d33aef",
+      "originalSha256": "c65d26db890763e046a0d176a502bf658201c43136b0a2d41b0b559480d33aef",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/main_camera_endframe__fcjfhs06rdme_large.jpg",
+      "exported": "awct-apple/public/sites/apple/main_camera_endframe__fcjfhs06rdme_large.jpg",
+      "sha256": "7599972216ce043c2747ed5823b6cede0af12af9d4eaa2a0a379f5d439ad56a2",
+      "originalSha256": "7599972216ce043c2747ed5823b6cede0af12af9d4eaa2a0a379f5d439ad56a2",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/main_camera_endframe__fcjfhs06rdme_small.jpg",
+      "exported": "awct-apple/public/sites/apple/main_camera_endframe__fcjfhs06rdme_small.jpg",
+      "sha256": "9b3e075900cc157fceaec9d072be24b14e25ed514bcba320601b3dcea12e7a7a",
+      "originalSha256": "9b3e075900cc157fceaec9d072be24b14e25ed514bcba320601b3dcea12e7a7a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/main_camera_startframe__dbtqkrydkxua_large.jpg",
+      "exported": "awct-apple/public/sites/apple/main_camera_startframe__dbtqkrydkxua_large.jpg",
+      "sha256": "ce5e7292b5f97cc93ed755d1542ae6de99048706fd30097062f45ab21b9dccc7",
+      "originalSha256": "ce5e7292b5f97cc93ed755d1542ae6de99048706fd30097062f45ab21b9dccc7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/main_camera_startframe__dbtqkrydkxua_small.jpg",
+      "exported": "awct-apple/public/sites/apple/main_camera_startframe__dbtqkrydkxua_small.jpg",
+      "sha256": "6073f410cf1d89df96e84cac9106d8c5c49a58d4edb6925c6cd92a2d4c486b85",
+      "originalSha256": "6073f410cf1d89df96e84cac9106d8c5c49a58d4edb6925c6cd92a2d4c486b85",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/max_depth__chz65982bi4i_large.jpg",
+      "exported": "awct-apple/public/sites/apple/max_depth__chz65982bi4i_large.jpg",
+      "sha256": "53109b920e3f1a7df32b95441561c8d245342938a9402fae39971a22ee965ede",
+      "originalSha256": "53109b920e3f1a7df32b95441561c8d245342938a9402fae39971a22ee965ede",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/max_depth__chz65982bi4i_small.jpg",
+      "exported": "awct-apple/public/sites/apple/max_depth__chz65982bi4i_small.jpg",
+      "sha256": "3b4ee0f55288ac5a15c0d92d75aef10531cada9e82929a813eb3aa62cad31f41",
+      "originalSha256": "3b4ee0f55288ac5a15c0d92d75aef10531cada9e82929a813eb3aa62cad31f41",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/max_light__dlmrw5m29ssy_large.jpg",
+      "exported": "awct-apple/public/sites/apple/max_light__dlmrw5m29ssy_large.jpg",
+      "sha256": "29fd3e8ff8ab08aa6d6e759b15563eaa98c84d2ae2838e559a047d4be497e744",
+      "originalSha256": "29fd3e8ff8ab08aa6d6e759b15563eaa98c84d2ae2838e559a047d4be497e744",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/max_light__dlmrw5m29ssy_small.jpg",
+      "exported": "awct-apple/public/sites/apple/max_light__dlmrw5m29ssy_small.jpg",
+      "sha256": "accfef76197e75ac5ce6e479dd774467fa61e1f5e5c65ee475a06a0e7142638d",
+      "originalSha256": "accfef76197e75ac5ce6e479dd774467fa61e1f5e5c65ee475a06a0e7142638d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/messages__e05v4dplbdea_large.jpg",
+      "exported": "awct-apple/public/sites/apple/messages__e05v4dplbdea_large.jpg",
+      "sha256": "1e55948ed2d29cd561f4e5f8133f5d784d4161f63ec6375c38c24c8a9c9ba041",
+      "originalSha256": "1e55948ed2d29cd561f4e5f8133f5d784d4161f63ec6375c38c24c8a9c9ba041",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/messages__e05v4dplbdea_small.jpg",
+      "exported": "awct-apple/public/sites/apple/messages__e05v4dplbdea_small.jpg",
+      "sha256": "9df81a024f97b12d24e00cda706ab7c102b14305b27a2117d2ee63b1bf693cff",
+      "originalSha256": "9df81a024f97b12d24e00cda706ab7c102b14305b27a2117d2ee63b1bf693cff",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/move_to_ios__czimkpt2niy6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/move_to_ios__czimkpt2niy6_large.jpg",
+      "sha256": "69641e61886ffae0f8042ad8f7ca28e646db7ac78b99a4342e55d348fecdab70",
+      "originalSha256": "69641e61886ffae0f8042ad8f7ca28e646db7ac78b99a4342e55d348fecdab70",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/move_to_ios__czimkpt2niy6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/move_to_ios__czimkpt2niy6_small.jpg",
+      "sha256": "d76801750d9bf914b6d97daa775a61504372554e4de7db8d474af38ec7a60bba",
+      "originalSha256": "d76801750d9bf914b6d97daa775a61504372554e4de7db8d474af38ec7a60bba",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--aio--hero__elo7tt0mnqy6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--aio--hero__elo7tt0mnqy6_large.jpg",
+      "sha256": "fc51aa7a1929a2454cc7bf2db785ac5c62f057d6f2611c1904bae61feae93126",
+      "originalSha256": "fc51aa7a1929a2454cc7bf2db785ac5c62f057d6f2611c1904bae61feae93126",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--aio--hero__elo7tt0mnqy6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--aio--hero__elo7tt0mnqy6_small.jpg",
+      "sha256": "9f91f9a840bb5fb398a9a4303cdb13907172aa711337518653860a8fa4662c98",
+      "originalSha256": "9f91f9a840bb5fb398a9a4303cdb13907172aa711337518653860a8fa4662c98",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--battery--battery_startframe__dc61ck806uy6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--battery--battery_startframe__dc61ck806uy6_large.jpg",
+      "sha256": "69d412065f8c50abc34b7067da89d9591168c86187c45a4a4d9b9c235e85c362",
+      "originalSha256": "69d412065f8c50abc34b7067da89d9591168c86187c45a4a4d9b9c235e85c362",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--battery--battery_startframe__dc61ck806uy6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--battery--battery_startframe__dc61ck806uy6_small.jpg",
+      "sha256": "dfd8dfa5cf551b532f10a612a2fd30dcc3633ffe3e8ab02b35da34e97614eb3b",
+      "originalSha256": "dfd8dfa5cf551b532f10a612a2fd30dcc3633ffe3e8ab02b35da34e97614eb3b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--battery--hero__elo7tt0mnqy6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--battery--hero__elo7tt0mnqy6_large.jpg",
+      "sha256": "88af1f1b9ac2e863725539c8d2de9b97150d7080a1cec4204648898c770ca8ae",
+      "originalSha256": "88af1f1b9ac2e863725539c8d2de9b97150d7080a1cec4204648898c770ca8ae",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--battery--hero__elo7tt0mnqy6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--battery--hero__elo7tt0mnqy6_small.jpg",
+      "sha256": "0f439709b2f03f1019012b30d5c433dba581e467215f97a369b81be318724dcf",
+      "originalSha256": "0f439709b2f03f1019012b30d5c433dba581e467215f97a369b81be318724dcf",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--highlights--battery_startframe__dc61ck806uy6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--highlights--battery_startframe__dc61ck806uy6_large.jpg",
+      "sha256": "d1a86bfc3cfc6935e5a1f27b0c1791feb184c27d4cf059e316225b7d766548da",
+      "originalSha256": "d1a86bfc3cfc6935e5a1f27b0c1791feb184c27d4cf059e316225b7d766548da",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--highlights--battery_startframe__dc61ck806uy6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--highlights--battery_startframe__dc61ck806uy6_small.jpg",
+      "sha256": "00a55175a8811ddec40b779828fb8065a1e6b410c07b5ed1307f066ebd1eb229",
+      "originalSha256": "00a55175a8811ddec40b779828fb8065a1e6b410c07b5ed1307f066ebd1eb229",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--highlights--chip_endframe__lhkymtfv1uie_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--highlights--chip_endframe__lhkymtfv1uie_large.jpg",
+      "sha256": "861b43ff815f88d5a48cb5353b03942f5de0ad3f6e41c474dd15b5267b975b67",
+      "originalSha256": "861b43ff815f88d5a48cb5353b03942f5de0ad3f6e41c474dd15b5267b975b67",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--highlights--chip_endframe__lhkymtfv1uie_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--highlights--chip_endframe__lhkymtfv1uie_small.jpg",
+      "sha256": "9f250a96d1dcdcf51867ff51ef25e67a08c5da05f44e835f5862dc08050c5f56",
+      "originalSha256": "9f250a96d1dcdcf51867ff51ef25e67a08c5da05f44e835f5862dc08050c5f56",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--highlights--chip_startframe__cbo2noldjewi_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--highlights--chip_startframe__cbo2noldjewi_large.jpg",
+      "sha256": "1834be9e9cc9d07bc1fa34ca58d65d61598fbc62a0ce2e004a9991ae49f833eb",
+      "originalSha256": "1834be9e9cc9d07bc1fa34ca58d65d61598fbc62a0ce2e004a9991ae49f833eb",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--highlights--chip_startframe__cbo2noldjewi_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--highlights--chip_startframe__cbo2noldjewi_small.jpg",
+      "sha256": "77034e45573924da70ae972a2097f6a4e8bf7eaa7beffa91ff34236fa97f2e0a",
+      "originalSha256": "77034e45573924da70ae972a2097f6a4e8bf7eaa7beffa91ff34236fa97f2e0a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--performance--chip_endframe__lhkymtfv1uie_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--performance--chip_endframe__lhkymtfv1uie_large.jpg",
+      "sha256": "77ef73db5e4fd06131da0a74560d7945a1266e4b95629117f02abaa4644b6142",
+      "originalSha256": "77ef73db5e4fd06131da0a74560d7945a1266e4b95629117f02abaa4644b6142",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--performance--chip_endframe__lhkymtfv1uie_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--performance--chip_endframe__lhkymtfv1uie_small.jpg",
+      "sha256": "4aa8a155dce25c398f31fc515d0d83625e30b8239ced737c5938cb5d6cd50ea9",
+      "originalSha256": "4aa8a155dce25c398f31fc515d0d83625e30b8239ced737c5938cb5d6cd50ea9",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--performance--chip_startframe__cbo2noldjewi_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--performance--chip_startframe__cbo2noldjewi_large.jpg",
+      "sha256": "85e26f8bff76e4a7ef7f8c4ce1e89fcc1333af4ea2129e997bfd02068dc2c32b",
+      "originalSha256": "85e26f8bff76e4a7ef7f8c4ce1e89fcc1333af4ea2129e997bfd02068dc2c32b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--performance--chip_startframe__cbo2noldjewi_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--performance--chip_startframe__cbo2noldjewi_small.jpg",
+      "sha256": "177bf5cc8a6df6793e3273012c18ab01c814668bae0321d141fa81e31951d165",
+      "originalSha256": "177bf5cc8a6df6793e3273012c18ab01c814668bae0321d141fa81e31951d165",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--pro-camera--system--hero__elo7tt0mnqy6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--pro-camera--system--hero__elo7tt0mnqy6_large.jpg",
+      "sha256": "890f2b6bab61fc27df7e46ed6f914402e79cdadee9aa894c61a4aa4f719115f8",
+      "originalSha256": "890f2b6bab61fc27df7e46ed6f914402e79cdadee9aa894c61a4aa4f719115f8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--pro-camera--system--hero__elo7tt0mnqy6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--pro-camera--system--hero__elo7tt0mnqy6_small.jpg",
+      "sha256": "fd712741eb97a35f9bb0f8c0ee8729ac6c07507a7dbbd049cac6a378573ba032",
+      "originalSha256": "fd712741eb97a35f9bb0f8c0ee8729ac6c07507a7dbbd049cac6a378573ba032",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--pro-video--hero__elo7tt0mnqy6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--pro-video--hero__elo7tt0mnqy6_large.jpg",
+      "sha256": "169df4c0f9adfb0129aaebfc9137726aae11c769323bea5160242c1cc9759e32",
+      "originalSha256": "169df4c0f9adfb0129aaebfc9137726aae11c769323bea5160242c1cc9759e32",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/overview--pro-video--hero__elo7tt0mnqy6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/overview--pro-video--hero__elo7tt0mnqy6_small.jpg",
+      "sha256": "921cbb1cc49dddb093098717514a259e486ac2056b6e89bddff8aaedd2313a93",
+      "originalSha256": "921cbb1cc49dddb093098717514a259e486ac2056b6e89bddff8aaedd2313a93",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/person__cf417z3i1pg2_large.png",
+      "exported": "awct-apple/public/sites/apple/person__cf417z3i1pg2_large.png",
+      "sha256": "a114df19a0d80f1fd67af8689d6ec59a7e26640f5d85e0ace2e69d9a23a9dccb",
+      "originalSha256": "a114df19a0d80f1fd67af8689d6ec59a7e26640f5d85e0ace2e69d9a23a9dccb",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/personal_context__fu25x2c16ymy_large.jpg",
+      "exported": "awct-apple/public/sites/apple/personal_context__fu25x2c16ymy_large.jpg",
+      "sha256": "d8469684ccf7720c7d60479498c24abcf3eba7677285d0cf08904048d9759b1f",
+      "originalSha256": "d8469684ccf7720c7d60479498c24abcf3eba7677285d0cf08904048d9759b1f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/personal_context__fu25x2c16ymy_small.jpg",
+      "exported": "awct-apple/public/sites/apple/personal_context__fu25x2c16ymy_small.jpg",
+      "sha256": "858de7a1aa0dce0fb7700818d0d2439c601ef690b7466d893354c252ad96f521",
+      "originalSha256": "858de7a1aa0dce0fb7700818d0d2439c601ef690b7466d893354c252ad96f521",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/personal_setup__dq9kk8pi0ga6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/personal_setup__dq9kk8pi0ga6_large.jpg",
+      "sha256": "814b91f32fba4efae747d298d1ab34e7a73e762bcadba735c417c490cbb0b68a",
+      "originalSha256": "814b91f32fba4efae747d298d1ab34e7a73e762bcadba735c417c490cbb0b68a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/personal_setup__dq9kk8pi0ga6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/personal_setup__dq9kk8pi0ga6_small.jpg",
+      "sha256": "69f94bfef309921b58e9d1a334c1612dfd93364457b57ce624230f120b569eb1",
+      "originalSha256": "69f94bfef309921b58e9d1a334c1612dfd93364457b57ce624230f120b569eb1",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/photographic_styles__ef8cg39z0q2q_large.jpg",
+      "exported": "awct-apple/public/sites/apple/photographic_styles__ef8cg39z0q2q_large.jpg",
+      "sha256": "0eff6ccf9aa79d50ce3d58dbe82d143ea2268904d9ca853bd1e87416527a8419",
+      "originalSha256": "0eff6ccf9aa79d50ce3d58dbe82d143ea2268904d9ca853bd1e87416527a8419",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/photographic_styles__ef8cg39z0q2q_small.jpg",
+      "exported": "awct-apple/public/sites/apple/photographic_styles__ef8cg39z0q2q_small.jpg",
+      "sha256": "47264eaf52ec928f353dd7b8f408c1e4ae825453f853d15b63d26082b3c4c60d",
+      "originalSha256": "47264eaf52ec928f353dd7b8f408c1e4ae825453f853d15b63d26082b3c4c60d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/pro_controls__esrtcpjxy3qu_large.jpg",
+      "exported": "awct-apple/public/sites/apple/pro_controls__esrtcpjxy3qu_large.jpg",
+      "sha256": "62a2cda6fe568e8c1990730c6cc3fcfce48ff339a39ae60f250856454a43ccdd",
+      "originalSha256": "62a2cda6fe568e8c1990730c6cc3fcfce48ff339a39ae60f250856454a43ccdd",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/pro_controls__esrtcpjxy3qu_small.jpg",
+      "exported": "awct-apple/public/sites/apple/pro_controls__esrtcpjxy3qu_small.jpg",
+      "sha256": "12d8205a3410b71a61ec7cc02579121211b5eea0054c254c9c68c7aeb6478b1e",
+      "originalSha256": "12d8205a3410b71a61ec7cc02579121211b5eea0054c254c9c68c7aeb6478b1e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/pro_video_endframe__jo1bq7ocrka6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/pro_video_endframe__jo1bq7ocrka6_large.jpg",
+      "sha256": "bf1c749f10e892d458fa083b2957d27246de92187e5cd9a9068191a876a14e5a",
+      "originalSha256": "bf1c749f10e892d458fa083b2957d27246de92187e5cd9a9068191a876a14e5a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/pro_video_endframe__jo1bq7ocrka6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/pro_video_endframe__jo1bq7ocrka6_small.jpg",
+      "sha256": "cc3ac2d660eef77a5f259e566705597745937531b3d6ab5c3749fc52c501a3d7",
+      "originalSha256": "cc3ac2d660eef77a5f259e566705597745937531b3d6ab5c3749fc52c501a3d7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/pro_video_startframe__ggkgg862ssq6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/pro_video_startframe__ggkgg862ssq6_large.jpg",
+      "sha256": "75e34d3def13c79293b0940102ff9d4d4afa8bfd7bd193a0cd4b20d8d0ce36d8",
+      "originalSha256": "75e34d3def13c79293b0940102ff9d4d4afa8bfd7bd193a0cd4b20d8d0ce36d8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/pro_video_startframe__ggkgg862ssq6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/pro_video_startframe__ggkgg862ssq6_small.jpg",
+      "sha256": "ab230ced28934bb46a35f5093431f69c4e210beccb5813fd8056552262a86d3f",
+      "originalSha256": "ab230ced28934bb46a35f5093431f69c4e210beccb5813fd8056552262a86d3f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/reference__dpo1xa7gsdea_large.jpg",
+      "exported": "awct-apple/public/sites/apple/reference__dpo1xa7gsdea_large.jpg",
+      "sha256": "ba173ba2a96bb8214d8c21c4c18b4c46fe62df9938430091245c7d7dba0858d0",
+      "originalSha256": "ba173ba2a96bb8214d8c21c4c18b4c46fe62df9938430091245c7d7dba0858d0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/reference__dpo1xa7gsdea_small.jpg",
+      "exported": "awct-apple/public/sites/apple/reference__dpo1xa7gsdea_small.jpg",
+      "sha256": "faa4f2eff25ab8e818fa61adc5ce0646254a5ca3f158622844038778e2c8796a",
+      "originalSha256": "faa4f2eff25ab8e818fa61adc5ce0646254a5ca3f158622844038778e2c8796a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/roadside__bqugdgosuzci_large.jpg",
+      "exported": "awct-apple/public/sites/apple/roadside__bqugdgosuzci_large.jpg",
+      "sha256": "312e7b46c7ce54aec81e26a6eac366398441d97ed3de10ac93a9a98042141050",
+      "originalSha256": "312e7b46c7ce54aec81e26a6eac366398441d97ed3de10ac93a9a98042141050",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/roadside__bqugdgosuzci_small.jpg",
+      "exported": "awct-apple/public/sites/apple/roadside__bqugdgosuzci_small.jpg",
+      "sha256": "298caa51df2727e11308b02db8334c6e5bf94d3fd24bdaba5a4ca2a4d51ab835",
+      "originalSha256": "298caa51df2727e11308b02db8334c6e5bf94d3fd24bdaba5a4ca2a4d51ab835",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/safari_tabs__d3zxf5gah3ue_large.jpg",
+      "exported": "awct-apple/public/sites/apple/safari_tabs__d3zxf5gah3ue_large.jpg",
+      "sha256": "4f14f2c8b4d2b5d1e3872e97b799a30d4c454b4e6966583d00a3616955948c13",
+      "originalSha256": "4f14f2c8b4d2b5d1e3872e97b799a30d4c454b4e6966583d00a3616955948c13",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/safari_tabs__d3zxf5gah3ue_small.jpg",
+      "exported": "awct-apple/public/sites/apple/safari_tabs__d3zxf5gah3ue_small.jpg",
+      "sha256": "529f983c23def5df5cd91a16e0114ff87d4adc016ec0cba97ac4f37a03c67a37",
+      "originalSha256": "529f983c23def5df5cd91a16e0114ff87d4adc016ec0cba97ac4f37a03c67a37",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-display_medium.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-display_medium.woff2",
+      "sha256": "95b944a1ab5d3c97494ba663f7fb41bd59e21dbd99874b2bc769f04d5e7e8baa",
+      "originalSha256": "95b944a1ab5d3c97494ba663f7fb41bd59e21dbd99874b2bc769f04d5e7e8baa",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-display_semibold.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-display_semibold.woff2",
+      "sha256": "93c70675bf7a740fb2b357e085c31de4e1adcf2b6a636135aad9cf1d65d93b53",
+      "originalSha256": "93c70675bf7a740fb2b357e085c31de4e1adcf2b6a636135aad9cf1d65d93b53",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-icons_light.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-icons_light.woff2",
+      "sha256": "bce0f578748f4223ccd402b73949439434573099a9146678a134c12b3999b079",
+      "originalSha256": "bce0f578748f4223ccd402b73949439434573099a9146678a134c12b3999b079",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-icons_medium.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-icons_medium.woff2",
+      "sha256": "53219607633e50bf132ea1dd24d58f7d1b941eb9bf2950f2f9ec6c0482fef25d",
+      "originalSha256": "53219607633e50bf132ea1dd24d58f7d1b941eb9bf2950f2f9ec6c0482fef25d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-icons_regular.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-icons_regular.woff2",
+      "sha256": "ece874c827df61f534c2386e1a019ca41ded745ac72c8cd7cb4593259ec8a98e",
+      "originalSha256": "ece874c827df61f534c2386e1a019ca41ded745ac72c8cd7cb4593259ec8a98e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-icons_semibold.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-icons_semibold.woff2",
+      "sha256": "590c08bf53a65d226437d76c195520d30b789e44b3c4e844e413a961201f7b1b",
+      "originalSha256": "590c08bf53a65d226437d76c195520d30b789e44b3c4e844e413a961201f7b1b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-text_light.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-text_light.woff2",
+      "sha256": "fd873a56c170a259371f5b2fcb941a21dd83f36b363faf7bad85568483573da7",
+      "originalSha256": "fd873a56c170a259371f5b2fcb941a21dd83f36b363faf7bad85568483573da7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-text_medium.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-text_medium.woff2",
+      "sha256": "cceb1daebcd5a38f644233ee3808c0ee04a1e8bd40f498170e2438152e0a083d",
+      "originalSha256": "cceb1daebcd5a38f644233ee3808c0ee04a1e8bd40f498170e2438152e0a083d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-text_regular-italic.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-text_regular-italic.woff2",
+      "sha256": "ed63f08e9c60061218fd5c4cc00544b6c8de5f8ecd4bf7c0f5f2bba31fd82e04",
+      "originalSha256": "ed63f08e9c60061218fd5c4cc00544b6c8de5f8ecd4bf7c0f5f2bba31fd82e04",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-text_regular.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-text_regular.woff2",
+      "sha256": "3231b77ee2775dadbaa76de85f95763976aff1091f63a67fa553d727a6edb933",
+      "originalSha256": "3231b77ee2775dadbaa76de85f95763976aff1091f63a67fa553d727a6edb933",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/sf-pro-text_semibold.woff2",
+      "exported": "awct-apple/public/sites/apple/sf-pro-text_semibold.woff2",
+      "sha256": "7b0041c48ba67087fcf5f6e8ec8d24e95db06cae9bf78c45b4542984bcb7208c",
+      "originalSha256": "7b0041c48ba67087fcf5f6e8ec8d24e95db06cae9bf78c45b4542984bcb7208c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/shop__fc6e3idzwtqq_large.png",
+      "exported": "awct-apple/public/sites/apple/shop__fc6e3idzwtqq_large.png",
+      "sha256": "4e691a264063bea23d4268898d4cc41a56abbafc04f7b8296b0e09552ec0b7a1",
+      "originalSha256": "4e691a264063bea23d4268898d4cc41a56abbafc04f7b8296b0e09552ec0b7a1",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/shortcuts__fh00yn8sevqu_large.jpg",
+      "exported": "awct-apple/public/sites/apple/shortcuts__fh00yn8sevqu_large.jpg",
+      "sha256": "d1c0eb6de01947f7156c91bacdeee605db5228097c8b6efd4100a2630c6d99a9",
+      "originalSha256": "d1c0eb6de01947f7156c91bacdeee605db5228097c8b6efd4100a2630c6d99a9",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/shortcuts__fh00yn8sevqu_small.jpg",
+      "exported": "awct-apple/public/sites/apple/shortcuts__fh00yn8sevqu_small.jpg",
+      "sha256": "050ebca8fdd1427036311ef876503156d6696511f8b4853b40ebbab702a917c2",
+      "originalSha256": "050ebca8fdd1427036311ef876503156d6696511f8b4853b40ebbab702a917c2",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri__eprmtp3edh8i_large.jpg",
+      "exported": "awct-apple/public/sites/apple/siri__eprmtp3edh8i_large.jpg",
+      "sha256": "79b2e9ccf178ec4fcd83dec4cb39f7e5c1b5851919359a0fc87b7a32809fc024",
+      "originalSha256": "79b2e9ccf178ec4fcd83dec4cb39f7e5c1b5851919359a0fc87b7a32809fc024",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri__eprmtp3edh8i_small.jpg",
+      "exported": "awct-apple/public/sites/apple/siri__eprmtp3edh8i_small.jpg",
+      "sha256": "b65093c147b773cd936551f8be766b671666e51390feb25d177959ab0016ba59",
+      "originalSha256": "b65093c147b773cd936551f8be766b671666e51390feb25d177959ab0016ba59",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_ai__ftge31f617iq_large.png",
+      "exported": "awct-apple/public/sites/apple/siri_ai__ftge31f617iq_large.png",
+      "sha256": "3cabc60dd3ad3b484edfdf1c9698ed465ea033c6b55a5be642ec43b376e1f117",
+      "originalSha256": "3cabc60dd3ad3b484edfdf1c9698ed465ea033c6b55a5be642ec43b376e1f117",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_ai__ftge31f617iq_small.png",
+      "exported": "awct-apple/public/sites/apple/siri_ai__ftge31f617iq_small.png",
+      "sha256": "0f51ef0a0cef42b36879e427870454e22bda615be6279c85be82aec791d037b3",
+      "originalSha256": "0f51ef0a0cef42b36879e427870454e22bda615be6279c85be82aec791d037b3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_ai_assistant__el1seyzgpv0i_large.jpg",
+      "exported": "awct-apple/public/sites/apple/siri_ai_assistant__el1seyzgpv0i_large.jpg",
+      "sha256": "5f5e37339cbddd8adb433afef6bf05412b831b2781e9226b92cac9900c1703de",
+      "originalSha256": "5f5e37339cbddd8adb433afef6bf05412b831b2781e9226b92cac9900c1703de",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_ai_assistant__el1seyzgpv0i_small.jpg",
+      "exported": "awct-apple/public/sites/apple/siri_ai_assistant__el1seyzgpv0i_small.jpg",
+      "sha256": "a991593f9cc2c60187c44f4f82f7f92590c3223dc92f227bd611257138bd585b",
+      "originalSha256": "a991593f9cc2c60187c44f4f82f7f92590c3223dc92f227bd611257138bd585b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_ai_hero__b93zn5f7x4aa_large.jpg",
+      "exported": "awct-apple/public/sites/apple/siri_ai_hero__b93zn5f7x4aa_large.jpg",
+      "sha256": "64f38b9260a8f5ffe6d572ad8335f15396bfbaaa205fc3c1bd53ceebb18befd3",
+      "originalSha256": "64f38b9260a8f5ffe6d572ad8335f15396bfbaaa205fc3c1bd53ceebb18befd3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_ai_hero__b93zn5f7x4aa_small.jpg",
+      "exported": "awct-apple/public/sites/apple/siri_ai_hero__b93zn5f7x4aa_small.jpg",
+      "sha256": "00aa0fa46fcd0fc283436243af5fd7b91aca6e2a6a0827acbc8fbe7ed246afdf",
+      "originalSha256": "00aa0fa46fcd0fc283436243af5fd7b91aca6e2a6a0827acbc8fbe7ed246afdf",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_app__cv4mp1a9nxiu_large.jpg",
+      "exported": "awct-apple/public/sites/apple/siri_app__cv4mp1a9nxiu_large.jpg",
+      "sha256": "fbbfef79889efdfd3d692cb2e12c99506303333ca1d9cf22b9ab7246bff87490",
+      "originalSha256": "fbbfef79889efdfd3d692cb2e12c99506303333ca1d9cf22b9ab7246bff87490",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_app__cv4mp1a9nxiu_small.jpg",
+      "exported": "awct-apple/public/sites/apple/siri_app__cv4mp1a9nxiu_small.jpg",
+      "sha256": "2b535fefe95f534fe02d9eb2771a021217b0c7177fffb68c3bcdf0aca70603aa",
+      "originalSha256": "2b535fefe95f534fe02d9eb2771a021217b0c7177fffb68c3bcdf0aca70603aa",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_mode__fi0ng1mrbvu6_large.jpg",
+      "exported": "awct-apple/public/sites/apple/siri_mode__fi0ng1mrbvu6_large.jpg",
+      "sha256": "c11f2895ef139fd9efb149c38a1355336aa243990dfd8748dd20026fea5ebb82",
+      "originalSha256": "c11f2895ef139fd9efb149c38a1355336aa243990dfd8748dd20026fea5ebb82",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/siri_mode__fi0ng1mrbvu6_small.jpg",
+      "exported": "awct-apple/public/sites/apple/siri_mode__fi0ng1mrbvu6_small.jpg",
+      "sha256": "4003b5314ffaa809df6de27e7e5dfae47412b391ac8f5a13d1c0f141b095707c",
+      "originalSha256": "4003b5314ffaa809df6de27e7e5dfae47412b391ac8f5a13d1c0f141b095707c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/size__ufk3tqa1f5e2_large.jpg",
+      "exported": "awct-apple/public/sites/apple/size__ufk3tqa1f5e2_large.jpg",
+      "sha256": "5fa9610b7863f8a384540ce3ebf271609806e6e2429e6888b306194e5690767e",
+      "originalSha256": "5fa9610b7863f8a384540ce3ebf271609806e6e2429e6888b306194e5690767e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/size__ufk3tqa1f5e2_small.jpg",
+      "exported": "awct-apple/public/sites/apple/size__ufk3tqa1f5e2_small.jpg",
+      "sha256": "0b98e483c3624dbb551ce0060fb84717cbcc886bdca3cce6a8d008d6fac1ca76",
+      "originalSha256": "0b98e483c3624dbb551ce0060fb84717cbcc886bdca3cce6a8d008d6fac1ca76",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/smart_focus__yrqfyzob1eqi_large.jpg",
+      "exported": "awct-apple/public/sites/apple/smart_focus__yrqfyzob1eqi_large.jpg",
+      "sha256": "50c1c1fa92e6a48c1f611560319d9c89a427db4c33a99eda7197b4e9174a0022",
+      "originalSha256": "50c1c1fa92e6a48c1f611560319d9c89a427db4c33a99eda7197b4e9174a0022",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/smart_focus__yrqfyzob1eqi_small.jpg",
+      "exported": "awct-apple/public/sites/apple/smart_focus__yrqfyzob1eqi_small.jpg",
+      "sha256": "6a7131923ee6217146e38f0252665074d8aadd40ca62213953f8e27a8eb9342b",
+      "originalSha256": "6a7131923ee6217146e38f0252665074d8aadd40ca62213953f8e27a8eb9342b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/suggestions__c87yzqqh490m_large.jpg",
+      "exported": "awct-apple/public/sites/apple/suggestions__c87yzqqh490m_large.jpg",
+      "sha256": "139fa319d055fb6cb93fa7eaa18ce743d60196d70ea08d39dbdc0a51d55c8ac2",
+      "originalSha256": "139fa319d055fb6cb93fa7eaa18ce743d60196d70ea08d39dbdc0a51d55c8ac2",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/suggestions__c87yzqqh490m_small.jpg",
+      "exported": "awct-apple/public/sites/apple/suggestions__c87yzqqh490m_small.jpg",
+      "sha256": "22f8784cb99e11d5e504b131cb5713922dea97844173890925d1937904e5dced",
+      "originalSha256": "22f8784cb99e11d5e504b131cb5713922dea97844173890925d1937904e5dced",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/trade_in__gkkv4yplrqi6_large.png",
+      "exported": "awct-apple/public/sites/apple/trade_in__gkkv4yplrqi6_large.png",
+      "sha256": "17d87b503987d0dbe680c2137dfadc2dccbe72a08fff9f34e6c60862a7e6e434",
+      "originalSha256": "17d87b503987d0dbe680c2137dfadc2dccbe72a08fff9f34e6c60862a7e6e434",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/trade_in_android__cz42ggstsd4y_large.jpg",
+      "exported": "awct-apple/public/sites/apple/trade_in_android__cz42ggstsd4y_large.jpg",
+      "sha256": "0c1bd96b9665f8f9c1f01c8873ac69169f626c76c2e5bac1eda071d95ea0b670",
+      "originalSha256": "0c1bd96b9665f8f9c1f01c8873ac69169f626c76c2e5bac1eda071d95ea0b670",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/trade_in_android__cz42ggstsd4y_small.jpg",
+      "exported": "awct-apple/public/sites/apple/trade_in_android__cz42ggstsd4y_small.jpg",
+      "sha256": "a7be26968ced6e9d0bde4a6dac9a697ca8efa30db5bbe98456c6d4ddb4bdea43",
+      "originalSha256": "a7be26968ced6e9d0bde4a6dac9a697ca8efa30db5bbe98456c6d4ddb4bdea43",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/ultra_wide__fuin4rf0dnyq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/ultra_wide__fuin4rf0dnyq_large.jpg",
+      "sha256": "52c30ea3bd0631da8e3c0b6803d90e610808a0b34cc1e42801b5fe4495e1caf2",
+      "originalSha256": "52c30ea3bd0631da8e3c0b6803d90e610808a0b34cc1e42801b5fe4495e1caf2",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/ultra_wide__fuin4rf0dnyq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/ultra_wide__fuin4rf0dnyq_small.jpg",
+      "sha256": "79878bfd3a83cafcb799d7453fe2b48aa1defa31ee6bb844d27c8dbd4e5e1e01",
+      "originalSha256": "79878bfd3a83cafcb799d7453fe2b48aa1defa31ee6bb844d27c8dbd4e5e1e01",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/vapor_chamber__dyn98zs14ryq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/vapor_chamber__dyn98zs14ryq_large.jpg",
+      "sha256": "9f0f5bfc741a0c9bb378a5ac6c98075c6aa4b7cf203a2d605bbed570b6b79137",
+      "originalSha256": "9f0f5bfc741a0c9bb378a5ac6c98075c6aa4b7cf203a2d605bbed570b6b79137",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/vapor_chamber__dyn98zs14ryq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/vapor_chamber__dyn98zs14ryq_small.jpg",
+      "sha256": "75c9824dd891cc64e958b72d80bd5f67269a4c3768133829e38ea8f21289760d",
+      "originalSha256": "75c9824dd891cc64e958b72d80bd5f67269a4c3768133829e38ea8f21289760d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-4k-timelapse-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-4k-timelapse-large.mp4",
+      "sha256": "61bd9cd605edbbb23e2ae08b4ca541ffe0b138c511736b553eab51b7855a10b5",
+      "originalSha256": "61bd9cd605edbbb23e2ae08b4ca541ffe0b138c511736b553eab51b7855a10b5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-4k-timelapse-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-4k-timelapse-small.mp4",
+      "sha256": "89638d37bac6d6fb0e10f75159814a5ba49fed6f06cdc63dbf90c0fc0da903e7",
+      "originalSha256": "89638d37bac6d6fb0e10f75159814a5ba49fed6f06cdc63dbf90c0fc0da903e7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-8x-zoom-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-8x-zoom-large.mp4",
+      "sha256": "f4bed9aa4d884299c2e05593e1ed0ca6a7a1057709587373876e9535edff5938",
+      "originalSha256": "f4bed9aa4d884299c2e05593e1ed0ca6a7a1057709587373876e9535edff5938",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-8x-zoom-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-8x-zoom-small.mp4",
+      "sha256": "d5838b40a4b14ebbdef24e8c65172cd339b42bb93c19746cc870461362698027",
+      "originalSha256": "d5838b40a4b14ebbdef24e8c65172cd339b42bb93c19746cc870461362698027",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-battery-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-battery-large.mp4",
+      "sha256": "7c883019b065cf07967081aa3af667bbfc8a0224e350a0f96d0ba040f8467d34",
+      "originalSha256": "7c883019b065cf07967081aa3af667bbfc8a0224e350a0f96d0ba040f8467d34",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-battery-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-battery-small.mp4",
+      "sha256": "0ce63aebdc7f40acec22bf75686bd2eaaa85d19bfd44d168640e7c59c2ef64f4",
+      "originalSha256": "0ce63aebdc7f40acec22bf75686bd2eaaa85d19bfd44d168640e7c59c2ef64f4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-camera-system-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-camera-system-large.mp4",
+      "sha256": "a362b4f6ce95b48fad8c0592e3cac7b75243560bab7e0626768bc738c895052c",
+      "originalSha256": "a362b4f6ce95b48fad8c0592e3cac7b75243560bab7e0626768bc738c895052c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-camera-system-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-camera-system-small.mp4",
+      "sha256": "1ee12bf9052e3a527f9bda0dcbe0ec46224e08fcebe68c002436ddd72823db4f",
+      "originalSha256": "1ee12bf9052e3a527f9bda0dcbe0ec46224e08fcebe68c002436ddd72823db4f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-hero-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-hero-large.mp4",
+      "sha256": "fdb3b7dc1a225c0403a9da728e3713f84fafe6ab1f920a4315e13eb24ee7bb49",
+      "originalSha256": "fdb3b7dc1a225c0403a9da728e3713f84fafe6ab1f920a4315e13eb24ee7bb49",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-hero-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-hero-small.mp4",
+      "sha256": "6f86b725c5c8edaf7d21fb2e25158daf8de41cda21b961b6be440a836efce7c8",
+      "originalSha256": "6f86b725c5c8edaf7d21fb2e25158daf8de41cda21b961b6be440a836efce7c8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-highlights-battery-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-highlights-battery-large.mp4",
+      "sha256": "03f5b408c05aa3f785cf1e203b4c5cbf4050073f2aca6ceedc7f54ffbe36f154",
+      "originalSha256": "03f5b408c05aa3f785cf1e203b4c5cbf4050073f2aca6ceedc7f54ffbe36f154",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-highlights-battery-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-highlights-battery-small.mp4",
+      "sha256": "faf0ea1d7904a9f05d95cd4481b53b3b2613863f6ec7eeefc8139f3e776f0775",
+      "originalSha256": "faf0ea1d7904a9f05d95cd4481b53b3b2613863f6ec7eeefc8139f3e776f0775",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-highlights-camera-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-highlights-camera-large.mp4",
+      "sha256": "73a2687b921b09c7c20bd5db18edbfd7266b9e718c5e9c93befe64023a0a236e",
+      "originalSha256": "73a2687b921b09c7c20bd5db18edbfd7266b9e718c5e9c93befe64023a0a236e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-highlights-camera-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-highlights-camera-small.mp4",
+      "sha256": "e72ba4c6bc4dbc6623e1f64f8df1c6f4fbbc91806f64d5fd355c3424e4ac5011",
+      "originalSha256": "e72ba4c6bc4dbc6623e1f64f8df1c6f4fbbc91806f64d5fd355c3424e4ac5011",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-highlights-chip-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-highlights-chip-large.mp4",
+      "sha256": "6515f31d1442765711d227a43d6e71aefa5fa15b4ad9283d9f8f4b05ebc81fb8",
+      "originalSha256": "6515f31d1442765711d227a43d6e71aefa5fa15b4ad9283d9f8f4b05ebc81fb8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-highlights-chip-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-highlights-chip-small.mp4",
+      "sha256": "b88e374579600e0354ee4d941bbd6726f5f9b0870a73b73cdb9da47f4653f3b5",
+      "originalSha256": "b88e374579600e0354ee4d941bbd6726f5f9b0870a73b73cdb9da47f4653f3b5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-highlights-colors-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-highlights-colors-large.mp4",
+      "sha256": "3f792f4ad4941fbda0c29135812c82cd321f4bd8b7378cd4c24df1c8ecdcd8f5",
+      "originalSha256": "3f792f4ad4941fbda0c29135812c82cd321f4bd8b7378cd4c24df1c8ecdcd8f5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-highlights-colors-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-highlights-colors-small.mp4",
+      "sha256": "5a60fe71205b3d3e845ca5d63e5958b6edde0344f360b061a9c9577f5a5c96f4",
+      "originalSha256": "5a60fe71205b3d3e845ca5d63e5958b6edde0344f360b061a9c9577f5a5c96f4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-performance-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-performance-large.mp4",
+      "sha256": "e8c0a03b4e58bf27845ffd71f1fa57ff16b3d87e17ac2ac80fd4d7aa1d13ed7c",
+      "originalSha256": "e8c0a03b4e58bf27845ffd71f1fa57ff16b3d87e17ac2ac80fd4d7aa1d13ed7c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-performance-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-performance-small.mp4",
+      "sha256": "a1e6353ae9c132b17aad123b9b43a2d557ce7479b68d5a4e36ce87aaeb51826d",
+      "originalSha256": "a1e6353ae9c132b17aad123b9b43a2d557ce7479b68d5a4e36ce87aaeb51826d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-pro-video-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-pro-video-large.mp4",
+      "sha256": "4ac921717f71918874dbd3e2343537bad1316e1b4a158676752ce861b7df6393",
+      "originalSha256": "4ac921717f71918874dbd3e2343537bad1316e1b4a158676752ce861b7df6393",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-pro-video-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-pro-video-small.mp4",
+      "sha256": "7935e2cfeacb5cba4f2c01625546a788263db9cff517b058f3c5721c4f0284a5",
+      "originalSha256": "7935e2cfeacb5cba4f2c01625546a788263db9cff517b058f3c5721c4f0284a5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-viewer-aperture-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-viewer-aperture-large.mp4",
+      "sha256": "1524ea007f35226d693d721d91f79513dee79a75536fc502a04190fcc5a65648",
+      "originalSha256": "1524ea007f35226d693d721d91f79513dee79a75536fc502a04190fcc5a65648",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-viewer-aperture-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-viewer-aperture-small.mp4",
+      "sha256": "cfa4bac826fa28ec1eb19a5407faea7db06a4544a1604ef6ef7a922cc4f33cca",
+      "originalSha256": "cfa4bac826fa28ec1eb19a5407faea7db06a4544a1604ef6ef7a922cc4f33cca",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-viewer-dynamic-island-large.mp4",
+      "exported": "awct-apple/public/sites/apple/video-viewer-dynamic-island-large.mp4",
+      "sha256": "3364418ab9f02465aeb72a37d11dafa2671a7f68489da9d11f0d36ad38614d53",
+      "originalSha256": "3364418ab9f02465aeb72a37d11dafa2671a7f68489da9d11f0d36ad38614d53",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/video-viewer-dynamic-island-small.mp4",
+      "exported": "awct-apple/public/sites/apple/video-viewer-dynamic-island-small.mp4",
+      "sha256": "e65eae93a5b14ed94a41159d31ad01340bb7d253f5257e04083aa14db1a6a387",
+      "originalSha256": "e65eae93a5b14ed94a41159d31ad01340bb7d253f5257e04083aa14db1a6a387",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/viewer_aperture_endframe__2jpki8xah2au_large.jpg",
+      "exported": "awct-apple/public/sites/apple/viewer_aperture_endframe__2jpki8xah2au_large.jpg",
+      "sha256": "f173799dcdee6279691edd54df6f1a71458f5d422648fad205b46c05c2fbf8d8",
+      "originalSha256": "f173799dcdee6279691edd54df6f1a71458f5d422648fad205b46c05c2fbf8d8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/viewer_aperture_endframe__2jpki8xah2au_small.jpg",
+      "exported": "awct-apple/public/sites/apple/viewer_aperture_endframe__2jpki8xah2au_small.jpg",
+      "sha256": "02d16af2e9a9617e9705e484b73bd98a994fff8defe2a040c6ef425c4b212dfd",
+      "originalSha256": "02d16af2e9a9617e9705e484b73bd98a994fff8defe2a040c6ef425c4b212dfd",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/viewer_aperture_startframe__fd2z3na1d066_large.jpg",
+      "exported": "awct-apple/public/sites/apple/viewer_aperture_startframe__fd2z3na1d066_large.jpg",
+      "sha256": "408938c7baa2002878749b3f429d3142c5682d173dd3bae366286240c1567203",
+      "originalSha256": "408938c7baa2002878749b3f429d3142c5682d173dd3bae366286240c1567203",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/viewer_aperture_startframe__fd2z3na1d066_small.jpg",
+      "exported": "awct-apple/public/sites/apple/viewer_aperture_startframe__fd2z3na1d066_small.jpg",
+      "sha256": "485f93cafec4c8401b98e686d5d8f6ee1a3fae1594594cafa76830f8e84f91ba",
+      "originalSha256": "485f93cafec4c8401b98e686d5d8f6ee1a3fae1594594cafa76830f8e84f91ba",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/ways_to_buy__cuh31j07k0eq_large.jpg",
+      "exported": "awct-apple/public/sites/apple/ways_to_buy__cuh31j07k0eq_large.jpg",
+      "sha256": "a06888179be75f287e52cecc665e1ee006b203643754a1fbab1ee52d2d3e3250",
+      "originalSha256": "a06888179be75f287e52cecc665e1ee006b203643754a1fbab1ee52d2d3e3250",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/ways_to_buy__cuh31j07k0eq_small.jpg",
+      "exported": "awct-apple/public/sites/apple/ways_to_buy__cuh31j07k0eq_small.jpg",
+      "sha256": "655a3fa5e9bb9f6f536225be24027cf56daf79be82fc4ee8e8ad098b68dc6613",
+      "originalSha256": "655a3fa5e9bb9f6f536225be24027cf56daf79be82fc4ee8e8ad098b68dc6613",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/world_knowledge__gfbdm64gdrue_large.jpg",
+      "exported": "awct-apple/public/sites/apple/world_knowledge__gfbdm64gdrue_large.jpg",
+      "sha256": "458038820dcc1fed3fc6fdfda15d296e641a7d7bcda34711413af39dc6f82814",
+      "originalSha256": "458038820dcc1fed3fc6fdfda15d296e641a7d7bcda34711413af39dc6f82814",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/world_knowledge__gfbdm64gdrue_small.jpg",
+      "exported": "awct-apple/public/sites/apple/world_knowledge__gfbdm64gdrue_small.jpg",
+      "sha256": "19a2fa0dd0e05695ac971bc371992b64449b45a6f1f075b4f8225373fe29cc95",
+      "originalSha256": "19a2fa0dd0e05695ac971bc371992b64449b45a6f1f075b4f8225373fe29cc95",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/write__cskm66rylaky_large.jpg",
+      "exported": "awct-apple/public/sites/apple/write__cskm66rylaky_large.jpg",
+      "sha256": "269e0309335bf7486352f1f49f976fd83f60d658028ca2619d7cf51871615f74",
+      "originalSha256": "269e0309335bf7486352f1f49f976fd83f60d658028ca2619d7cf51871615f74",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/public/sites/apple/write__cskm66rylaky_small.jpg",
+      "exported": "awct-apple/public/sites/apple/write__cskm66rylaky_small.jpg",
+      "sha256": "b127711fcf80e276145fb94488570bf5903fde877d95eb955602488ae76a7deb",
+      "originalSha256": "b127711fcf80e276145fb94488570bf5903fde877d95eb955602488ae76a7deb",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/asset-map.json",
+      "exported": "awct-apple/docs/research/apple/asset-map.json",
+      "sha256": "707eb08ad9ba56466dd23140c050c2a684f4a9e416f978669a5430282feb3097",
+      "originalSha256": "707eb08ad9ba56466dd23140c050c2a684f4a9e416f978669a5430282feb3097",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/comparison-desktop.png",
+      "exported": "awct-apple/docs/research/apple/comparison-desktop.png",
+      "sha256": "9e0c603365787c803c9e0a31e60f6f8e9c9c151bbc0331d0a3a1c6bd8b690fb6",
+      "originalSha256": "9e0c603365787c803c9e0a31e60f6f8e9c9c151bbc0331d0a3a1c6bd8b690fb6",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/comparison-mobile-sections.png",
+      "exported": "awct-apple/docs/research/apple/comparison-mobile-sections.png",
+      "sha256": "d4413f5716f84fcb14fb083fd202b95f1832d0fa4aed799e3fe76bdf71dd3447",
+      "originalSha256": "d4413f5716f84fcb14fb083fd202b95f1832d0fa4aed799e3fe76bdf71dd3447",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/comparison-mobile.png",
+      "exported": "awct-apple/docs/research/apple/comparison-mobile.png",
+      "sha256": "29edc1355b10f1ebbaaef10184dbdb904a540aaaca76370c0554838a3c1f2f59",
+      "originalSha256": "29edc1355b10f1ebbaaef10184dbdb904a540aaaca76370c0554838a3c1f2f59",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/desktop-geometry.json",
+      "exported": "awct-apple/docs/research/apple/desktop-geometry.json",
+      "sha256": "d4088b82aabbd34d913b176de23fa062fddf173cb3777f97893a8fc0471da886",
+      "originalSha256": "d4088b82aabbd34d913b176de23fa062fddf173cb3777f97893a8fc0471da886",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/font-map.json",
+      "exported": "awct-apple/docs/research/apple/font-map.json",
+      "sha256": "389ef81059ca2eba29baed38f63fd8964056fa21550274ac5d6b3b1172d12416",
+      "originalSha256": "389ef81059ca2eba29baed38f63fd8964056fa21550274ac5d6b3b1172d12416",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/local-desktop-1440x900-top.png",
+      "exported": "awct-apple/docs/research/apple/local-desktop-1440x900-top.png",
+      "sha256": "b1793aa0de2792b7b09076ed839ad81ae0611565242bfc8ef6545437af068294",
+      "originalSha256": "b1793aa0de2792b7b09076ed839ad81ae0611565242bfc8ef6545437af068294",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/local-mobile-390x844-fa.png",
+      "exported": "awct-apple/docs/research/apple/local-mobile-390x844-fa.png",
+      "sha256": "4e2a4155ded8925ecf8c25a69fd573c4f92942a6ddea49fbe734ec9f3c50af19",
+      "originalSha256": "4e2a4155ded8925ecf8c25a69fd573c4f92942a6ddea49fbe734ec9f3c50af19",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/local-mobile-390x844-top.png",
+      "exported": "awct-apple/docs/research/apple/local-mobile-390x844-top.png",
+      "sha256": "f1cba3195d058de575f50fe9c351a00c4ea28364a0b8adbd3a99aa723b2f33a4",
+      "originalSha256": "f1cba3195d058de575f50fe9c351a00c4ea28364a0b8adbd3a99aa723b2f33a4",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/local-mobile-full.png",
+      "exported": "awct-apple/docs/research/apple/local-mobile-full.png",
+      "sha256": "436107992fb9cdac75418a353f4a160e9cfe9df9876faa6d8d382997de845015",
+      "originalSha256": "436107992fb9cdac75418a353f4a160e9cfe9df9876faa6d8d382997de845015",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/local-wide-1920x1080-top.png",
+      "exported": "awct-apple/docs/research/apple/local-wide-1920x1080-top.png",
+      "sha256": "af43d24f20eb4b5d78cda5846f2b9a11e6c869acd0d845557c92706ae8e618e3",
+      "originalSha256": "af43d24f20eb4b5d78cda5846f2b9a11e6c869acd0d845557c92706ae8e618e3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/media-map.json",
+      "exported": "awct-apple/docs/research/apple/media-map.json",
+      "sha256": "8f79ff253fa5f2b379bc900026739758f38dea77c8b973bde84fda112d3e0a11",
+      "originalSha256": "8f79ff253fa5f2b379bc900026739758f38dea77c8b973bde84fda112d3e0a11",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-geometry.json",
+      "exported": "awct-apple/docs/research/apple/mobile-geometry.json",
+      "sha256": "4e79639be6899e43e0a672547b1b96e8922d9ddc5e4104f2fdcd6bb5667a0512",
+      "originalSha256": "4e79639be6899e43e0a672547b1b96e8922d9ddc5e4104f2fdcd6bb5667a0512",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-00.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-00.png",
+      "sha256": "67d1829c58c8e3b3f7ab04d6612abd0cec0e51195933174117d9a3d92b8f23c6",
+      "originalSha256": "67d1829c58c8e3b3f7ab04d6612abd0cec0e51195933174117d9a3d92b8f23c6",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-04.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-04.png",
+      "sha256": "ce03b06d018fccb56555ea720860664b13b76675240d69af9f3c31a29b1cbcc3",
+      "originalSha256": "ce03b06d018fccb56555ea720860664b13b76675240d69af9f3c31a29b1cbcc3",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-08.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-08.png",
+      "sha256": "5f84a6aaabf716c993a756a803700ba984dd4acf75b0a9c6973d30d578721f80",
+      "originalSha256": "5f84a6aaabf716c993a756a803700ba984dd4acf75b0a9c6973d30d578721f80",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-12.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-12.png",
+      "sha256": "0f177a99ef9c022e590a142350f9a2f9df9f1f036f38deb88e29221566db8fbd",
+      "originalSha256": "0f177a99ef9c022e590a142350f9a2f9df9f1f036f38deb88e29221566db8fbd",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-16.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-16.png",
+      "sha256": "fb6083688943d8eb5ab53f336e240205141450bb491f1879f715e2e9adc3e0c7",
+      "originalSha256": "fb6083688943d8eb5ab53f336e240205141450bb491f1879f715e2e9adc3e0c7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-20.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-20.png",
+      "sha256": "533c8901744a84e885c964b080bfbfe3b24c09f7d59dab56be93e94d3ae95994",
+      "originalSha256": "533c8901744a84e885c964b080bfbfe3b24c09f7d59dab56be93e94d3ae95994",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-24.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-24.png",
+      "sha256": "a322ed50b37617399de38555fbf70d4c8258239ff08b1277f1363650fb326372",
+      "originalSha256": "a322ed50b37617399de38555fbf70d4c8258239ff08b1277f1363650fb326372",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-28.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-28.png",
+      "sha256": "8d3245824916a61d96ebecfca50128e47e4b874a7dd81bec26ab04252474a129",
+      "originalSha256": "8d3245824916a61d96ebecfca50128e47e4b874a7dd81bec26ab04252474a129",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-32.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-32.png",
+      "sha256": "d94030ab3da53f0863638a5f87e870883c2b3ba7088babf4e80602d143e40a62",
+      "originalSha256": "d94030ab3da53f0863638a5f87e870883c2b3ba7088babf4e80602d143e40a62",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-36.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-36.png",
+      "sha256": "8d5722f2da6b54a553ee870aa803422cfa4bf863cc7cfba400f4dec9063a1621",
+      "originalSha256": "8d5722f2da6b54a553ee870aa803422cfa4bf863cc7cfba400f4dec9063a1621",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-40.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-40.png",
+      "sha256": "e7cac1512e29238a31ee617bafc94fd919e01016b99ec97c093d1958fec951ca",
+      "originalSha256": "e7cac1512e29238a31ee617bafc94fd919e01016b99ec97c093d1958fec951ca",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/local-44.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/local-44.png",
+      "sha256": "e6f16f5cd0c85aaadbc7e57aff6e2150435829cfdb69d6ab4425401b91f37281",
+      "originalSha256": "e6f16f5cd0c85aaadbc7e57aff6e2150435829cfdb69d6ab4425401b91f37281",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-00.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-00.png",
+      "sha256": "59ef2e0ca04a7d43ab711d3aeb348e02578c6d177d19687791c8d2690ee26d5a",
+      "originalSha256": "59ef2e0ca04a7d43ab711d3aeb348e02578c6d177d19687791c8d2690ee26d5a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-01.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-01.png",
+      "sha256": "2055c8a11d2f6ea76fd4bd3c377662d2abde4396fc6927ee03e6e096af554695",
+      "originalSha256": "2055c8a11d2f6ea76fd4bd3c377662d2abde4396fc6927ee03e6e096af554695",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-02.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-02.png",
+      "sha256": "8004c49081fc07ac6a6ec065019115a83e5f26333f0074b7001c931ae7ff874b",
+      "originalSha256": "8004c49081fc07ac6a6ec065019115a83e5f26333f0074b7001c931ae7ff874b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-03.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-03.png",
+      "sha256": "d3d2ccee92542ce0b3f39998daf20050b4d4635a8753b06bba057bc01a4c720e",
+      "originalSha256": "d3d2ccee92542ce0b3f39998daf20050b4d4635a8753b06bba057bc01a4c720e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-04.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-04.png",
+      "sha256": "e569483a0bfd22a66045e4febe59b4f77a956fd5f5c046ed27b1db952d8b72af",
+      "originalSha256": "e569483a0bfd22a66045e4febe59b4f77a956fd5f5c046ed27b1db952d8b72af",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-05.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-05.png",
+      "sha256": "b82a0b40e1503dbd2f679b4873f5682ccace2140e0f81a6baa90030ffc5baa7d",
+      "originalSha256": "b82a0b40e1503dbd2f679b4873f5682ccace2140e0f81a6baa90030ffc5baa7d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-06.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-06.png",
+      "sha256": "74b39a2e2113dfa39f0bb738dc6fb6ba5ff968ec293e05339f5ccf8cadc0f0f0",
+      "originalSha256": "74b39a2e2113dfa39f0bb738dc6fb6ba5ff968ec293e05339f5ccf8cadc0f0f0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-07.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-07.png",
+      "sha256": "97e2efcfd73595e5f3ec047904501868a7751ebb4ce55516afd64a408a4100f7",
+      "originalSha256": "97e2efcfd73595e5f3ec047904501868a7751ebb4ce55516afd64a408a4100f7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-08.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-08.png",
+      "sha256": "5d5c50801d21b01b5707a3b4cce8f53bed04517f1de0562b511cbe678a732433",
+      "originalSha256": "5d5c50801d21b01b5707a3b4cce8f53bed04517f1de0562b511cbe678a732433",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-09.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-09.png",
+      "sha256": "da4237464ace6154078dba0e2039f02c4c9efb959926ae8008227ee907b6a7d8",
+      "originalSha256": "da4237464ace6154078dba0e2039f02c4c9efb959926ae8008227ee907b6a7d8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-10.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-10.png",
+      "sha256": "f130e6443abd625d091a14196a29a678263010ad7a589e702852d2129ae4cf4a",
+      "originalSha256": "f130e6443abd625d091a14196a29a678263010ad7a589e702852d2129ae4cf4a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-11.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-11.png",
+      "sha256": "462898090b058e04c8bc50dd006e6432518d745dccbd43207d1374959c2b6a8e",
+      "originalSha256": "462898090b058e04c8bc50dd006e6432518d745dccbd43207d1374959c2b6a8e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-12.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-12.png",
+      "sha256": "b29d2ac0b730fb07c7338871fd3115b1fc29380efdb0260acb09fd1adda6577f",
+      "originalSha256": "b29d2ac0b730fb07c7338871fd3115b1fc29380efdb0260acb09fd1adda6577f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-13.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-13.png",
+      "sha256": "baf5ccc9adf235b785e7da4193ebc3cbd6106538ae5ee4dbfc224134a1f8e06c",
+      "originalSha256": "baf5ccc9adf235b785e7da4193ebc3cbd6106538ae5ee4dbfc224134a1f8e06c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-14.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-14.png",
+      "sha256": "44f0f65dcc2adefd475a77dfb0c5c992c25e77c10402c1b30ca8fe212876a9c7",
+      "originalSha256": "44f0f65dcc2adefd475a77dfb0c5c992c25e77c10402c1b30ca8fe212876a9c7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-15.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-15.png",
+      "sha256": "2cb7d559b746108e8887886e2ba1577241e8ce0e7c0abc4c47d6dd9857e9779f",
+      "originalSha256": "2cb7d559b746108e8887886e2ba1577241e8ce0e7c0abc4c47d6dd9857e9779f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-18.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-18.png",
+      "sha256": "c5f3bca1a6a9a16d5495bbc803ef6349169aa5a1255bb31c0ba8ddf5e3119bf0",
+      "originalSha256": "c5f3bca1a6a9a16d5495bbc803ef6349169aa5a1255bb31c0ba8ddf5e3119bf0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-21.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-21.png",
+      "sha256": "47b005265da1a7a014ec2048f7085e9223d6aab2561411caa1f2aa101059d213",
+      "originalSha256": "47b005265da1a7a014ec2048f7085e9223d6aab2561411caa1f2aa101059d213",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-24.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-24.png",
+      "sha256": "e29e5ada09e86684989963c78bd53c0905d2f2001c06a259934adc0ec68d398e",
+      "originalSha256": "e29e5ada09e86684989963c78bd53c0905d2f2001c06a259934adc0ec68d398e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-27.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-27.png",
+      "sha256": "ade22ec312fae8d4ba41160c41447097d874a7dbd49e4d215622c1f7d430304c",
+      "originalSha256": "ade22ec312fae8d4ba41160c41447097d874a7dbd49e4d215622c1f7d430304c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-30.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-30.png",
+      "sha256": "33d98160ff42e0a75b0860e27aabe5f08213115b665b7d0161da9b48028e6807",
+      "originalSha256": "33d98160ff42e0a75b0860e27aabe5f08213115b665b7d0161da9b48028e6807",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-33.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-33.png",
+      "sha256": "6ea03a84fb2beacd622bcb2de67a1afffcf7190944072335f9654e8d1bdfe751",
+      "originalSha256": "6ea03a84fb2beacd622bcb2de67a1afffcf7190944072335f9654e8d1bdfe751",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-36.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-36.png",
+      "sha256": "8af8a57012db61d092b4466273cd781a73f82a5c409bbc7eb2ed559ebefcb791",
+      "originalSha256": "8af8a57012db61d092b4466273cd781a73f82a5c409bbc7eb2ed559ebefcb791",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/mobile-sweep/source-39.png",
+      "exported": "awct-apple/docs/research/apple/mobile-sweep/source-39.png",
+      "sha256": "3af7c16b4d5cb3a776aa81e984899150b03b59c4d5beb3ac04a3bfaac9a8e750",
+      "originalSha256": "3af7c16b4d5cb3a776aa81e984899150b03b59c4d5beb3ac04a3bfaac9a8e750",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/preview-restarted.png",
+      "exported": "awct-apple/docs/research/apple/preview-restarted.png",
+      "sha256": "70f92189ed45f2a55f155f1c08dd13eb6c046c03447197ee837337a54261ca77",
+      "originalSha256": "70f92189ed45f2a55f155f1c08dd13eb6c046c03447197ee837337a54261ca77",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/README.md",
+      "exported": "awct-apple/docs/research/apple/README.md",
+      "sha256": "76cfed19e2f21445893aad63617ab3dc39aeb2dc59e70f677020d5aa38de308f",
+      "originalSha256": "76cfed19e2f21445893aad63617ab3dc39aeb2dc59e70f677020d5aa38de308f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/source-content.json",
+      "exported": "awct-apple/docs/research/apple/source-content.json",
+      "sha256": "f5138f2443b865325e728456931bafb98f261021cd759f8d23cfacea19ae847b",
+      "originalSha256": "f5138f2443b865325e728456931bafb98f261021cd759f8d23cfacea19ae847b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/source-desktop-1440x900-top.png",
+      "exported": "awct-apple/docs/research/apple/source-desktop-1440x900-top.png",
+      "sha256": "57df67bde95e2a728f1baf0371e719c95242a564d7266e904507e445d77e7e2a",
+      "originalSha256": "57df67bde95e2a728f1baf0371e719c95242a564d7266e904507e445d77e7e2a",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/source-mobile-390x844-top.png",
+      "exported": "awct-apple/docs/research/apple/source-mobile-390x844-top.png",
+      "sha256": "0d91a725f5dd1c21dddb5db332f08c8bdb3d67db8e457e64306a64d5411c781c",
+      "originalSha256": "0d91a725f5dd1c21dddb5db332f08c8bdb3d67db8e457e64306a64d5411c781c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "docs/research/apple/source-mobile-full.png",
+      "exported": "awct-apple/docs/research/apple/source-mobile-full.png",
+      "sha256": "fc9f31905e1144e801b8c7d98c5994ba91a0e7de4f9f4aa6a13fc79e1757826f",
+      "originalSha256": "fc9f31905e1144e801b8c7d98c5994ba91a0e7de4f9f4aa6a13fc79e1757826f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/tsconfig.json",
+      "exported": "awct-apple/tsconfig.json",
+      "sha256": "e2c5142c7a272193d2151181e2b3055a166201a461ead5892d03cf60f1ee3123",
+      "originalSha256": "49cbcc1dc87b6ca1575333c0dcc33bd159ada1a2bc6d87dcf3e5309aa537896e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": true
+    },
+    {
+      "original": "apps/apple/eslint.config.mjs",
+      "exported": "awct-apple/eslint.config.mjs",
+      "sha256": "bb9c290c3f06de1ed9988cc513411024803cfafd959bc5c8647d80cc3343ded2",
+      "originalSha256": "bb9c290c3f06de1ed9988cc513411024803cfafd959bc5c8647d80cc3343ded2",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "LICENSE",
+      "exported": "awct-apple/LICENSE",
+      "sha256": "0f10e1da67c105e6f02e831688607f0b7a276b965d3a6397217bdbdef0527e9d",
+      "originalSha256": "0f10e1da67c105e6f02e831688607f0b7a276b965d3a6397217bdbdef0527e9d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/package.json",
+      "exported": "awct-apple/experiment/original-config/package.json",
+      "sha256": "27b474c66fc22a079996b5dc6b63e4b19364268c024b8215ccf07e4f2030c519",
+      "originalSha256": "27b474c66fc22a079996b5dc6b63e4b19364268c024b8215ccf07e4f2030c519",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/next.config.ts",
+      "exported": "awct-apple/experiment/original-config/next.config.ts",
+      "sha256": "00d0173009af1aa030f66ee089d6671e1b4c159f9c4eee893d0070895e5dca29",
+      "originalSha256": "00d0173009af1aa030f66ee089d6671e1b4c159f9c4eee893d0070895e5dca29",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/tsconfig.json",
+      "exported": "awct-apple/experiment/original-config/tsconfig.json",
+      "sha256": "49cbcc1dc87b6ca1575333c0dcc33bd159ada1a2bc6d87dcf3e5309aa537896e",
+      "originalSha256": "49cbcc1dc87b6ca1575333c0dcc33bd159ada1a2bc6d87dcf3e5309aa537896e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/eslint.config.mjs",
+      "exported": "awct-apple/experiment/original-config/eslint.config.mjs",
+      "sha256": "bb9c290c3f06de1ed9988cc513411024803cfafd959bc5c8647d80cc3343ded2",
+      "originalSha256": "bb9c290c3f06de1ed9988cc513411024803cfafd959bc5c8647d80cc3343ded2",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/package-lock.json",
+      "exported": "awct-apple/experiment/original-config/package-lock.json",
+      "sha256": "4823cb15f1a6abdf571e30e6c46b51f7f3b1928d763e3f52ab1cc5bae940a984",
+      "originalSha256": "4823cb15f1a6abdf571e30e6c46b51f7f3b1928d763e3f52ab1cc5bae940a984",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/AGENTS.md",
+      "exported": "awct-apple/experiment/original-config/AGENTS.md",
+      "sha256": "63f2c50380ed6303237cce215ce27af1d620d094c215e28d1b1538a3c070e3bb",
+      "originalSha256": "63f2c50380ed6303237cce215ce27af1d620d094c215e28d1b1538a3c070e3bb",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/CLAUDE.md",
+      "exported": "awct-apple/experiment/original-config/CLAUDE.md",
+      "sha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "originalSha256": "336cc4fbf19beaada7ccf9986414fa91851a8d7a07dfb3ccbe800a69eed0ab49",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "apps/apple/README.md",
+      "exported": "awct-apple/experiment/original-config/README.md",
+      "sha256": "2b1f4438d7f3aa87a9550e32bc9342ca4883c71ec92feb865366d848b205455b",
+      "originalSha256": "2b1f4438d7f3aa87a9550e32bc9342ca4883c71ec92feb865366d848b205455b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": ".agents/skills/clone-website/references/framer-and-motion.md",
+      "exported": "awct-apple/experiment/cloning-workflow/references/framer-and-motion.md",
+      "sha256": "8bd6db68d678fb116b184a014b91aafefe45920ad441f21b3bb0b3444564e00c",
+      "originalSha256": "8bd6db68d678fb116b184a014b91aafefe45920ad441f21b3bb0b3444564e00c",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": ".agents/skills/clone-website/references/inspection-guide.md",
+      "exported": "awct-apple/experiment/cloning-workflow/references/inspection-guide.md",
+      "sha256": "43a46d952cf4f31405474d0d2416f8766d3e2f4bc5587b98504113bf4615c3b0",
+      "originalSha256": "43a46d952cf4f31405474d0d2416f8766d3e2f4bc5587b98504113bf4615c3b0",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": ".agents/skills/clone-website/SKILL.md",
+      "exported": "awct-apple/experiment/cloning-workflow/SKILL.md",
+      "sha256": "d2227c70d1c00e9023c41c2ba97e4afdc166d8587869165e0baa6c196e3b8d1b",
+      "originalSha256": "d2227c70d1c00e9023c41c2ba97e4afdc166d8587869165e0baa6c196e3b8d1b",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "scripts/apple.ps1",
+      "exported": "awct-apple/experiment/original-scripts/apple.ps1",
+      "sha256": "26308aac77dad059126793877908a446b5bb8bd90197d2ef1dad2b0fc6d4850e",
+      "originalSha256": "26308aac77dad059126793877908a446b5bb8bd90197d2ef1dad2b0fc6d4850e",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "scripts/extract-apple.py",
+      "exported": "awct-apple/experiment/original-scripts/extract-apple.py",
+      "sha256": "52fb26ce96df75775f47e08651dc4b2108fc1c71544e8deacb638856b2c0c5d2",
+      "originalSha256": "52fb26ce96df75775f47e08651dc4b2108fc1c71544e8deacb638856b2c0c5d2",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "scripts/download-apple-media.py",
+      "exported": "awct-apple/experiment/original-scripts/download-apple-media.py",
+      "sha256": "d66a17a146b72efc4f6aaabed5fcc65804b7f14f6fe98585968c1aa235831155",
+      "originalSha256": "d66a17a146b72efc4f6aaabed5fcc65804b7f14f6fe98585968c1aa235831155",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "scripts/repair-apple-asset-names.py",
+      "exported": "awct-apple/experiment/original-scripts/repair-apple-asset-names.py",
+      "sha256": "9c831c8d4b8b8e82b6fe1baa60196a3e7b4ae2260dc253762dcc1abd3f2f4aef",
+      "originalSha256": "9c831c8d4b8b8e82b6fe1baa60196a3e7b4ae2260dc253762dcc1abd3f2f4aef",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "scripts/compare-apple.mjs",
+      "exported": "awct-apple/experiment/original-scripts/compare-apple.mjs",
+      "sha256": "56edace11111bb74a966b0c318f1c66f60b799af855e3fcfb0ac67edc24938c7",
+      "originalSha256": "56edace11111bb74a966b0c318f1c66f60b799af855e3fcfb0ac67edc24938c7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/correct.py",
+      "exported": "awct-apple/experiment/reference-inputs/correct.py",
+      "sha256": "9baffc90ee72ca961afb90275176d95043d2d496d9fc832d662b26d946e75155",
+      "originalSha256": "9baffc90ee72ca961afb90275176d95043d2d496d9fc832d662b26d946e75155",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/dom.html",
+      "exported": "awct-apple/experiment/reference-inputs/dom.html",
+      "sha256": "6c882ab087e45c3b98a9c5bdeabf13f9baa56bc4c1de1bd45edd77a11e261786",
+      "originalSha256": "6c882ab087e45c3b98a9c5bdeabf13f9baa56bc4c1de1bd45edd77a11e261786",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/emphasis.py",
+      "exported": "awct-apple/experiment/reference-inputs/emphasis.py",
+      "sha256": "8e3e19d4b7bbad17790f869fc10e1df6a10cbc6e651fda87defb7b84c52f4658",
+      "originalSha256": "8e3e19d4b7bbad17790f869fc10e1df6a10cbc6e651fda87defb7b84c52f4658",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/extract-navigation.py",
+      "exported": "awct-apple/experiment/reference-inputs/extract-navigation.py",
+      "sha256": "b2e9fe24faab9179339e8e10abe0767da8bc8752d2aff4b8ed6b5c37859a388f",
+      "originalSha256": "b2e9fe24faab9179339e8e10abe0767da8bc8752d2aff4b8ed6b5c37859a388f",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/film-component.py",
+      "exported": "awct-apple/experiment/reference-inputs/film-component.py",
+      "sha256": "dd4f89d804cbc7bd5c272f24cd64c6c064a65ade576205a8c23418e78ae7feed",
+      "originalSha256": "dd4f89d804cbc7bd5c272f24cd64c6c064a65ade576205a8c23418e78ae7feed",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/grid.py",
+      "exported": "awct-apple/experiment/reference-inputs/grid.py",
+      "sha256": "f0288d7ef97ba9e869fde56a2cb0205518f2b0049a3696a73c5bddd7f2909354",
+      "originalSha256": "f0288d7ef97ba9e869fde56a2cb0205518f2b0049a3696a73c5bddd7f2909354",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/highlights.py",
+      "exported": "awct-apple/experiment/reference-inputs/highlights.py",
+      "sha256": "1f45127dd596dcda819c27cf9196cc630c9d06deef25531ac7b713bc9a6586f8",
+      "originalSha256": "1f45127dd596dcda819c27cf9196cc630c9d06deef25531ac7b713bc9a6586f8",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/inventory.json",
+      "exported": "awct-apple/experiment/reference-inputs/inventory.json",
+      "sha256": "a25f0bff447b91c8c11bef77e200b1e4e018f0993e09f1a81a828b03d46ee8c5",
+      "originalSha256": "a25f0bff447b91c8c11bef77e200b1e4e018f0993e09f1a81a828b03d46ee8c5",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/reorder.py",
+      "exported": "awct-apple/experiment/reference-inputs/reorder.py",
+      "sha256": "57216561a946e57c22938418bccdbb0c1d66446faa67e89165751149a72d7191",
+      "originalSha256": "57216561a946e57c22938418bccdbb0c1d66446faa67e89165751149a72d7191",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/section-montage.mjs",
+      "exported": "awct-apple/experiment/reference-inputs/section-montage.mjs",
+      "sha256": "afe55c201fce1b1f49cfe9cd39eb2957209d08d5e7c408084f1737b9fc5af3b7",
+      "originalSha256": "afe55c201fce1b1f49cfe9cd39eb2957209d08d5e7c408084f1737b9fc5af3b7",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/source.css",
+      "exported": "awct-apple/experiment/reference-inputs/source.css",
+      "sha256": "9e3b97d7c5a79e358630623e6b5851c18c1d3888ebd243a96544862af9ac408d",
+      "originalSha256": "9e3b97d7c5a79e358630623e6b5851c18c1d3888ebd243a96544862af9ac408d",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    },
+    {
+      "original": "temp/apple/source.html",
+      "exported": "awct-apple/experiment/reference-inputs/source.html",
+      "sha256": "22790e9f801fcf4584a93e7476c3792c753b30a4b66461809d843de174c38028",
+      "originalSha256": "22790e9f801fcf4584a93e7476c3792c753b30a4b66461809d843de174c38028",
+      "redactedMachinePaths": false,
+      "exportOnlyAdjustedConfiguration": false
+    }
+  ],
+  "npmCiDryRun": {
+    "exitCode": 0,
+    "flags": [
+      "--dry-run",
+      "--ignore-scripts",
+      "--offline",
+      "--no-audit",
+      "--no-fund"
+    ],
+    "note": "Lockfile consistency verified. Dependencies were not extracted; no fresh production build or browser launch was run."
+  },
+  "typeScriptVerification": {
+    "errors": 0,
+    "mode": "No-emit semantic TypeScript check of exported source, using original locked dependency installations through an in-memory module resolver. No original files or compiler outputs were written."
+  },
+  "privacyScan": {
+    "result": "No detected credentials or machine user paths in included text. Environment/private settings excluded by allowlist. Public website content retained. Apple --sk-* CSS custom properties were reviewed as false positives, not secrets."
+  },
+  "verificationLimits": [
+    "No fresh dependency extraction or production build performed.",
+    "Static literal asset/import checks plus TypeScript do not exercise every interactive or dynamically assembled URL.",
+    "Historical research scripts are archived evidence with original folder assumptions; they are not launch requirements."
+  ]
+}

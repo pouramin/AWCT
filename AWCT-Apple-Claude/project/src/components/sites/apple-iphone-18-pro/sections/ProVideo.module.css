@@ -1,0 +1,14 @@
+.section { padding-bottom: 160px; }
+
+.phone { width: min(1440px, 100%); aspect-ratio: 2880 / 1940; margin: 56px auto 0; }
+.phone img, .phone video { width: 100%; height: 100%; object-fit: cover; }
+
+.body { margin: 0; }
+
+.gallery { margin-top: 160px; }
+
+@media (max-width: 734px) {
+  .section { padding-bottom: 96px; }
+  .phone { aspect-ratio: 1468 / 1028; margin-top: 32px; }
+  .gallery { margin-top: 96px; }
+}

@@ -1,0 +1,75 @@
+.banner { position: relative; z-index: 41; background: #323232; color: rgba(255, 255, 255, 0.92); }
+
+.content {
+  display: flex;
+  align-items: center;
+  max-width: 1024px;
+  min-height: 70px;
+  margin-inline: auto;
+  padding-inline: 22px;
+  box-sizing: border-box;
+}
+
+.copy {
+  flex: 1 1 auto;
+  max-width: 470px;
+  margin: 0;
+  padding-inline-end: 20px;
+  font: 400 12px/1.33337 var(--a-font-text);
+  letter-spacing: -0.01em;
+}
+
+.controls { display: flex; align-items: center; gap: 13px; margin-inline-start: auto; }
+
+.select {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 349px;
+  height: 42px;
+  padding-inline: 14px 12px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+}
+.select select { position: absolute; inset: 0; width: 100%; opacity: 0; cursor: pointer; }
+.select:focus-within { outline: 2px solid #0071e3; outline-offset: 1px; }
+.check { width: 20px; flex: none; }
+.selectLabel { flex: 1; margin-inline-start: 12px; font: 400 17px/1.23536 var(--a-font-text); letter-spacing: -0.022em; text-align: start; }
+.chevron { flex: none; color: rgba(255, 255, 255, 0.6); }
+
+.continue {
+  display: inline-flex;
+  align-items: center;
+  height: 35px;
+  padding: 0 15px;
+  border-radius: 8px;
+  background: #f5f5f7;
+  color: #000;
+  font: 400 14px/1.28577 var(--a-font-text);
+  letter-spacing: -0.016em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.continue:hover { background: #fff; }
+
+.close {
+  display: flex;
+  margin-inline-start: 13px;
+  padding: 6px;
+  border: 0;
+  background: none;
+  color: rgba(255, 255, 255, 0.8);
+  cursor: pointer;
+}
+.close:hover { color: #fff; }
+
+@media (max-width: 833px) {
+  .content { flex-wrap: wrap; padding: 16px 16px 20px; }
+  .copy { flex: 1 1 calc(100% - 44px); max-width: none; font-size: 14px; line-height: 1.28577; }
+  .close { order: 2; margin-inline-start: 8px; align-self: flex-start; }
+  .controls { order: 3; flex: 1 1 100%; margin: 28px 0 0; }
+  .select { flex: 1; width: auto; height: 44px; }
+  .continue { height: 44px; padding: 0 20px; font-size: 17px; }
+}

@@ -1,0 +1,163 @@
+/* Apple iPhone 18 Pro clone — fonts, tokens and shared typography.
+   Breakpoints follow apple.com: large ≥1069px, medium 735–1068px, small ≤734px. */
+
+@font-face { font-family: "SF Pro Display"; font-weight: 400; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-display_regular.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro Display"; font-weight: 500; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-display_medium.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro Display"; font-weight: 600; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-display_semibold.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro Text"; font-weight: 400; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-text_regular.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro Text"; font-weight: 500; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-text_medium.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro Text"; font-weight: 600; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-text_semibold.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro Text"; font-weight: 700; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-text_bold.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro Icons"; font-weight: 400; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-icons_regular.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro Icons"; font-weight: 600; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/sf-pro-icons_semibold.woff2") format("woff2"); }
+/* Arabic-script faces Apple serves on its RTL storefronts; used for Persian. */
+@font-face { font-family: "SF Pro AR Display"; font-weight: 500; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/SFProARDisplay_medium.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro AR Display"; font-weight: 600; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/SFProARDisplay_semibold.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro AR Text"; font-weight: 400; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/SFProARText_regular.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro AR Text"; font-weight: 500; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/SFProARText_medium.woff2") format("woff2"); }
+@font-face { font-family: "SF Pro AR Text"; font-weight: 600; font-display: swap; src: url("/sites/apple-iphone-18-pro/fonts/SFProARText_semibold.woff2") format("woff2"); }
+
+:root {
+  --a-font-text: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --a-font-display: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --a-black: #000;
+  --a-dark: #1d1d1f;
+  --a-light: #f5f5f7;
+  --a-white: #fff;
+  --a-gray: #86868b;
+  --a-gray-dark: #6e6e73;
+  --a-link-dark: #2997ff;
+  --a-link-light: #0066cc;
+  --a-blue: #0071e3;
+  --a-content: min(87.5vw, 1260px);
+}
+
+:root[dir="rtl"] {
+  --a-font-text: "SF Pro AR Text", "SF Pro Text", "SF Pro Icons", Tahoma, Arial, sans-serif;
+  --a-font-display: "SF Pro AR Display", "SF Pro AR Text", "SF Pro Display", "SF Pro Icons", Tahoma, Arial, sans-serif;
+}
+
+@media (max-width: 734px) {
+  :root { --a-content: calc(100vw - 46px); }
+}
+
+html { scroll-padding-top: 80px; }
+
+body {
+  margin: 0;
+  background: var(--a-black);
+  color: var(--a-dark);
+  font-family: var(--a-font-text);
+  font-size: 17px;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: -0.022em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Arabic script must never be tracked: spacing breaks letter joining. */
+:root[dir="rtl"] body,
+:root[dir="rtl"] body * { letter-spacing: 0 !important; }
+
+/* Latin brand names and numbers inside Persian copy stay readable. */
+.a-ltr { direction: ltr; unicode-bidi: isolate; }
+
+.a-content { width: var(--a-content); margin-inline: auto; }
+
+.a-sup { font-size: 0.6em; vertical-align: super; line-height: 0; position: relative; }
+.a-sup a { color: inherit; text-decoration: none; }
+.a-sup a:hover { text-decoration: underline; }
+
+.a-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* ---------- typography (values read from apple.com computed styles) ---------- */
+.t-hero-headline { font: 600 80px/1.05 var(--a-font-display); letter-spacing: -0.015em; }
+.t-eyebrow-super { font: 600 32px/1.125 var(--a-font-display); letter-spacing: 0.004em; }
+.t-section-headline { font: 600 48px/1.08349 var(--a-font-display); letter-spacing: -0.003em; }
+.t-lockup-eyebrow { font: 600 21px/1 var(--a-font-display); letter-spacing: 0.011em; color: var(--a-gray-dark); }
+.t-lockup-headline { font: 600 96px/1.04167 var(--a-font-display); letter-spacing: -0.015em; }
+.t-headline-56 { font: 600 56px/1.07143 var(--a-font-display); letter-spacing: -0.005em; }
+.t-intro { font: 600 21px/1.381 var(--a-font-display); letter-spacing: 0.011em; color: var(--a-gray); }
+.t-intro strong, .t-intro b { color: var(--a-light); font-weight: 600; }
+.t-card-headline { font: 600 28px/1.14286 var(--a-font-display); letter-spacing: 0.007em; }
+.t-callout { font: 600 21px/1.19048 var(--a-font-display); letter-spacing: 0.011em; }
+.t-caption { font: 600 17px/1.23536 var(--a-font-text); letter-spacing: -0.022em; color: var(--a-gray); }
+.t-caption strong { color: var(--a-light); }
+.t-body { font: 400 17px/1.47059 var(--a-font-text); letter-spacing: -0.022em; }
+.t-small { font: 400 14px/1.28577 var(--a-font-text); letter-spacing: -0.016em; }
+.t-stat-label { font: 600 12px/1.33337 var(--a-font-text); letter-spacing: -0.01em; color: var(--a-gray-dark); }
+.t-stat-value { font: 600 28px/1 var(--a-font-display); letter-spacing: 0.007em; }
+.t-ps-stat-value { font: 600 48px/1 var(--a-font-display); letter-spacing: -0.003em; color: var(--a-white); }
+
+@media (max-width: 1068px) {
+  .t-hero-headline { font-size: 64px; line-height: 1.0625; }
+  .t-lockup-headline { font-size: 80px; line-height: 1.05; }
+  .t-section-headline { font-size: 40px; line-height: 1.1; }
+  .t-headline-56 { font-size: 48px; line-height: 1.08349; }
+  .t-intro { font-size: 19px; line-height: 1.4211; }
+}
+
+@media (max-width: 734px) {
+  .t-hero-headline { font-size: 40px; line-height: 1.1; }
+  .t-eyebrow-super { font-size: 24px; line-height: 1.16667; }
+  .t-section-headline { font-size: 32px; line-height: 1.125; }
+  .t-lockup-eyebrow { font-size: 17px; }
+  .t-lockup-headline { font-size: 48px; line-height: 1.08349; }
+  .t-headline-56 { font-size: 40px; line-height: 1.1; }
+  .t-intro { font-size: 17px; line-height: 1.47059; }
+  .t-card-headline { font-size: 24px; line-height: 1.16667; }
+  .t-callout { font-size: 19px; }
+  .t-caption { font-size: 14px; line-height: 1.28577; }
+  .t-ps-stat-value { font-size: 40px; }
+}
+
+/* ---------- shared controls ---------- */
+.a-link { color: var(--a-link-dark); text-decoration: none; }
+.a-link:hover { text-decoration: underline; }
+.a-light .a-link, .a-link--light { color: var(--a-link-light); }
+.a-link-chevron::after { content: "\00a0›"; display: inline-block; }
+:root[dir="rtl"] .a-link-chevron::after { content: "\00a0‹"; }
+
+.a-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 11px 21px;
+  border: 0;
+  border-radius: 980px;
+  background: var(--a-blue);
+  color: #fff;
+  font: 400 17px/1.17648 var(--a-font-text);
+  letter-spacing: -0.022em;
+  text-decoration: none;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.a-button:hover { background: #0077ed; }
+.a-button:focus-visible, .a-focus:focus-visible { outline: 2px solid #0071e3; outline-offset: 2px; }
+
+/* Chevron orientation. "next"/"prev" mirror in RTL so they follow reading direction. */
+.i-next { transform: none; }
+.i-prev { transform: rotate(180deg); }
+.i-up { transform: rotate(-90deg); }
+.i-down { transform: rotate(90deg); }
+:root[dir="rtl"] .i-next { transform: rotate(180deg); }
+:root[dir="rtl"] .i-prev { transform: none; }
+:root[dir="rtl"] .i-flip { transform: scaleX(-1); }
+.i-next, .i-prev, .i-flip { display: inline-block; }
+
+.a-scroll-lock, .a-scroll-lock body { overflow: hidden; }
+
+/* Media helpers: pictures fill their box. */
+.a-media { display: block; width: 100%; height: 100%; }
+.a-media img, .a-media video { display: block; width: 100%; height: 100%; object-fit: cover; }
+
+/* Scroll reveal used by most section copy on apple.com. */
+.a-reveal { opacity: 0; transform: translateY(20px); transition: opacity 0.8s ease, transform 0.8s ease; }
+.a-reveal.is-visible { opacity: 1; transform: none; }
+@media (prefers-reduced-motion: reduce) {
+  .a-reveal { opacity: 1; transform: none; transition: none; }
+}

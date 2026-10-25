@@ -1,0 +1,19 @@
+{
+  "name": "apple-iphone-local-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --webpack -p 3002",
+    "build": "next build --webpack",
+    "lint": "eslint src",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run lint && npm run typecheck && npm run build",
+    "start": "next start -p 3002"
+  },
+  "dependencies": {
+    "hls.js": "^1.7.3",
+    "next": "16.3.5",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  }
+}

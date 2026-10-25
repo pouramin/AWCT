@@ -1,0 +1,40 @@
+
+> nike-local-clone@1.0.0 check
+> npm run lint && npm run typecheck && npm run build
+
+
+> nike-local-clone@1.0.0 lint
+> eslint src
+
+
+> nike-local-clone@1.0.0 typecheck
+> tsc --noEmit
+
+
+> nike-local-clone@1.0.0 build
+> next build --webpack
+
+▲ Next.js 16.3.5 (webpack)
+✓ Running next.config.ts took 162ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 11.7s
+  Running TypeScript ...
+  Finished TypeScript in 6.2s ...
+  Collecting page data using 5 workers ...
+  Generating static pages using 5 workers (0/4) ...
+  Generating static pages using 5 workers (1/4) 
+  Generating static pages using 5 workers (2/4) 
+  Generating static pages using 5 workers (3/4) 
+✓ Generating static pages using 5 workers (4/4) in 3.0s
+  Finalizing page optimization ...
+  Collecting build traces ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+└ ○ /w/mens-shoes-nik1zy7ok
+
+
+○  (Static)  prerendered as static content
+

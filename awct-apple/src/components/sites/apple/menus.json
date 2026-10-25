@@ -1,0 +1,1081 @@
+[
+  {
+    "name": "Store",
+    "groups": [
+      {
+        "title": "Shop",
+        "links": [
+          {
+            "text": "Shop the Latest",
+            "href": "/us/shop/goto/store"
+          },
+          {
+            "text": "Mac",
+            "href": "/us/shop/goto/buy_mac"
+          },
+          {
+            "text": "iPad",
+            "href": "/us/shop/goto/buy_ipad"
+          },
+          {
+            "text": "iPhone",
+            "href": "/us/shop/goto/buy_iphone"
+          },
+          {
+            "text": "Apple Watch",
+            "href": "/us/shop/goto/buy_watch"
+          },
+          {
+            "text": "Apple Vision Pro",
+            "href": "/us/shop/goto/buy_vision"
+          },
+          {
+            "text": "AirPods",
+            "href": "/us/shop/goto/airpods/accessories"
+          },
+          {
+            "text": "Home",
+            "href": "/us/shop/goto/buy_home"
+          },
+          {
+            "text": "Accessories",
+            "href": "/us/shop/goto/buy_accessories"
+          }
+        ]
+      },
+      {
+        "title": "Quick Links",
+        "links": [
+          {
+            "text": "Find a Store",
+            "href": "/retail/"
+          },
+          {
+            "text": "Order Status",
+            "href": "/us/shop/goto/order/list"
+          },
+          {
+            "text": "Apple Upgrade",
+            "href": "/us/shop/goto/apple_upgrade"
+          },
+          {
+            "text": "Apple Trade In",
+            "href": "/us/shop/goto/trade_in"
+          },
+          {
+            "text": "Financing",
+            "href": "/us/shop/goto/payment_plan"
+          },
+          {
+            "text": "Personal Setup",
+            "href": "/us/shop/goto/personal_setup"
+          }
+        ]
+      },
+      {
+        "title": "Shop Special Stores",
+        "links": [
+          {
+            "text": "Certified Refurbished",
+            "href": "/us/shop/goto/special_deals"
+          },
+          {
+            "text": "Education",
+            "href": "/us/shop/goto/educationrouting"
+          },
+          {
+            "text": "Business",
+            "href": "/retail/business/"
+          },
+          {
+            "text": "Veterans and Military",
+            "href": "/us/shop/goto/eppstore/veteransandmilitary"
+          },
+          {
+            "text": "Government",
+            "href": "/r/store/government/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mac",
+    "groups": [
+      {
+        "title": "Explore Mac",
+        "links": [
+          {
+            "text": "Explore All Mac",
+            "href": "/mac/"
+          },
+          {
+            "text": "MacBook Neo",
+            "href": "/macbook-neo/"
+          },
+          {
+            "text": "MacBook Air",
+            "href": "/macbook-air/"
+          },
+          {
+            "text": "MacBook Pro",
+            "href": "/macbook-pro/"
+          },
+          {
+            "text": "iMac",
+            "href": "/imac/"
+          },
+          {
+            "text": "Mac mini",
+            "href": "/mac-mini/"
+          },
+          {
+            "text": "Mac Studio",
+            "href": "/mac-studio/"
+          },
+          {
+            "text": "Displays",
+            "href": "/displays/"
+          },
+          {
+            "text": "Compare Mac",
+            "href": "/mac/compare/"
+          },
+          {
+            "text": "Switch from PC to Mac",
+            "href": "/mac/mac-does-that/"
+          }
+        ]
+      },
+      {
+        "title": "Shop Mac",
+        "links": [
+          {
+            "text": "Shop Mac",
+            "href": "/us/shop/goto/buy_mac"
+          },
+          {
+            "text": "Help Me Choose",
+            "href": "/mac/best-mac/"
+          },
+          {
+            "text": "Mac Accessories",
+            "href": "/us/shop/goto/mac/accessories"
+          },
+          {
+            "text": "Apple Upgrade",
+            "href": "/us/shop/goto/apple_upgrade"
+          },
+          {
+            "text": "Apple Trade In",
+            "href": "/us/shop/goto/trade_in#mac"
+          },
+          {
+            "text": "Financing",
+            "href": "/us/shop/goto/payment_plan"
+          },
+          {
+            "text": "Personal Setup",
+            "href": "/us/shop/goto/personal_setup"
+          }
+        ]
+      },
+      {
+        "title": "More from Mac",
+        "links": [
+          {
+            "text": "Mac Support",
+            "href": "https://support.apple.com/mac?cid=gn-ols-mac-psp-prodfly"
+          },
+          {
+            "text": "AppleCare",
+            "href": "/applecare/?filter=mac"
+          },
+          {
+            "text": "macOS 27",
+            "href": "/os/macos/"
+          },
+          {
+            "text": "Apple Intelligence and Siri",
+            "href": "/apple-intelligence/"
+          },
+          {
+            "text": "Apps by Apple",
+            "href": "/apps/"
+          },
+          {
+            "text": "Apple Creator Studio",
+            "href": "/apple-creator-studio/"
+          },
+          {
+            "text": "Better with iPhone",
+            "href": "/macos/continuity/"
+          },
+          {
+            "text": "iCloud+",
+            "href": "/icloud/"
+          },
+          {
+            "text": "Mac for Business",
+            "href": "/business/mac/"
+          },
+          {
+            "text": "Education",
+            "href": "/education/"
+          },
+          {
+            "text": "Apple at Work",
+            "href": "/business/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "iPad",
+    "groups": [
+      {
+        "title": "Explore iPad",
+        "links": [
+          {
+            "text": "Explore All iPad",
+            "href": "/ipad/"
+          },
+          {
+            "text": "iPad Pro",
+            "href": "/ipad-pro/"
+          },
+          {
+            "text": "iPad Air",
+            "href": "/ipad-air/"
+          },
+          {
+            "text": "iPad",
+            "href": "/ipad-11/"
+          },
+          {
+            "text": "iPad mini",
+            "href": "/ipad-mini/"
+          },
+          {
+            "text": "Apple Pencil",
+            "href": "/apple-pencil/"
+          },
+          {
+            "text": "Keyboards",
+            "href": "/ipad-keyboards/"
+          },
+          {
+            "text": "Compare iPad",
+            "href": "/ipad/compare/"
+          }
+        ]
+      },
+      {
+        "title": "Shop iPad",
+        "links": [
+          {
+            "text": "Shop iPad",
+            "href": "/us/shop/goto/buy_ipad"
+          },
+          {
+            "text": "iPad Accessories",
+            "href": "/us/shop/goto/ipad/accessories"
+          },
+          {
+            "text": "Apple Upgrade",
+            "href": "/us/shop/goto/apple_upgrade"
+          },
+          {
+            "text": "Apple Trade In",
+            "href": "/us/shop/goto/trade_in#ipad"
+          },
+          {
+            "text": "Financing",
+            "href": "/us/shop/goto/payment_plan"
+          },
+          {
+            "text": "Personal Setup",
+            "href": "/us/shop/goto/personal_setup"
+          }
+        ]
+      },
+      {
+        "title": "More from iPad",
+        "links": [
+          {
+            "text": "iPad Support",
+            "href": "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-prodfly"
+          },
+          {
+            "text": "AppleCare",
+            "href": "/applecare/?filter=ipad"
+          },
+          {
+            "text": "iPadOS 27",
+            "href": "/os/ipados/"
+          },
+          {
+            "text": "Apple Intelligence and Siri",
+            "href": "/apple-intelligence/"
+          },
+          {
+            "text": "Apps by Apple",
+            "href": "/apps/"
+          },
+          {
+            "text": "Apple Creator Studio",
+            "href": "/apple-creator-studio/"
+          },
+          {
+            "text": "iCloud+",
+            "href": "/icloud/"
+          },
+          {
+            "text": "Education",
+            "href": "/education/"
+          },
+          {
+            "text": "Apple at Work",
+            "href": "/business/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "iPhone",
+    "groups": [
+      {
+        "title": "Explore iPhone",
+        "links": [
+          {
+            "text": "Explore All iPhone",
+            "href": "/iphone/"
+          },
+          {
+            "text": "iPhone Duo",
+            "href": "/iphone-duo/"
+          },
+          {
+            "text": "iPhone 18 Pro",
+            "href": "/iphone-18-pro/"
+          },
+          {
+            "text": "iPhone Air",
+            "href": "/iphone-air/"
+          },
+          {
+            "text": "iPhone 17",
+            "href": "/iphone-17/"
+          },
+          {
+            "text": "iPhone 17e",
+            "href": "/iphone-17e/"
+          },
+          {
+            "text": "iPhone 16",
+            "href": "/us/shop/goto/buy_iphone/iphone_16"
+          },
+          {
+            "text": "Compare iPhone",
+            "href": "/iphone/compare/"
+          },
+          {
+            "text": "Switch from Android",
+            "href": "/iphone/switch/"
+          }
+        ]
+      },
+      {
+        "title": "Shop iPhone",
+        "links": [
+          {
+            "text": "Shop iPhone",
+            "href": "/us/shop/goto/buy_iphone"
+          },
+          {
+            "text": "iPhone Accessories",
+            "href": "/us/shop/goto/iphone/accessories"
+          },
+          {
+            "text": "Apple Upgrade",
+            "href": "/us/shop/goto/apple_upgrade"
+          },
+          {
+            "text": "Apple Trade In",
+            "href": "/us/shop/goto/trade_in#iphone"
+          },
+          {
+            "text": "Carrier Deals at Apple",
+            "href": "/us/shop/goto/buy_iphone/carrier_offers"
+          },
+          {
+            "text": "Financing",
+            "href": "/us/shop/goto/payment_plan"
+          },
+          {
+            "text": "Personal Setup",
+            "href": "/us/shop/goto/personal_setup"
+          }
+        ]
+      },
+      {
+        "title": "More from iPhone",
+        "links": [
+          {
+            "text": "iPhone Support",
+            "href": "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-prodfly"
+          },
+          {
+            "text": "AppleCare",
+            "href": "/applecare/?filter=iphone"
+          },
+          {
+            "text": "iOS 27",
+            "href": "/os/ios/"
+          },
+          {
+            "text": "Apple Intelligence and Siri",
+            "href": "/apple-intelligence/"
+          },
+          {
+            "text": "Apps by Apple",
+            "href": "/apps/"
+          },
+          {
+            "text": "iPhone Privacy",
+            "href": "/privacy/"
+          },
+          {
+            "text": "Better with Mac",
+            "href": "/macos/continuity/"
+          },
+          {
+            "text": "iCloud+",
+            "href": "/icloud/"
+          },
+          {
+            "text": "Wallet, Pay, Card",
+            "href": "/wallet/"
+          },
+          {
+            "text": "Apple at Work",
+            "href": "/business/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Watch",
+    "groups": [
+      {
+        "title": "Explore Watch",
+        "links": [
+          {
+            "text": "Explore All Apple Watch",
+            "href": "/watch/"
+          },
+          {
+            "text": "Apple Watch Series 12",
+            "href": "/apple-watch-series-12/"
+          },
+          {
+            "text": "Apple Watch Ultra 4",
+            "href": "/apple-watch-ultra-4/"
+          },
+          {
+            "text": "Apple Watch SE 3",
+            "href": "/apple-watch-se-3/"
+          },
+          {
+            "text": "Apple Watch Nike",
+            "href": "/apple-watch-nike/"
+          },
+          {
+            "text": "Apple Watch Hermès",
+            "href": "/apple-watch-hermes/"
+          },
+          {
+            "text": "Compare Watch",
+            "href": "/watch/compare/"
+          },
+          {
+            "text": "Why Apple Watch",
+            "href": "/watch/why-apple-watch/"
+          }
+        ]
+      },
+      {
+        "title": "Shop Watch",
+        "links": [
+          {
+            "text": "Shop Apple Watch",
+            "href": "/us/shop/goto/buy_watch"
+          },
+          {
+            "text": "Apple Watch Bands",
+            "href": "/us/shop/goto/watch/bands"
+          },
+          {
+            "text": "Apple Watch Accessories",
+            "href": "/us/shop/goto/watch/accessories"
+          },
+          {
+            "text": "Apple Upgrade",
+            "href": "/us/shop/goto/apple_upgrade"
+          },
+          {
+            "text": "Apple Trade In",
+            "href": "/us/shop/goto/trade_in#watch"
+          },
+          {
+            "text": "Financing",
+            "href": "/us/shop/goto/payment_plan"
+          },
+          {
+            "text": "Personal Setup",
+            "href": "/us/shop/goto/personal_setup"
+          }
+        ]
+      },
+      {
+        "title": "More from Watch",
+        "links": [
+          {
+            "text": "Apple Watch Support",
+            "href": "https://support.apple.com/watch?cid=gn-ols-watch-psp-prodfly"
+          },
+          {
+            "text": "AppleCare",
+            "href": "/applecare/?filter=watch"
+          },
+          {
+            "text": "watchOS 27",
+            "href": "/os/watchos/"
+          },
+          {
+            "text": "Apple Watch For Your Kids",
+            "href": "/apple-watch-for-your-kids/"
+          },
+          {
+            "text": "Apps by Apple",
+            "href": "/apps/"
+          },
+          {
+            "text": "Apple Fitness+",
+            "href": "/apple-fitness-plus/"
+          },
+          {
+            "text": "Education",
+            "href": "/education/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Vision",
+    "groups": [
+      {
+        "title": "Explore Vision",
+        "links": [
+          {
+            "text": "Explore Apple Vision Pro",
+            "href": "/apple-vision-pro/"
+          },
+          {
+            "text": "Tech Specs",
+            "href": "/apple-vision-pro/specs/"
+          }
+        ]
+      },
+      {
+        "title": "Shop Vision",
+        "links": [
+          {
+            "text": "Shop Apple Vision Pro",
+            "href": "/us/shop/goto/buy_vision"
+          },
+          {
+            "text": "Apple Vision Pro Accessories",
+            "href": "/us/shop/goto/vision/accessories"
+          },
+          {
+            "text": "Book a Demo",
+            "href": "/retail/instore-shopping-session/session-selection/?topic=visionpro"
+          },
+          {
+            "text": "Financing",
+            "href": "/us/shop/goto/payment_plan"
+          },
+          {
+            "text": "Personal Setup",
+            "href": "/us/shop/goto/personal_setup"
+          }
+        ]
+      },
+      {
+        "title": "More from Vision",
+        "links": [
+          {
+            "text": "Apple Vision Pro Support",
+            "href": "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-prodfly"
+          },
+          {
+            "text": "AppleCare",
+            "href": "/applecare/?filter=apple-vision-pro"
+          },
+          {
+            "text": "visionOS 27",
+            "href": "/os/visionos/"
+          },
+          {
+            "text": "Apple Vision Pro for Enterprise",
+            "href": "/business/enterprise/apple-vision-pro/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "AirPods",
+    "groups": [
+      {
+        "title": "Explore AirPods",
+        "links": [
+          {
+            "text": "Explore All AirPods",
+            "href": "/airpods/"
+          },
+          {
+            "text": "AirPods 5",
+            "href": "/airpods-5/"
+          },
+          {
+            "text": "AirPods Pro 3",
+            "href": "/airpods-pro/"
+          },
+          {
+            "text": "AirPods Max 2",
+            "href": "/airpods-max/"
+          },
+          {
+            "text": "Compare AirPods",
+            "href": "/airpods/compare/"
+          }
+        ]
+      },
+      {
+        "title": "Shop AirPods",
+        "links": [
+          {
+            "text": "Shop AirPods 5",
+            "href": "/us/shop/goto/buy_airpods/airpods_5"
+          },
+          {
+            "text": "Shop AirPods Pro 3",
+            "href": "/us/shop/goto/buy_airpods/airpods_pro_3"
+          },
+          {
+            "text": "Shop AirPods Max 2",
+            "href": "/us/shop/goto/buy_airpods/airpods_max_2"
+          },
+          {
+            "text": "AirPods Accessories",
+            "href": "/us/shop/goto/airpods/accessories"
+          }
+        ]
+      },
+      {
+        "title": "More from AirPods",
+        "links": [
+          {
+            "text": "AirPods Support",
+            "href": "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-prodfly"
+          },
+          {
+            "text": "AppleCare",
+            "href": "/applecare/?filter=headphones"
+          },
+          {
+            "text": "Hearing Health",
+            "href": "/airpods-pro/hearing-health/"
+          },
+          {
+            "text": "Apple Music",
+            "href": "/apple-music/"
+          },
+          {
+            "text": "Apple Fitness+",
+            "href": "/apple-fitness-plus/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home",
+    "groups": [
+      {
+        "title": "Explore Home",
+        "links": [
+          {
+            "text": "Explore Home",
+            "href": "/home/"
+          },
+          {
+            "text": "Apple HomeView",
+            "href": "/apple-homeview/"
+          },
+          {
+            "text": "Apple TV 4K",
+            "href": "/apple-tv-4k/"
+          },
+          {
+            "text": "HomePod",
+            "href": "/homepod-2nd-generation/"
+          },
+          {
+            "text": "HomePod mini 2",
+            "href": "/homepod-mini/"
+          }
+        ]
+      },
+      {
+        "title": "Shop Home",
+        "links": [
+          {
+            "text": "Shop Home",
+            "href": "/us/shop/goto/buy_home"
+          },
+          {
+            "text": "Shop Apple Home Collection",
+            "href": "/us/shop/goto/home_accessories/home_collection"
+          },
+          {
+            "text": "Shop Home Accessories",
+            "href": "/us/shop/goto/home_accessories"
+          },
+          {
+            "text": "Personal Setup",
+            "href": "/us/shop/goto/personal_setup"
+          }
+        ]
+      },
+      {
+        "title": "More from Home",
+        "links": [
+          {
+            "text": "Apple TV Support",
+            "href": "https://support.apple.com/apple-tv?cid=gn-ols-appletv-psp-prodfly"
+          },
+          {
+            "text": "HomePod Support",
+            "href": "https://support.apple.com/homepod?cid=gn-ols-homepod-psp-prodfly"
+          },
+          {
+            "text": "AppleCare for Apple TV",
+            "href": "/applecare/?filter=tv"
+          },
+          {
+            "text": "AppleCare for HomePod",
+            "href": "/applecare/?filter=homepod"
+          },
+          {
+            "text": "Apple TV app",
+            "href": "/apple-tv-app/"
+          },
+          {
+            "text": "Apple TV",
+            "href": "/apple-tv/"
+          },
+          {
+            "text": "Home app",
+            "href": "/home-app/"
+          },
+          {
+            "text": "Apple Music",
+            "href": "/apple-music/"
+          },
+          {
+            "text": "AirPlay",
+            "href": "/airplay/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Entertainment",
+    "groups": [
+      {
+        "title": "Explore Entertainment",
+        "links": [
+          {
+            "text": "Explore Entertainment",
+            "href": "/services/"
+          },
+          {
+            "text": "Apple One",
+            "href": "/apple-one/"
+          },
+          {
+            "text": "Apple TV",
+            "href": "/apple-tv/"
+          },
+          {
+            "text": "Apple Music",
+            "href": "/apple-music/"
+          },
+          {
+            "text": "Apple Arcade",
+            "href": "/apple-arcade/"
+          },
+          {
+            "text": "Apple Fitness+",
+            "href": "/apple-fitness-plus/"
+          },
+          {
+            "text": "Apple News+",
+            "href": "/apple-news/"
+          },
+          {
+            "text": "Apple Podcasts",
+            "href": "/apple-podcasts/"
+          },
+          {
+            "text": "Apple Books",
+            "href": "/apple-books/"
+          },
+          {
+            "text": "App Store",
+            "href": "/app-store/"
+          }
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          {
+            "text": "Apple TV Support",
+            "href": "https://support.apple.com/tv?cid=gn-ols-tv-psp-prodfly"
+          },
+          {
+            "text": "Apple Music Support",
+            "href": "https://support.apple.com/music?cid=gn-ols-music-psp-prodfly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Accessories",
+    "groups": [
+      {
+        "title": "Shop by Product",
+        "links": [
+          {
+            "text": "Shop All Accessories",
+            "href": "/us/shop/goto/accessories/all"
+          },
+          {
+            "text": "iPhone",
+            "href": "/us/shop/goto/iphone/accessories"
+          },
+          {
+            "text": "iPad",
+            "href": "/us/shop/goto/ipad/accessories"
+          },
+          {
+            "text": "Mac",
+            "href": "/us/shop/goto/mac/accessories"
+          },
+          {
+            "text": "Apple Watch",
+            "href": "/us/shop/goto/watch/accessories"
+          },
+          {
+            "text": "Apple Vision Pro",
+            "href": "/us/shop/goto/vision/accessories"
+          },
+          {
+            "text": "AirPods",
+            "href": "/us/shop/goto/airpods/accessories"
+          },
+          {
+            "text": "Home",
+            "href": "/us/shop/goto/home_accessories"
+          },
+          {
+            "text": "AirTag",
+            "href": "/us/shop/goto/airtag/accessories"
+          },
+          {
+            "text": "Beats",
+            "href": "/us/shop/goto/beats/accessories"
+          }
+        ]
+      },
+      {
+        "title": "Shop by Category",
+        "links": [
+          {
+            "text": "Headphones & Speakers",
+            "href": "/us/shop/goto/accessories/all/headphones_speakers"
+          },
+          {
+            "text": "Chargers & Adapters",
+            "href": "/us/shop/goto/accessories/all/chargers_adapters"
+          },
+          {
+            "text": "Smart Home Essentials",
+            "href": "/us/shop/goto/accessories/all/homekit"
+          },
+          {
+            "text": "Cases & Protection",
+            "href": "/us/shop/goto/accessories/all/cases_protection"
+          },
+          {
+            "text": "Content Creation",
+            "href": "/us/shop/goto/accessories/all/content_creation"
+          },
+          {
+            "text": "Gaming",
+            "href": "/us/shop/goto/accessories/all/gaming"
+          },
+          {
+            "text": "Hard Drives & Storage",
+            "href": "/us/shop/goto/accessories/all/drives_storage"
+          },
+          {
+            "text": "Mice & Keyboards",
+            "href": "/us/shop/goto/accessories/all/mice_keyboards"
+          },
+          {
+            "text": "Health & Fitness",
+            "href": "/us/shop/goto/accessories/all/health_fitness"
+          },
+          {
+            "text": "Office Accessories",
+            "href": "/us/shop/goto/accessories/all/office"
+          },
+          {
+            "text": "Software",
+            "href": "/us/shop/goto/accessories/all/software"
+          }
+        ]
+      },
+      {
+        "title": "More to Explore",
+        "links": [
+          {
+            "text": "New Arrivals",
+            "href": "/us/shop/goto/accessories/all/new_arrivals"
+          },
+          {
+            "text": "Made by Apple",
+            "href": "/us/shop/goto/accessories/all/made_by_apple"
+          },
+          {
+            "text": "Accessibility",
+            "href": "/us/shop/goto/accessories/all/accessibility"
+          },
+          {
+            "text": "Assistive Technologies",
+            "href": "/accessibility/assistive-technologies/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Support",
+    "groups": [
+      {
+        "title": "Explore Support",
+        "links": [
+          {
+            "text": "iPhone",
+            "href": "https://support.apple.com/iphone?cid=gn-ols-iphone-psp-explore"
+          },
+          {
+            "text": "Mac",
+            "href": "https://support.apple.com/mac?cid=gn-ols-mac-psp-explore"
+          },
+          {
+            "text": "iPad",
+            "href": "https://support.apple.com/ipad?cid=gn-ols-ipad-psp-explore"
+          },
+          {
+            "text": "Watch",
+            "href": "https://support.apple.com/watch?cid=gn-ols-watch-psp-explore"
+          },
+          {
+            "text": "Apple Vision Pro",
+            "href": "https://support.apple.com/apple-vision-pro?cid=gn-nav-vision-psp-explore"
+          },
+          {
+            "text": "AirPods",
+            "href": "https://support.apple.com/airpods?cid=gn-ols-airpods-psp-explore"
+          },
+          {
+            "text": "Music",
+            "href": "https://support.apple.com/music?cid=gn-ols-music-psp-explore"
+          },
+          {
+            "text": "TV",
+            "href": "https://support.apple.com/tv?cid=gn-ols-tv-psp-explore"
+          },
+          {
+            "text": "Explore Support",
+            "href": "https://support.apple.com/?cid=gn-ols-home-hp-explore"
+          }
+        ]
+      },
+      {
+        "title": "Get Help",
+        "links": [
+          {
+            "text": "Community",
+            "href": "https://discussions.apple.com/welcome?cid=gn-com-community-lp-get_help"
+          },
+          {
+            "text": "Check Coverage",
+            "href": "https://checkcoverage.apple.com/us/en?cid=gn-ols-checkcoverage-lp-get_help"
+          },
+          {
+            "text": "Genius Bar",
+            "href": "/retail/geniusbar/"
+          },
+          {
+            "text": "Repair",
+            "href": "https://support.apple.com/repair?cid=gn-ols-repair-lp-get_help"
+          }
+        ]
+      },
+      {
+        "title": "Helpful Topics",
+        "links": [
+          {
+            "text": "Get AppleCare",
+            "href": "/applecare/"
+          },
+          {
+            "text": "Apple Account and Password",
+            "href": "https://support.apple.com/apple-account?cid=gn-ols-appleaccount-psp-helpful_topics"
+          },
+          {
+            "text": "Billing & Subscriptions",
+            "href": "https://support.apple.com/billing?cid=gn-ols-billing-collection-helpful_topics"
+          },
+          {
+            "text": "Accessibility",
+            "href": "https://support.apple.com/accessibility?cid=gn-ols-accessibility-psp-helpful_topics"
+          }
+        ]
+      }
+    ]
+  }
+]

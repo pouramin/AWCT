@@ -1,0 +1,29 @@
+.family { overflow: clip; background: #1d1d1f; color: #f5f5f7; }
+
+.intro { padding-top: 144px; }
+.hero { display: block; width: min(705px, var(--a-content)); margin: 64px auto 0; }
+.hero img { display: block; width: 100%; height: auto; }
+.body { margin: 0; }
+
+.block { padding-top: 160px; }
+.last { padding-bottom: 160px; }
+
+.header { margin-bottom: 48px; }
+.header h2 { margin: 0; }
+.headerRow { display: flex; align-items: flex-end; justify-content: space-between; gap: 32px; }
+.headerAside { margin-top: 24px; }
+
+.note { margin: 0; color: #86868b; font: 400 12px/1.33337 var(--a-font-text); }
+.cta { display: inline-block; margin-top: 12px; color: #2997ff; font: 400 17px/1.23536 var(--a-font-text); text-decoration: none; white-space: nowrap; }
+.headerRow .cta { margin: 0 0 4px; }
+.cta:hover { text-decoration: underline; }
+
+@media (max-width: 734px) {
+  .intro { padding-top: 80px; }
+  .hero { margin-top: 40px; }
+  .block { padding-top: 96px; }
+  .last { padding-bottom: 96px; }
+  .header { margin-bottom: 32px; }
+  .headerRow { flex-direction: column; align-items: flex-start; gap: 16px; }
+  .cta { white-space: normal; }
+}

@@ -1,0 +1,4 @@
+{
+  "errors": 0,
+  "mode": "No-emit semantic TypeScript check of exported source, using original locked dependency installations through an in-memory module resolver. No original files or compiler outputs were written."
+}

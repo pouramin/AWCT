@@ -1,0 +1,7 @@
+.copy { text-align: center; }
+.body { margin: 0; }
+.cta { display: inline-block; margin-top: 24px; color: #2997ff; font: 400 17px/1.23536 var(--a-font-text); text-decoration: none; }
+.cta:hover { text-decoration: underline; }
+
+.image { display: block; width: min(840px, var(--a-content)); margin: 56px auto 0; }
+.image img { display: block; width: 100%; height: auto; }

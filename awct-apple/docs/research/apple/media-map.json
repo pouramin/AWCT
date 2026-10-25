@@ -1,0 +1,198 @@
+{
+  "jobs": [
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2",
+      "sf-pro-text_semibold.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2",
+      "sf-pro-text_regular.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff2",
+      "sf-pro-display_semibold.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_regular.woff2",
+      "sf-pro-icons_regular.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_medium.woff2",
+      "sf-pro-text_medium.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_medium.woff2",
+      "sf-pro-icons_medium.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium.woff2",
+      "sf-pro-display_medium.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_semibold.woff2",
+      "sf-pro-icons_semibold.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular-italic.woff2",
+      "sf-pro-text_regular-italic.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_light.woff2",
+      "sf-pro-icons_light.woff2"
+    ],
+    [
+      "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light.woff2",
+      "sf-pro-text_light.woff2"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/hero/large_2x.mp4",
+      "video-hero-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/hero/small_2x.mp4",
+      "video-hero-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-camera/large_2x.mp4",
+      "video-highlights-camera-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-camera/small_2x.mp4",
+      "video-highlights-camera-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/e92adf1e-6ecf-423b-ad9b-15223f67b546/anim/highlights-battery/large_2x.mp4",
+      "video-highlights-battery-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/e92adf1e-6ecf-423b-ad9b-15223f67b546/anim/highlights-battery/small_2x.mp4",
+      "video-highlights-battery-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-colors/large_2x.mp4",
+      "video-highlights-colors-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-colors/small_2x.mp4",
+      "video-highlights-colors-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-chip/large_2x.mp4",
+      "video-highlights-chip-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/highlights-chip/small_2x.mp4",
+      "video-highlights-chip-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/viewer-aperture/large_2x.mp4",
+      "video-viewer-aperture-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/viewer-aperture/small_2x.mp4",
+      "video-viewer-aperture-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/viewer-dynamic-island/large_2x.mp4",
+      "video-viewer-dynamic-island-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/viewer-dynamic-island/small_2x.mp4",
+      "video-viewer-dynamic-island-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/camera-system/large_2x.mp4",
+      "video-camera-system-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/camera-system/small_2x.mp4",
+      "video-camera-system-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/8x-zoom/large_2x.mp4",
+      "video-8x-zoom-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/8x-zoom/small_2x.mp4",
+      "video-8x-zoom-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/pro-video/large_2x.mp4",
+      "video-pro-video-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/pro-video/small_2x.mp4",
+      "video-pro-video-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/4k-timelapse/large_2x.mp4",
+      "video-4k-timelapse-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/4k-timelapse/small_2x.mp4",
+      "video-4k-timelapse-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/battery/large_2x.mp4",
+      "video-battery-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/battery/small_2x.mp4",
+      "video-battery-small.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/performance/large_2x.mp4",
+      "video-performance-large.mp4"
+    ],
+    [
+      "https://www.apple.com/105/media/us/iphone-18-pro/2026/591df885-5ee2-4173-86e6-401021249f7c/anim/performance/small_2x.mp4",
+      "video-performance-small.mp4"
+    ]
+  ],
+  "failures": [
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_semibold.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_semibold.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_regular.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_medium.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_medium.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Display/v3/sf-pro-display_medium.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_semibold.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular-italic.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Icons/v3/sf-pro-icons_light.woff2",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_light.woff2",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

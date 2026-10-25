@@ -1,0 +1,216 @@
+{
+  "source": [
+    {
+      "height": 704,
+      "id": "",
+      "key": "section-media-hero",
+      "top": 140
+    },
+    {
+      "height": 838,
+      "id": "highlights",
+      "key": "section-highlights",
+      "top": 844
+    },
+    {
+      "height": 1359.5125732421875,
+      "id": "",
+      "key": "section-aio",
+      "top": 1682
+    },
+    {
+      "height": 1027,
+      "id": "design",
+      "key": "section-product-viewer",
+      "top": 3041.51171875
+    },
+    {
+      "height": 3471.824951171875,
+      "id": "cameras",
+      "key": "section-pro-camera",
+      "top": 4068.51171875
+    },
+    {
+      "height": 1472.5875244140625,
+      "id": "pro-video",
+      "key": "section-pro-video",
+      "top": 7540.3359375
+    },
+    {
+      "height": 1665.9500732421875,
+      "id": "battery",
+      "key": "section-battery",
+      "top": 9012.9248046875
+    },
+    {
+      "height": 2249.60009765625,
+      "id": "performance",
+      "key": "section-performance",
+      "top": 10678.8740234375
+    },
+    {
+      "height": 1332.5999755859375,
+      "id": "upgrader",
+      "key": "section-upgrader",
+      "top": 12928.474609375
+    },
+    {
+      "height": 941.0625,
+      "id": "shared-features",
+      "key": "section-intro",
+      "top": 14261.07421875
+    },
+    {
+      "height": 1017.7999877929688,
+      "id": "",
+      "key": "section-siri-ai",
+      "top": 15202.13671875
+    },
+    {
+      "height": 972,
+      "id": "",
+      "key": "section-ios-apple-intelligence",
+      "top": 16219.9365234375
+    },
+    {
+      "height": 859,
+      "id": "",
+      "key": "section-connectivity",
+      "top": 17191.93701171875
+    },
+    {
+      "height": 691.6875,
+      "id": "accessories",
+      "key": "section-accessories",
+      "top": 18050.93701171875
+    },
+    {
+      "height": 754,
+      "id": "",
+      "key": "section-incentive",
+      "top": 18742.62451171875
+    },
+    {
+      "height": 2189.78759765625,
+      "id": "",
+      "key": "section-contrast",
+      "top": 19496.62451171875
+    },
+    {
+      "height": 524.6000366210938,
+      "id": "",
+      "key": "section-environment",
+      "top": 21686.412109375
+    },
+    {
+      "height": 524.7999877929688,
+      "id": "",
+      "key": "section-values",
+      "top": 22211.011962890625
+    },
+    {
+      "height": 1224,
+      "id": "",
+      "key": "section-index",
+      "top": 22735.812133789062
+    }
+  ],
+  "local": [
+    {
+      "height": 704,
+      "id": "",
+      "key": "hero",
+      "top": 140
+    },
+    {
+      "height": 812.9874877929688,
+      "id": "highlights",
+      "key": "highlights alt",
+      "top": 844
+    },
+    {
+      "height": 1436.9375,
+      "id": "",
+      "key": "upgrade-intro",
+      "top": 1656.98828125
+    },
+    {
+      "height": 1163.800048828125,
+      "id": "design",
+      "key": "design alt",
+      "top": 3093.92578125
+    },
+    {
+      "height": 4383.27490234375,
+      "id": "cameras",
+      "key": "camera-section",
+      "top": 4257.724609375
+    },
+    {
+      "height": 1716.4749755859375,
+      "id": "pro-video",
+      "key": "",
+      "top": 8641
+    },
+    {
+      "height": 3137.400146484375,
+      "id": "battery",
+      "key": "",
+      "top": 10357.474609375
+    },
+    {
+      "height": 2532.85009765625,
+      "id": "performance",
+      "key": "",
+      "top": 13494.875
+    },
+    {
+      "height": 1608.5,
+      "id": "upgrader",
+      "key": "upgrader container alt",
+      "top": 16117.7255859375
+    },
+    {
+      "height": 4200.03759765625,
+      "id": "shared-features",
+      "key": "family alt",
+      "top": 17816.2255859375
+    },
+    {
+      "height": 1022.7875366210938,
+      "id": "accessories",
+      "key": "",
+      "top": 22016.2626953125
+    },
+    {
+      "height": 651.9874877929688,
+      "id": "",
+      "key": "",
+      "top": 23039.05029296875
+    },
+    {
+      "height": 2405.949951171875,
+      "id": "",
+      "key": "explore-iphone",
+      "top": 23691.037841796875
+    },
+    {
+      "height": 662.7999877929688,
+      "id": "",
+      "key": "",
+      "top": 26096.987915039062
+    },
+    {
+      "height": 606.5,
+      "id": "",
+      "key": "",
+      "top": 26759.78790283203
+    },
+    {
+      "height": 1260.3375244140625,
+      "id": "",
+      "key": "iphone-index container",
+      "top": 27366.287872314453
+    }
+  ]
+}
