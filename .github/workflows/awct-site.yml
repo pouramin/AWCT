@@ -1,0 +1,52 @@
+name: Publish AWCT research website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - index.html
+      - .nojekyll
+      - .github/workflows/awct-site.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: awct-pages
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout only the research website
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            index.html
+            .nojekyll
+          sparse-checkout-cone-mode: false
+
+      - name: Assemble static website only
+        run: |
+          mkdir -p _site
+          cp index.html _site/index.html
+          touch _site/.nojekyll
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload only AWCT website files
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
