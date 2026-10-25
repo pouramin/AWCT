@@ -31,7 +31,7 @@ export default config;
             if fp.is_file() and fp.suffix.lower() in (".tsx",".ts",".js",".jsx",".css",".json"):
                 text=fp.read_text(encoding="utf-8")
                 # Only assets, not outbound Apple/Nike URLs or source citations.
-                updated=text.replace("/sites/",prefix+"/sites/")
+                updated=re.sub(r"(?<!components)/sites/",prefix+"/sites/",text)
                 # Public static non-site assets.
                 updated=updated.replace('"/images/', '"'+prefix+'/images/').replace("'/images/","'"+prefix+"/images/")
                 if updated!=text:fp.write_text(updated,encoding="utf-8")
