@@ -10,7 +10,7 @@ Bilingual English/Persian static research hub added as `index.html` to the repos
 
 The research hub is plain HTML/CSS/JS; no build process, server, npm install or credentials are required. For the intended `pouramin.dev/AWCT/` path, the host must actually route that path to this static site. A GitHub repository alone does not configure a separate Cloudflare domain's URL path.
 
-For GitHub Pages hosting of this **project repository**, configure Settings → Pages → Deploy from branch → `main` / `/(root)` (or integrate it with an existing Pages deployment). Verify whether `pouramin.dev` is managed by GitHub Pages or Cloudflare before changing custom-domain settings. **Do not** add a `CNAME` claiming the domain without validating that it is appropriate.
+The repository includes `.github/workflows/awct-site.yml`. To activate deployment, go to **Settings → Pages → Build and deployment → Source → GitHub Actions**. Then open **Actions → Publish AWCT research website → Run workflow**. The workflow uploads only `index.html` and `.nojekyll`, not the copyrighted clone archives. The first run on October 25, 2026 failed at Configure Pages because GitHub Pages had not been enabled. Verify whether `pouramin.dev` is routed through GitHub Pages or Cloudflare before changing custom-domain settings. **Do not** add a `CNAME` claiming the domain without confirming the existing setup.
 
 The site reads prompt markdown from the existing versioned files and uses existing research screenshots. No imaginary visual similarity percentages are presented. Claude's raw screenshots are not individually labeled by tab, so a fake before/after pairing is intentionally avoided.
 
