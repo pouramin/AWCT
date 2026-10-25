@@ -1,11 +1,10 @@
-name: Publish AWCT research website
-
+name: Publish AWCT interactive experiments
 on:
   push:
     branches: [main]
     paths:
       - index.html
-      - .nojekyll
+      - scripts/build-demos.py
       - .github/workflows/awct-site.yml
   workflow_dispatch:
 
@@ -21,28 +20,26 @@ concurrency:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 55
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Checkout only the research website
+      - name: Checkout experiments and assets
         uses: actions/checkout@v4
-        with:
-          sparse-checkout: |
-            index.html
-            .nojekyll
-          sparse-checkout-cone-mode: false
 
-      - name: Assemble static website only
-        run: |
-          mkdir -p _site
-          cp index.html _site/index.html
-          touch _site/.nojekyll
+      - name: Install Node.js 24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Build the four live static demos
+        run: python3 scripts/build-demos.py
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload only AWCT website files
+      - name: Upload static hub and four demos
         uses: actions/upload-pages-artifact@v4
         with:
           path: _site
